@@ -22,7 +22,7 @@ def runSeason():
     rankings = teams.sort_values(by= 'elo', ascending=False)
     rankings.reset_index(drop = True, inplace = True)
     rankings.index += 1 
-    rankings.to_csv('Elo Ratings.csv')
+    rankings.to_csv('results/Elo Ratings.csv')
         
 def update_elo(winner_elo, loser_elo, winner_rpi, loser_rpi):
     expected_win = expected_result(winner_elo, loser_elo)
