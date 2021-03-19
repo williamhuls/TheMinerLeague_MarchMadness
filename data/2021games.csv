@@ -1,0 +1,4202 @@
+﻿date,win_team,win_score,lose_team,lose_score
+2020-11-25,Abilene Chr,70,ETSU,47
+2020-11-25,Mt St Mary's,62,Morgan St,55
+2020-11-25,Navy,78,G Washington,71
+2020-11-25,Xavier,101,Oakland,49
+2020-11-25,Kennesaw,87,Carver Bib,40
+2020-11-25,W Carolina,98,UNC Wilmington,76
+2020-11-25,Houston,89,Lamar,45
+2020-11-25,Alabama,81,Jacksonville St,57
+2020-11-25,Arkansas,142,MS Valley St,62
+2020-11-25,Bradley,61,Toledo,59
+2020-11-25,Butler,66,W Michigan,62
+2020-11-25,Georgia St,123,Georgia Tech,120
+2020-11-25,Indiana,89,Tennessee Tech,59
+2020-11-25,Drake,80,Kansas St,70
+2020-11-25,Marquette,99,Ark Pine Bluff,57
+2020-11-25,Maryland,85,Old Dominion,67
+2020-11-25,Missouri,91,Oral Roberts,64
+2020-11-25,North Carolina,79,Col Charleston,60
+2020-11-25,IL Chicago,65,N Illinois,61
+2020-11-25,Providence,97,Fairfield,56
+2020-11-25,Appalachian St,81,S Carolina St,61
+2020-11-25,TCU,69,Houston Bap,45
+2020-11-25,Texas,91,UTRGV,55
+2020-11-25,Texas Tech,101,Northwestern LA,58
+2020-11-25,UAB,99,Alcorn St,50
+2020-11-25,USC,95,Cal Baptist,87
+2020-11-25,Oklahoma St,75,UT Arlington,68
+2020-11-25,Virginia Tech,77,Radford,62
+2020-11-25,Weber St,88,Adams St,60
+2020-11-25,Wisconsin,77,E Illinois,67
+2020-11-25,Pacific,66,UC Riverside,60
+2020-11-25,Santa Clara,62,Idaho St,49
+2020-11-25,Kentucky,81,Morehead St,45
+2020-11-25,Purdue,77,Liberty,64
+2020-11-25,Villanova,76,Boston College,67
+2020-11-25,FL Gulf Coast,65,Florida A&M,56
+2020-11-25,Clemson,53,Mississippi St,42
+2020-11-25,Austin Peay,72,NE Omaha,66
+2020-11-25,Memphis,73,St Mary's CA,56
+2020-11-25,CS Sacramento,101,Bethesda,57
+2020-11-25,Elon,82,NC Wesleyan,52
+2020-11-25,Connecticut,102,Central Conn,75
+2020-11-25,Davidson,82,High Point,73
+2020-11-25,South Alabama,68,FL Atlantic,66
+2020-11-25,Grand Canyon,69,Grambling,53
+2020-11-25,Missouri KC,105,Culver-Stockton,35
+2020-11-25,Illinois,122,NC A&T,60
+2020-11-25,PFW,67,SE Louisiana,63
+2020-11-25,Iowa,97,NC Central,67
+2020-11-25,Mercer,79,North Georgia,48
+2020-11-25,Montana St,91,UNLV,78
+2020-11-25,Texas St,98,M Hardin-Baylor,59
+2020-11-25,Washington St,56,TX Southern,52
+2020-11-25,Wake Forest,111,Delaware St,51
+2020-11-25,Pepperdine,86,UC Irvine,72
+2020-11-25,San Diego St,73,UCLA,58
+2020-11-25,Loy Marymount,85,Southern Utah,83
+2020-11-25,NC State,95,Charleston So,61
+2020-11-25,CS Northridge,97,Westmont,79
+2020-11-25,S Wesleyan,82,SC Upstate,72
+2020-11-25,Nicholls St,101,UC Davis,93
+2020-11-25,Furman,95,Tusculum,62
+2020-11-25,Tarleton St,103,Dallas Chr,48
+2020-11-25,Citadel,89,Piedmont,64
+2020-11-25,Colorado,84,South Dakota,61
+2020-11-25,Michigan St,83,E Michigan,67
+2020-11-25,Louisville,79,Evansville,44
+2020-11-25,Quinnipiac,84,F Dickinson,66
+2020-11-25,Georgetown,70,UMBC,62
+2020-11-25,Ga Southern,97,Florida National,65
+2020-11-25,TAM C. Christi,64,Texas A&M Intl,53
+2020-11-25,Ohio St,94,Illinois St,67
+2020-11-25,Ark Little Rock,71,Prairie View,66
+2020-11-25,Miami OH,81,North Dakota,67
+2020-11-25,Michigan,96,Bowling Green,82
+2020-11-25,Minnesota,99,WI Green Bay,69
+2020-11-25,N Kentucky,74,Ball St,73
+2020-11-25,North Alabama,98,Oakwood,74
+2020-11-25,WKU,93,Northern Iowa,87
+2020-11-25,St Francis PA,80,Pittsburgh,70
+2020-11-25,St John's,76,St Peter's,75
+2020-11-25,St Louis,89,SIUE,52
+2020-11-25,SMU,97,Sam Houston St,67
+2020-11-25,UTEP,100,Permian Basin,81
+2020-11-25,VMI,90,St Andrew's,63
+2020-11-25,Nebraska,102,McNeese St,55
+2020-11-25,South Florida,94,Florida Col,84
+2020-11-25,James Madison,89,Limestone,55
+2020-11-25,New Hampshire,93,Keene St,54
+2020-11-25,Virginia,89,Towson,54
+2020-11-25,Nevada,62,N Dakota St,48
+2020-11-25,MA Lowell,76,San Francisco,68
+2020-11-25,E Kentucky,80,North Florida,67
+2020-11-25,Fresno St,87,Wm Jessup,47
+2020-11-25,Wofford,88,Toccoa Falls,49
+2020-11-25,Ohio,84,Chicago St,61
+2020-11-25,Jacksonville,99,Coastal GA,57
+2020-11-25,Arizona St,94,Rhode Island,88
+2020-11-25,West Virginia,79,S Dakota St,71
+2020-11-25,BYU,108,Westminster UT,59
+2020-11-25,VCU,85,Utah St,69
+2020-11-25,Oregon St,71,California,63
+2020-11-25,Army,93,Merchant Marine,32
+2020-11-25,Florida Intl,85,Flagler,81
+2020-11-25,Rutgers,86,Sacred Heart,63
+2020-11-25,Chattanooga,99,Lander,63
+2020-11-25,Seattle,84,Portland,72
+2020-11-26,Xavier,51,Bradley,50
+2020-11-26,Toledo,80,Oakland,53
+2020-11-26,St John's,82,La Salle,65
+2020-11-26,Auburn,96,St Joseph's PA,91
+2020-11-26,Belmont,95,Howard,78
+2020-11-26,Gonzaga,102,Kansas,90
+2020-11-26,BYU,86,New Orleans,61
+2020-11-26,Ohio,84,NC A&T,72
+2020-11-26,NC Central,85,Southern Univ,78
+2020-11-26,LSU,94,SIUE,81
+2020-11-26,North Texas,116,MS Valley St,62
+2020-11-26,NE Omaha,60,MTSU,59
+2020-11-26,Illinois,97,Chicago St,38
+2020-11-26,Nevada,69,Nebraska,66
+2020-11-26,Austin Peay,67,ETSU,66
+2020-11-26,San Francisco,79,Towson,68
+2020-11-26,WKU,75,Memphis,69
+2020-11-26,George Mason,66,Queens NC,65
+2020-11-26,St Mary's CA,66,Northern Iowa,64
+2020-11-26,Liberty,84,Mississippi St,73
+2020-11-26,Boston College,69,Rhode Island,64
+2020-11-26,Clemson,81,Purdue,70
+2020-11-26,Villanova,83,Arizona St,74
+2020-11-26,West Virginia,78,VCU,66
+2020-11-26,S Dakota St,83,Utah St,59
+2020-11-26,Utah Valley,100,Adams St,75
+2020-11-26,California,86,Northwest WA,61
+2020-11-27,Xavier,76,Toledo,73
+2020-11-27,Troy,66,W Carolina,64
+2020-11-27,Belmont,77,George Mason,67
+2020-11-27,UNC Wilmington,76,UNC Asheville,68
+2020-11-27,Mercer,83,Georgia Tech,73
+2020-11-27,Jacksonville St,60,FL Atlantic,50
+2020-11-27,Norfolk St,83,James Madison,73
+2020-11-27,Louisiana Tech,76,UT Arlington,71
+2020-11-27,Louisville,71,Seton Hall,70
+2020-11-27,Marquette,75,E Illinois,50
+2020-11-27,Bradley,74,Oakland,60
+2020-11-27,Texas Tech,84,Sam Houston St,52
+2020-11-27,Nicholls St,70,Idaho St,51
+2020-11-27,Colorado,76,Kansas St,58
+2020-11-27,Richmond,82,Morehead St,64
+2020-11-27,Gonzaga,90,Auburn,67
+2020-11-27,Kansas,94,St Joseph's PA,72
+2020-11-27,Connecticut,69,Hartford,57
+2020-11-27,Georgia St,105,Toccoa Falls,60
+2020-11-27,Iowa,103,Southern Univ,76
+2020-11-27,South Alabama,95,Mobile,75
+2020-11-27,Tulane,66,Lamar,57
+2020-11-27,Wake Forest,71,Longwood,60
+2020-11-27,San Diego St,77,UC Irvine,58
+2020-11-27,UCLA,107,Pepperdine,98
+2020-11-27,E Kentucky,60,Charleston So,50
+2020-11-27,Appalachian St,105,Carver Bib,23
+2020-11-27,Santa Clara,66,UC Davis,63
+2020-11-27,Seattle,77,Wm Jessup,53
+2020-11-27,Drake,69,South Dakota,53
+2020-11-27,Prairie View,64,Evansville,61
+2020-11-27,Florida Intl,82,Flagler,75
+2020-11-27,Arizona,74,Grambling,55
+2020-11-27,Wisconsin,92,Ark Pine Bluff,58
+2020-11-27,Rice,68,Incarnate Word,53
+2020-11-27,Houston,68,Boise St,58
+2020-11-27,Illinois,77,Ohio,75
+2020-11-27,St Peter's,62,La Salle,51
+2020-11-27,Maryland,82,Navy,52
+2020-11-27,Vanderbilt,77,Valparaiso,71
+2020-11-27,Cal Poly,100,Bethesda,46
+2020-11-27,Oregon St,114,Northwest WA,42
+2020-11-27,Syracuse,85,Bryant,84
+2020-11-27,UT San Antonio,97,Permian Basin,71
+2020-11-27,Rutgers,96,F Dickinson,75
+2020-11-27,ETSU,57,MTSU,43
+2020-11-27,San Francisco,61,Virginia,60
+2020-11-27,Abilene Chr,80,Austin Peay,72
+2020-11-27,East Carolina,66,Charlotte,57
+2020-11-27,NC A&T,74,Chicago St,44
+2020-11-27,NC State,86,North Florida,51
+2020-11-27,UNC Greensboro,77,Ark Little Rock,70
+2020-11-27,Buffalo,74,Towson,65
+2020-11-27,Queens NC,85,Howard,71
+2020-11-27,West Virginia,70,WKU,64
+2020-11-27,Army,79,Central Conn,57
+2020-11-27,Utah St,82,Northern Iowa,71
+2020-11-27,Missouri KC,138,Greenville,97
+2020-11-27,St Mary's CA,72,S Dakota St,59
+2020-11-27,VCU,70,Memphis,59
+2020-11-27,Marshall,70,Arkansas St,56
+2020-11-28,Col Charleston,99,Limestone,59
+2020-11-28,UNC Wilmington,73,Troy,50
+2020-11-28,George Mason,84,Howard,70
+2020-11-28,W Carolina,83,UNC Asheville,81
+2020-11-28,Arkansas,69,North Texas,54
+2020-11-28,BYU,82,Utah Valley,60
+2020-11-28,Duke,81,Coppin St,71
+2020-11-28,Kennesaw,106,Toccoa Falls,44
+2020-11-28,Michigan St,80,Notre Dame,70
+2020-11-28,Navy,73,Mt St Mary's,67
+2020-11-28,Old Dominion,86,William & Mary,78
+2020-11-28,Norfolk St,57,Radford,54
+2020-11-28,Rhode Island,84,South Florida,68
+2020-11-28,Texas St,75,TAM C. Christi,63
+2020-11-28,UAB,84,SE Louisiana,59
+2020-11-28,UC Davis,70,Idaho St,61
+2020-11-28,UTRGV,81,UT San Antonio,64
+2020-11-28,Wofford,111,Carver Bib,37
+2020-11-28,TCU,70,Tulsa,65
+2020-11-28,Elon,76,High Point,75
+2020-11-28,Coastal Car,117,NC Wesleyan,68
+2020-11-28,UT Arlington,80,Northwestern LA,71
+2020-11-28,Furman,91,SC Upstate,63
+2020-11-28,Air Force,66,CS Northridge,61
+2020-11-28,Denver,82,Regis CO,66
+2020-11-28,Pittsburgh,83,Drexel,74
+2020-11-28,Washington St,71,E Washington,68
+2020-11-28,FL Atlantic,83,Mobile,41
+2020-11-28,Ga Southern,91,Coastal GA,79
+2020-11-28,Lipscomb,76,Lamar,73
+2020-11-28,Oral Roberts,93,Rogers St,63
+2020-11-28,Liberty,78,South Carolina,62
+2020-11-28,UMBC,80,St Francis PA,65
+2020-11-28,Wyoming,97,MS Valley St,61
+2020-11-28,Santa Clara,73,Nicholls St,57
+2020-11-28,Oklahoma St,85,TX Southern,65
+2020-11-28,Penn St,86,VMI,65
+2020-11-28,Rice,103,Our Lady Lake,64
+2020-11-28,Southern Utah,95,St Katherine,47
+2020-11-28,Illinois St,82,MA Lowell,72
+2020-11-28,Minnesota,88,Loy Marymount,73
+2020-11-28,Nebraska,79,N Dakota St,57
+2020-11-28,Bowling Green,101,S Carolina St,78
+2020-11-28,St Louis,85,LSU,81
+2020-11-28,Army,78,Buffalo,74
+2020-11-28,Abilene Chr,70,NE Omaha,58
+2020-11-28,Belmont,73,Queens NC,61
+2020-11-28,Jacksonville,66,Southern Miss,51
+2020-11-28,SIUE,80,St Louis Pharm,45
+2020-11-28,Portland,83,Wm Jessup,73
+2020-11-28,USC,76,Montana,62
+2020-11-28,IL Chicago,74,C Michigan,72
+2020-11-28,Baylor,112,Louisiana,82
+2020-11-28,Grand Canyon,94,Benedictine AZ,63
+2020-11-28,Virginia Tech,81,Villanova,73
+2020-11-28,SE Missouri St,71,Missouri KC,66
+2020-11-28,UC Irvine,135,Bethesda,55
+2020-11-29,Richmond,76,Kentucky,64
+2020-11-29,Iowa St,80,Ark Pine Bluff,63
+2020-11-29,James Madison,67,Radford,59
+2020-11-29,Louisiana Tech,91,Northwestern LA,77
+2020-11-29,Louisville,86,Prairie View,64
+2020-11-29,Maryland,79,Mt St Mary's,61
+2020-11-29,Jacksonville St,77,South Alabama,73
+2020-11-29,Virginia Tech,76,South Florida,58
+2020-11-29,Houston,64,Texas Tech,53
+2020-11-29,Miami FL,77,North Florida,59
+2020-11-29,Boise St,86,Sam Houston St,55
+2020-11-29,Seattle,63,Air Force,45
+2020-11-29,UC Santa Barbara,92,St Katherine,55
+2020-11-29,Incarnate Word,84,Our Lady Lake,71
+2020-11-29,Rutgers,70,Hofstra,56
+2020-11-29,Tulane,68,Lipscomb,66
+2020-11-29,Ohio St,74,MA Lowell,64
+2020-11-29,Michigan,81,Oakland,71
+2020-11-29,Texas A&M,82,New Orleans,53
+2020-11-29,Georgia,85,Florida A&M,75
+2020-11-29,Rhode Island,84,San Francisco,71
+2020-11-29,Alabama A&M,78,Samford,76
+2020-11-29,Portland,74,Northwest WA,69
+2020-11-29,Arizona St,100,Houston Bap,77
+2020-11-29,Creighton,69,N Dakota St,58
+2020-11-29,Baylor,86,Washington,52
+2020-11-29,Morehead St,69,Arkansas St,61
+2020-11-29,Murray St,173,Greenville,95
+2020-11-29,New Mexico St,83,Arizona Chr,77
+2020-11-29,South Carolina,69,Tulsa,58
+2020-11-29,TCU,56,Liberty,52
+2020-11-30,Texas,78,Davidson,76
+2020-11-30,Indiana,79,Providence,58
+2020-11-30,Bowling Green,78,Appalachian St,76
+2020-11-30,St John's,97,Boston College,93
+2020-11-30,Jacksonville St,85,Mobile,66
+2020-11-30,Mercer,86,Georgia St,69
+2020-11-30,Mississippi St,68,Texas St,51
+2020-11-30,Chattanooga,62,Tennessee Tech,54
+2020-11-30,Xavier,99,E Kentucky,96
+2020-11-30,North Carolina,78,UNLV,51
+2020-11-30,Kansas St,62,Missouri KC,58
+2020-11-30,Stanford,82,Alabama,64
+2020-11-30,Nevada,70,Pacific,58
+2020-11-30,CS Northridge,76,Seattle,65
+2020-11-30,California,60,Nicholls St,49
+2020-11-30,Ark Little Rock,76,Duquesne,66
+2020-11-30,SMU,91,TAM C. Christi,54
+2020-11-30,TX Southern,76,Wyoming,74
+2020-11-30,W Carolina,96,Piedmont,58
+2020-11-30,UCF,63,Auburn,55
+2020-11-30,Minnesota,67,Loy Marymount,64
+2020-11-30,LSU,96,SE Louisiana,43
+2020-11-30,Campbell,85,St Andrew's,51
+2020-11-30,Seton Hall,86,Iona,64
+2020-11-30,Hofstra,73,F Dickinson,58
+2020-11-30,Emmanuel GA,64,Stetson,61
+2020-12-01,Kansas,65,Kentucky,62
+2020-12-01,Louisville,75,WKU,54
+2020-12-01,Oklahoma St,70,Marquette,62
+2020-12-01,Michigan St,75,Duke,69
+2020-12-01,Toledo,70,Cleveland St,61
+2020-12-01,Morgan St,102,Lincoln PA,94
+2020-12-01,Bradley,105,Judson IL,32
+2020-12-01,Creighton,94,NE Omaha,67
+2020-12-01,USC,79,BYU,53
+2020-12-01,Abilene Chr,81,Howard Payne,51
+2020-12-01,Grand Canyon,88,MS Valley St,49
+2020-12-01,NC A&T,70,Charleston So,63
+2020-12-01,Virginia,76,St Francis PA,51
+2020-12-01,Florida Intl,96,C Michigan,76
+2020-12-01,Hampton,82,G Washington,78
+2020-12-01,Navy,78,Georgetown,71
+2020-12-01,Purdue,93,Oakland,50
+2020-12-01,Nebraska,76,South Dakota,69
+2020-12-01,Wisconsin,82,WI Green Bay,42
+2020-12-01,St Mary's CA,73,Nicholls St,50
+2020-12-01,IL Chicago,66,Valparaiso,50
+2020-12-01,Villanova,87,Hartford,53
+2020-12-01,VMI,84,Longwood,71
+2020-12-01,Texas,66,Indiana,44
+2020-12-01,North Carolina,67,Stanford,63
+2020-12-01,UC Riverside,57,Washington,42
+2020-12-01,Bryant,93,New Hampshire,85
+2020-12-01,East Carolina,91,NC Wesleyan,62
+2020-12-01,St Peter's,82,Stony Brook,68
+2020-12-01,Providence,63,Davidson,62
+2020-12-01,Dayton,66,E Illinois,63
+2020-12-01,SF Austin,102,Le Tourneau,57
+2020-12-01,Alabama,86,UNLV,74
+2020-12-01,Winthrop,75,UNC Greensboro,67
+2020-12-01,New Mexico St,92,Benedictine AZ,54
+2020-12-01,Samford,98,Covenant,73
+2020-12-01,South Alabama,86,Emmanuel GA,47
+2020-12-02,Arkansas,72,UT Arlington,60
+2020-12-02,S Dakota St,71,Iowa St,68
+2020-12-02,Memphis,83,Arkansas St,54
+2020-12-02,MTSU,78,Murray St,61
+2020-12-02,Old Dominion,80,Norfolk St,66
+2020-12-02,SIUE,73,N Illinois,53
+2020-12-02,Ohio St,77,Morehead St,44
+2020-12-02,Rhode Island,76,Seton Hall,63
+2020-12-02,S Illinois,87,SE Missouri St,79
+2020-12-02,Texas A&M,73,Tarleton St,66
+2020-12-02,UAB,73,Kennesaw,48
+2020-12-02,UTRGV,62,TAM C. Christi,59
+2020-12-02,Washington St,59,Oregon St,55
+2020-12-02,Wichita St,85,Oral Roberts,80
+2020-12-02,Xavier,79,Tennessee Tech,48
+2020-12-02,Pacific,74,Montana St,70
+2020-12-02,E Kentucky,95,SC Upstate,78
+2020-12-02,Clemson,75,S Carolina St,38
+2020-12-02,TN Martin,93,Evansville,87
+2020-12-02,Florida St,86,North Florida,58
+2020-12-02,Southern Miss,80,Wm Carey,53
+2020-12-02,Furman,89,S Wesleyan,49
+2020-12-02,Cincinnati,67,Lipscomb,55
+2020-12-02,Duquesne,81,UNC Greensboro,68
+2020-12-02,Hartford,66,Fairfield,61
+2020-12-02,Northwestern,92,Ark Pine Bluff,49
+2020-12-02,SMU,102,Houston Bap,75
+2020-12-02,Utah Valley,79,Westminster UT,71
+2020-12-02,Baylor,82,Illinois,69
+2020-12-02,Michigan,84,Ball St,65
+2020-12-02,Wyoming,94,Incarnate Word,83
+2020-12-02,San Francisco,85,Nevada,60
+2020-12-02,Penn St,72,VCU,69
+2020-12-02,Drexel,66,Quinnipiac,48
+2020-12-02,Jacksonville,78,Presbyterian,65
+2020-12-02,Gonzaga,87,West Virginia,82
+2020-12-02,McNeese St,140,Dallas Chr,37
+2020-12-02,Louisiana,66,New Orleans,63
+2020-12-02,Dixie St,74,North Dakota,73
+2020-12-02,SE Louisiana,81,Cal Baptist,80
+2020-12-02,San Diego St,83,St Katherine,41
+2020-12-02,Santa Clara,53,CS Bakersfield,47
+2020-12-02,Florida,76,Army,69
+2020-12-02,South Florida,76,FL Gulf Coast,57
+2020-12-02,BYU,74,St John's,68
+2020-12-02,Illinois St,177,Greenville,108
+2020-12-02,Missouri,83,Oregon,75
+2020-12-02,Indiana,79,Stanford,63
+2020-12-02,Texas,69,North Carolina,67
+2020-12-02,Alabama,88,Providence,71
+2020-12-02,UC Irvine,104,La Sierra,54
+2020-12-02,Davidson,77,UNLV,73
+2020-12-02,Georgia,84,North Georgia,62
+2020-12-02,Flagler,92,C Michigan,73
+2020-12-02,Kent,90,Point Park,41
+2020-12-03,Arizona St,70,California,62
+2020-12-03,Louisiana Tech,78,ULM,62
+2020-12-03,N Kentucky,74,Tennessee Tech,65
+2020-12-03,UCLA,78,Seattle,52
+2020-12-03,Utah,76,Washington,62
+2020-12-03,E Illinois,78,Chicago St,56
+2020-12-03,TCU,74,Northwestern LA,68
+2020-12-03,Citadel,78,NC A&T,70
+2020-12-03,Grambling,68,E Texas Bap,59
+2020-12-03,Iowa,99,W Illinois,58
+2020-12-03,Liberty,78,St Francis PA,62
+2020-12-03,Southern Utah,64,Montana,63
+2020-12-03,CS Sacramento,77,Idaho,55
+2020-12-03,Drake,87,NE Omaha,66
+2020-12-03,FL Atlantic,128,Florida National,64
+2020-12-03,Kansas,89,Washburn,54
+2020-12-03,Rice,94,Le Tourneau,74
+2020-12-03,Virginia Tech,64,VMI,57
+2020-12-03,Syracuse,75,Niagara,45
+2020-12-03,St Mary's CA,82,TX Southern,70
+2020-12-03,Coastal Car,113,Columbia Intl,56
+2020-12-03,Connecticut,61,USC,58
+2020-12-03,Florida,90,Boston College,70
+2020-12-03,NC State,90,MA Lowell,59
+2020-12-03,Bowling Green,88,Purdue Northwest,67
+2020-12-03,Oklahoma,105,UT San Antonio,66
+2020-12-03,Pepperdine,94,St Katherine,45
+2020-12-03,Drexel,70,Quinnipiac,58
+2020-12-03,Winthrop,80,Ark Little Rock,75
+2020-12-03,Marshall,80,Wright St,64
+2020-12-03,W Carolina,91,Newberry,84
+2020-12-03,UC Santa Barbara,123,Bethesda,52
+2020-12-04,Creighton,93,Kennesaw,58
+2020-12-04,Duke,76,Bellarmine,54
+2020-12-04,Toledo,91,E Michigan,74
+2020-12-04,Marquette,67,Wisconsin,65
+2020-12-04,Mississippi St,69,North Texas,63
+2020-12-04,Purdue,68,Valparaiso,61
+2020-12-04,Tulsa,79,UT Arlington,64
+2020-12-04,Cal Baptist,83,SE Louisiana,66
+2020-12-04,UTRGV,91,Our Lady Lake,68
+2020-12-04,Arkansas St,115,Crowley's Ridge,49
+2020-12-04,Auburn,90,South Alabama,81
+2020-12-04,Loy Marymount,85,Long Beach St,61
+2020-12-04,Sam Houston St,117,Dallas Chr,42
+2020-12-04,Michigan St,83,Detroit,76
+2020-12-04,Georgia,98,Jacksonville,65
+2020-12-04,Miami FL,82,Stetson,60
+2020-12-04,Georgia St,76,Charlotte,65
+2020-12-04,Florida Intl,74,Jacksonville St,70
+2020-12-04,UT San Antonio,91,Sul Ross,62
+2020-12-04,Minnesota,76,North Dakota,67
+2020-12-04,Stony Brook,72,Fairfield,69
+2020-12-04,Memphis,85,Cent Arkansas,68
+2020-12-04,Northern Iowa,98,St Ambrose,53
+2020-12-04,Oregon,83,Seton Hall,70
+2020-12-04,Hartford,80,Central Conn,65
+2020-12-04,Austin Peay,102,Carver Bib,38
+2020-12-04,SF Austin,86,McNeese St,76
+2020-12-04,S Dakota St,88,Bradley,84
+2020-12-04,UC Davis,95,Wm Jessup,62
+2020-12-04,Texas Tech,80,Troy,46
+2020-12-04,Maryland,90,St Peter's,57
+2020-12-04,Virginia,71,Kent,64
+2020-12-04,San Francisco,88,Cal Poly,60
+2020-12-04,Boise St,86,Col of Idaho,49
+2020-12-05,CS Sacramento,73,Idaho,57
+2020-12-05,Southern Utah,75,Montana,74
+2020-12-05,Texas St,72,Incarnate Word,64
+2020-12-05,UNC Asheville,77,S Carolina St,56
+2020-12-05,Air Force,59,Lamar,44
+2020-12-05,Arkansas,86,Lipscomb,50
+2020-12-05,Samford,96,Belmont,83
+2020-12-05,East Carolina,63,Radford,50
+2020-12-05,Kansas,65,N Dakota St,61
+2020-12-05,UNLV,68,Kansas St,58
+2020-12-05,Northwestern,111,Chicago St,66
+2020-12-05,Oklahoma St,84,Oakland,71
+2020-12-05,Providence,79,F Dickinson,67
+2020-12-05,E Illinois,93,WI Green Bay,91
+2020-12-05,NE Omaha,65,SIUE,63
+2020-12-05,SMU,66,Dayton,64
+2020-12-05,High Point,85,North Florida,74
+2020-12-05,Abilene Chr,69,Tarleton St,48
+2020-12-05,Dixie St,86,St Katherine,48
+2020-12-05,Wright St,71,Miami OH,47
+2020-12-05,Liberty,86,Bluefield VA,64
+2020-12-05,VCU,60,Mt St Mary's,42
+2020-12-05,Citadel,100,Toccoa Falls,58
+2020-12-05,Iona,82,Hofstra,74
+2020-12-05,Rice,86,Houston Bap,64
+2020-12-05,Houston,77,South Carolina,67
+2020-12-05,Ball St,68,IL Chicago,66
+2020-12-05,Marist,68,Binghamton,65
+2020-12-05,BYU,67,Utah St,64
+2020-12-05,St Louis,107,Ark Pine Bluff,54
+2020-12-05,FL Gulf Coast,91,Florida National,74
+2020-12-05,Syracuse,87,Rider,52
+2020-12-05,Portland,86,Portland St,73
+2020-12-05,Pittsburgh,89,N Illinois,59
+2020-12-05,UTEP,84,Sul Ross,65
+2020-12-05,Arizona,70,E Washington,67
+2020-12-05,Ga Southern,72,SC Upstate,69
+2020-12-05,G Washington,85,Coppin St,69
+2020-12-05,Chattanooga,79,N Kentucky,72
+2020-12-05,Mercer,88,Columbia Intl,62
+2020-12-05,Furman,81,Col Charleston,57
+2020-12-05,Robert Morris,75,Point Park,57
+2020-12-05,Murray St,76,Illinois St,65
+2020-12-05,Delaware,79,Salem WV,76
+2020-12-05,Loyola-Chicago,76,Lewis,48
+2020-12-05,Louisiana,84,LSU Shreveport,73
+2020-12-05,Bryant,138,RI College,83
+2020-12-06,Villanova,68,Texas,64
+2020-12-06,Ark Little Rock,86,Cent Arkansas,83
+2020-12-06,Bowling Green,86,Buffalo,78
+2020-12-06,Xavier,77,Cincinnati,69
+2020-12-06,Drexel,69,Coppin St,54
+2020-12-06,West Virginia,80,Georgetown,71
+2020-12-06,Georgia Tech,79,Kentucky,62
+2020-12-06,Long Beach St,80,Seattle,75
+2020-12-06,LSU,86,Louisiana Tech,55
+2020-12-06,Oklahoma,82,TCU,78
+2020-12-06,Texas A&M,81,UTRGV,68
+2020-12-06,Texas Tech,81,Grambling,40
+2020-12-06,UAB,77,Troy,55
+2020-12-06,UCLA,76,California,56
+2020-12-06,W Carolina,76,Tennessee Tech,75
+2020-12-06,Missouri,72,Wichita St,62
+2020-12-06,Florida,86,Stetson,40
+2020-12-06,North Alabama,107,Carver Bib,40
+2020-12-06,Seton Hall,98,Penn St,92
+2020-12-06,UC Riverside,83,Denver,63
+2020-12-06,Michigan,80,UCF,58
+2020-12-06,Bellarmine,84,Howard,63
+2020-12-06,Michigan St,79,W Michigan,61
+2020-12-06,Drake,97,St Ambrose,53
+2020-12-06,Valparaiso,85,Judson IL,45
+2020-12-06,Ohio,101,Cleveland St,46
+2020-12-06,ULM,92,Northwestern LA,83
+2020-12-06,Wyoming,76,Oregon St,73
+2020-12-06,Appalachian St,81,NC Wesleyan,57
+2020-12-06,Marist,64,Binghamton,60
+2020-12-06,C Michigan,79,W Illinois,73
+2020-12-06,Quinnipiac,64,New Hampshire,58
+2020-12-06,St John's,89,Stony Brook,66
+2020-12-06,San Diego St,65,Pepperdine,60
+2020-12-06,Sam Houston St,117,Howard Payne,54
+2020-12-06,S Illinois,102,Quincy,61
+2020-12-06,Army,63,La Salle,59
+2020-12-06,WKU,96,MS Valley St,69
+2020-12-06,Notre Dame,78,Detroit,70
+2020-12-06,Mercer,96,S Wesleyan,85
+2020-12-06,Greensboro,67,Longwood,64
+2020-12-06,SF Austin,97,LSU-Alexandria,79
+2020-12-06,Stanford,78,NC A&T,46
+2020-12-07,E Kentucky,71,Morehead St,68
+2020-12-07,SE Missouri St,82,Lipscomb,77
+2020-12-07,East Carolina,88,UNC Wilmington,78
+2020-12-07,Norfolk St,76,Hampton,64
+2020-12-07,FL Atlantic,79,North Florida,77
+2020-12-07,Citadel,96,Columbia Intl,57
+2020-12-07,Coastal Car,78,NC Central,71
+2020-12-07,Charlotte,78,S Carolina St,40
+2020-12-07,Hartford,67,Fairfield,54
+2020-12-07,CS Bakersfield,94,Bethesda,43
+2020-12-07,Arizona,96,Northern Arizona,53
+2020-12-07,Chattanooga,80,MTSU,70
+2020-12-07,UC Santa Barbara,69,Loy Marymount,58
+2020-12-07,W Michigan,62,Adrian,42
+2020-12-07,Bradley,95,Lewis,62
+2020-12-07,UMBC,92,G Washington,81
+2020-12-07,Richmond,77,Wofford,72
+2020-12-07,Oregon,69,E Washington,52
+2020-12-07,Nevada,86,Wm Jessup,64
+2020-12-08,Illinois,83,Duke,68
+2020-12-08,Georgetown,80,Coppin St,48
+2020-12-08,Iowa,93,North Carolina,80
+2020-12-08,Kansas,73,Creighton,72
+2020-12-08,Marquette,82,WI Green Bay,68
+2020-12-08,Miami FL,58,Purdue,54
+2020-12-08,Minnesota,85,Boston College,80
+2020-12-08,Mississippi St,82,Jackson St,59
+2020-12-08,Murray St,87,Austin Peay,57
+2020-12-08,Ohio St,90,Notre Dame,85
+2020-12-08,Rutgers,79,Syracuse,69
+2020-12-08,St Mary's CA,73,UTEP,61
+2020-12-08,Penn St,75,Virginia Tech,55
+2020-12-08,Utah,75,Idaho St,59
+2020-12-08,Mt St Mary's,75,St Francis PA,57
+2020-12-08,Oklahoma St,83,Oral Roberts,78
+2020-12-08,Seton Hall,78,Wagner,45
+2020-12-08,South Alabama,80,Wm Carey,67
+2020-12-08,Louisiana,90,LSU-Alexandria,75
+2020-12-08,South Florida,73,Stetson,62
+2020-12-08,St Louis,88,Cent Arkansas,65
+2020-12-08,Campbell,80,Jacksonville,78
+2020-12-08,Central Conn,94,F Dickinson,87
+2020-12-08,Georgia,63,Montana,50
+2020-12-08,Memphis,94,MS Valley St,57
+2020-12-08,Bryant,101,St Francis NY,82
+2020-12-08,Longwood,77,NC A&T,60
+2020-12-08,New Orleans,74,Florida National,57
+2020-12-08,Belmont,79,Tennessee St,64
+2020-12-08,USC,91,UC Irvine,56
+2020-12-08,Portland St,88,Northwest WA,48
+2020-12-08,Indiana St,80,Truman St,66
+2020-12-08,St John's,82,Rider,79
+2020-12-08,Kent,80,Detroit,66
+2020-12-08,Morgan St,83,Iona,72
+2020-12-08,Ball St,79,N Illinois,70
+2020-12-08,Tennessee,56,Colorado,47
+2020-12-08,Dayton,66,N Kentucky,60
+2020-12-08,VMI,100,Greensboro,65
+2020-12-08,Fort Hays St,81,Kansas St,68
+2020-12-08,Charleston So,94,Carver Bib,59
+2020-12-08,Weber St,85,Westminster UT,73
+2020-12-08,UMBC,76,Delaware,61
+2020-12-08,La Salle,80,Lincoln PA,62
+2020-12-08,Utah St,90,Col of Idaho,64
+2020-12-09,Chattanooga,77,Bellarmine,68
+2020-12-09,Marshall,84,Col Charleston,72
+2020-12-09,Clemson,67,Maryland,51
+2020-12-09,Evansville,68,E Illinois,65
+2020-12-09,Florida St,69,Indiana,67
+2020-12-09,Hofstra,72,Stony Brook,67
+2020-12-09,Lamar,63,ULM,60
+2020-12-09,Louisiana Tech,78,SE Louisiana,69
+2020-12-09,Loyola-Chicago,88,Chicago St,51
+2020-12-09,Missouri,69,Liberty,60
+2020-12-09,Georgia Tech,75,Nebraska,64
+2020-12-09,Pittsburgh,71,Northwestern,70
+2020-12-09,Texas Tech,51,Abilene Chr,44
+2020-12-09,Valparaiso,80,SIUE,58
+2020-12-09,Washington,73,Seattle,41
+2020-12-09,Xavier,99,Oklahoma,77
+2020-12-09,Providence,79,TCU,70
+2020-12-09,Ark Pine Bluff,75,Arkansas St,74
+2020-12-09,Cincinnati,78,Furman,73
+2020-12-09,Washington St,61,Idaho,58
+2020-12-09,Tulane,58,Southern Miss,38
+2020-12-09,Texas,74,Texas St,53
+2020-12-09,Morehead St,77,Transylvania,55
+2020-12-09,Richmond,78,Northern Iowa,68
+2020-12-09,Pepperdine,74,California,62
+2020-12-09,UCLA,83,San Diego,56
+2020-12-09,Campbell,79,New Orleans,70
+2020-12-09,Citadel,102,Carver Bib,51
+2020-12-09,Wyoming,83,Denver,61
+2020-12-09,Drake,90,McKendree,66
+2020-12-09,E Michigan,95,Adrian,35
+2020-12-09,Arizona,85,CS Bakersfield,60
+2020-12-09,Southern Utah,81,Utah Valley,71
+2020-12-09,Santa Clara,76,Cal Poly,69
+2020-12-09,Boise St,74,BYU,70
+2020-12-09,Jacksonville,78,Florida National,69
+2020-12-09,VCU,95,NC A&T,59
+2020-12-09,UNC Wilmington,116,St Andrew's,66
+2020-12-09,Lipscomb,80,SE Missouri St,74
+2020-12-09,Miami OH,67,W Illinois,57
+2020-12-09,F Dickinson,79,Central Conn,71
+2020-12-09,St Francis NY,93,Bryant,91
+2020-12-09,N Colorado,87,Colorado Chr,62
+2020-12-09,Oregon,87,Florida A&M,66
+2020-12-09,Radford,98,Mars Hill,50
+2020-12-09,Wisconsin,73,Rhode Island,62
+2020-12-09,Arkansas,79,Southern Univ,44
+2020-12-09,Michigan,91,Toledo,71
+2020-12-09,Baylor,83,SF Austin,52
+2020-12-09,Youngstown St,72,Point Park,52
+2020-12-09,San Jose St,87,Fresno Pacific,79
+2020-12-09,UAB,89,Tuskegee,64
+2020-12-09,Tarleton St,84,Arlington Bap,43
+2020-12-10,UTRGV,68,TAM C. Christi,64
+2020-12-10,East Carolina,73,North Florida,67
+2020-12-10,Troy,62,North Alabama,57
+2020-12-10,San Francisco,107,Long Beach St,62
+2020-12-10,UC Riverside,74,Northern Arizona,50
+2020-12-10,Campbell,122,Florida National,92
+2020-12-10,Minnesota,90,Missouri KC,61
+2020-12-10,San Diego St,80,Arizona St,68
+2020-12-10,S Dakota St,77,N Dakota St,75
+2020-12-10,North Dakota,75,South Dakota,71
+2020-12-10,Portland,87,Oregon St,86
+2020-12-10,Jacksonville,77,New Orleans,70
+2020-12-10,Mississippi,80,Jackson St,45
+2020-12-10,W Illinois,80,Mt St Joseph,55
+2020-12-10,Buffalo,81,Mercyhurst,64
+2020-12-10,Morehead St,81,Transylvania,55
+2020-12-10,WKU,86,Gardner Webb,84
+2020-12-10,Ohio,92,Purdue Northwest,72
+2020-12-10,Sam Houston St,107,Le Tourneau,65
+2020-12-10,Cal Baptist,93,St Katherine,47
+2020-12-10,Coppin St,86,UNC Greensboro,80
+2020-12-11,Appalachian St,61,Charlotte,57
+2020-12-11,Col Charleston,90,S Carolina St,63
+2020-12-11,Villanova,76,Georgetown,63
+2020-12-11,UCLA,69,Marquette,60
+2020-12-11,Arkansas St,81,Central Bap,69
+2020-12-11,Kansas,95,NE Omaha,50
+2020-12-11,Grand Canyon,87,Nevada,77
+2020-12-11,Creighton,98,Nebraska,74
+2020-12-11,Davidson,77,Ga Southern,45
+2020-12-11,UT Arlington,91,Hardin-Simmons,66
+2020-12-11,Houston Bap,93,Champion Bap,60
+2020-12-11,Iowa,105,Iowa St,77
+2020-12-11,Rider,82,Manhattan,64
+2020-12-11,St Peter's,70,Niagara,54
+2020-12-11,N Dakota St,74,South Dakota,67
+2020-12-11,S Dakota St,74,North Dakota,62
+2020-12-11,Canisius,81,Marist,72
+2020-12-11,S Illinois,70,Murray St,66
+2020-12-11,Miami OH,79,Mt St Joseph,64
+2020-12-11,Kansas St,76,WI Milwaukee,75
+2020-12-11,TX Southern,103,Le Tourneau,60
+2020-12-11,Delaware,68,G Washington,65
+2020-12-11,Seton Hall,77,St John's,68
+2020-12-11,Iona,70,Fairfield,42
+2020-12-11,Massachusetts,94,Northeastern,79
+2020-12-11,N Colorado,83,Regis CO,58
+2020-12-11,St Mary's CA,96,San Jose St,61
+2020-12-11,E Washington,80,Col of Idaho,56
+2020-12-11,West Virginia,62,North Texas,50
+2020-12-11,Hawaii,83,Hawaii Pacific,50
+2020-12-12,Clemson,64,Alabama,56
+2020-12-12,Arkansas,100,Cent Arkansas,75
+2020-12-12,Bryant,81,Stony Brook,72
+2020-12-12,Dayton,85,Mississippi St,82
+2020-12-12,Dixie St,73,Denver,70
+2020-12-12,UAB,65,ETSU,61
+2020-12-12,Florida St,83,Florida,71
+2020-12-12,Georgia,79,Samford,75
+2020-12-12,Notre Dame,64,Kentucky,63
+2020-12-12,Louisiana,61,Louisiana Tech,56
+2020-12-12,ULM,66,SF Austin,55
+2020-12-12,Oklahoma,85,Florida A&M,54
+2020-12-12,Mississippi,78,UNC Wilmington,58
+2020-12-12,Purdue,80,Indiana St,68
+2020-12-12,Tennessee,65,Cincinnati,56
+2020-12-12,TCU,73,Texas A&M,55
+2020-12-12,Texas Tech,77,TAM C. Christi,57
+2020-12-12,Toledo,64,Missouri KC,57
+2020-12-12,UNC Asheville,80,High Point,67
+2020-12-12,Winthrop,95,SC Upstate,77
+2020-12-12,VCU,77,Old Dominion,54
+2020-12-12,Oregon,74,Washington,71
+2020-12-12,Oklahoma St,67,Wichita St,64
+2020-12-12,E Illinois,92,W Illinois,88
+2020-12-12,Abilene Chr,83,McMurry,46
+2020-12-12,North Florida,80,Florida Intl,77
+2020-12-12,W Carolina,104,NC A&T,98
+2020-12-12,South Alabama,76,Southern Miss,75
+2020-12-12,Syracuse,101,Boston College,63
+2020-12-12,Our Lady Lake,61,Texas St,58
+2020-12-12,Loy Marymount,81,UC Santa Barbara,76
+2020-12-12,Furman,86,Flagler,61
+2020-12-12,BYU,82,Utah,64
+2020-12-12,CS Northridge,89,Pepperdine,84
+2020-12-12,Pittsburgh,67,Gardner Webb,50
+2020-12-12,C Michigan,84,Valparaiso,79
+2020-12-12,Coastal Car,103,Greensboro,45
+2020-12-12,Belmont,81,Lipscomb,71
+2020-12-12,Tulane,67,Ark Pine Bluff,56
+2020-12-12,Wyoming,93,Utah Valley,88
+2020-12-12,Missouri,81,Illinois,78
+2020-12-12,Auburn,74,Memphis,71
+2020-12-12,MTSU,76,Covenant,57
+2020-12-12,N Dakota St,53,North Dakota,52
+2020-12-12,South Dakota,91,S Dakota St,78
+2020-12-12,CS Bakersfield,76,Idaho,66
+2020-12-12,FL Gulf Coast,66,Miami FL,62
+2020-12-12,La Salle,58,Drexel,48
+2020-12-12,Northwestern LA,77,Champion Bap,44
+2020-12-12,E Kentucky,81,Transylvania,60
+2020-12-12,IUPUI,69,Tennessee St,66
+2020-12-12,Chattanooga,81,North Georgia,63
+2020-12-12,Arizona,69,UTEP,61
+2020-12-12,Liberty,73,Columbia Intl,26
+2020-12-12,Detroit,67,W Michigan,57
+2020-12-12,Manhattan,87,Rider,77
+2020-12-12,Marist,56,Canisius,52
+2020-12-12,Ball St,82,Illinois St,66
+2020-12-12,St Peter's,53,Niagara,49
+2020-12-12,McNeese St,96,Carver Bib,53
+2020-12-12,Fairfield,67,Iona,52
+2020-12-12,Colorado St,89,CSU-Pueblo,77
+2020-12-12,South Florida,58,Wofford,56
+2020-12-12,North Carolina,73,NC Central,67
+2020-12-12,Cal Baptist,110,Fresno Pacific,71
+2020-12-12,Akron,97,Cedarville,49
+2020-12-12,Oral Roberts,111,SW Christian,58
+2020-12-12,FL Atlantic,112,FL Memorial,49
+2020-12-12,Montana,102,Yellowstone Chr,42
+2020-12-12,Kennesaw,72,Dalton St,62
+2020-12-12,Idaho St,87,Bethesda,48
+2020-12-13,UMBC,66,Coppin St,49
+2020-12-13,Mercer,77,Ga Southern,75
+2020-12-13,Marshall,81,Ohio,67
+2020-12-13,Jacksonville St,73,Tennessee Tech,67
+2020-12-13,West Virginia,87,Richmond,71
+2020-12-13,Arizona St,71,Grand Canyon,70
+2020-12-13,Indiana,87,North Alabama,52
+2020-12-13,Iowa,106,N Illinois,53
+2020-12-13,Washington St,69,Portland St,60
+2020-12-13,Drake,81,Air Force,53
+2020-12-13,VMI,79,Hampton,64
+2020-12-13,Kent,92,N Kentucky,73
+2020-12-13,Michigan,62,Penn St,58
+2020-12-13,Vanderbilt,84,MS Valley St,41
+2020-12-13,Wright St,85,Bowling Green,67
+2020-12-13,Michigan St,109,Oakland,91
+2020-12-13,Jacksonville,60,S Carolina St,58
+2020-12-13,WKU,68,Rhode Island,65
+2020-12-13,California,72,San Francisco,70
+2020-12-13,Seattle,89,Northwest WA,40
+2020-12-13,Loyola-Chicago,77,IL Chicago,66
+2020-12-13,Ohio St,67,Cleveland St,61
+2020-12-13,WI Milwaukee,71,W Michigan,63
+2020-12-13,Winthrop,107,SC Upstate,77
+2020-12-13,UNC Greensboro,64,Norfolk St,47
+2020-12-13,Cal Poly,73,San Jose St,71
+2020-12-13,Northeastern,78,Massachusetts,75
+2020-12-13,CS Fullerton,94,San Diego Chr,70
+2020-12-13,Georgetown,97,St John's,94
+2020-12-13,Montana St,114,Yellowstone Chr,74
+2020-12-13,Youngstown St,79,Binghamton,65
+2020-12-13,Boise St,70,Weber St,59
+2020-12-13,Troy,61,Central Bap,44
+2020-12-13,UNC Asheville,90,High Point,84
+2020-12-13,New Mexico,72,Rice,61
+2020-12-14,Marquette,89,Creighton,84
+2020-12-14,Morehead St,75,E Kentucky,62
+2020-12-14,Rutgers,74,Maryland,60
+2020-12-14,Nevada,79,San Diego,72
+2020-12-14,McNeese St,110,Arlington Bap,64
+2020-12-14,Mississippi,68,Cent Arkansas,54
+2020-12-14,Radford,67,Longwood,66
+2020-12-14,Austin Peay,82,McKendree,68
+2020-12-14,LSU,88,Sam Houston St,66
+2020-12-14,Presbyterian,85,Carver Bib,46
+2020-12-14,C Michigan,91,St Francis IL,39
+2020-12-14,William & Mary,85,G Washington,84
+2020-12-14,UTRGV,89,Texas A&M Intl,51
+2020-12-14,Colorado St,91,Northern Arizona,52
+2020-12-14,Youngstown St,80,WV Tech,66
+2020-12-14,Colorado,81,N Colorado,45
+2020-12-15,Alabama,83,Furman,80
+2020-12-15,Evansville,66,SE Missouri St,63
+2020-12-15,Illinois St,91,Chicago St,62
+2020-12-15,Kansas St,74,Iowa St,65
+2020-12-15,Louisiana Tech,85,Jackson St,58
+2020-12-15,Radford,62,Longwood,53
+2020-12-15,St Mary's CA,80,E Washington,75
+2020-12-15,Tennessee,79,Appalachian St,38
+2020-12-15,Texas A&M,69,SE Louisiana,52
+2020-12-15,Wofford,88,Coastal Car,77
+2020-12-15,St Louis,78,Indiana St,59
+2020-12-15,Texas St,51,TAM C. Christi,46
+2020-12-15,Southern Miss,66,Lamar,63
+2020-12-15,UNC Greensboro,65,SC Upstate,57
+2020-12-15,Florida St,74,Georgia Tech,61
+2020-12-15,Utah,75,Utah Valley,67
+2020-12-15,Louisiana,73,New Orleans,63
+2020-12-15,Stetson,78,FL Atlantic,69
+2020-12-15,Liberty,82,S Carolina St,52
+2020-12-15,St Francis NY,91,Central Conn,86
+2020-12-15,Virginia Tech,66,Clemson,60
+2020-12-15,Charlotte,63,Davidson,52
+2020-12-15,Ga Southern,92,Carver Bib,27
+2020-12-15,Lipscomb,61,Trevecca Naz,45
+2020-12-15,Rice,90,Houston Bap,79
+2020-12-15,Illinois,92,Minnesota,65
+2020-12-15,Oral Roberts,96,Bacone,65
+2020-12-15,Wichita St,69,Tulsa,65
+2020-12-15,VCU,93,W Carolina,68
+2020-12-15,Auburn,80,TX Southern,63
+2020-12-15,VMI,106,Camp U-Harrodsburg,72
+2020-12-15,North Texas,81,Ark Pine Bluff,56
+2020-12-15,Stony Brook,83,Point Park,39
+2020-12-15,St Bonaventure,81,Akron,74
+2020-12-15,Buffalo,90,Miami OH,62
+2020-12-15,Hofstra,96,Monmouth NJ,88
+2020-12-15,Florida A&M,76,Austin Peay,70
+2020-12-15,Portland,88,Col of Idaho,74
+2020-12-15,Murray St,90,Transylvania,49
+2020-12-15,McNeese St,114,Arlington Bap,50
+2020-12-15,Stanford,82,CS Northridge,71
+2020-12-15,Wisconsin,77,Loyola-Chicago,63
+2020-12-15,ETSU,65,Gardner Webb,60
+2020-12-15,Northwestern,100,Quincy,48
+2020-12-15,New Mexico,104,Our Lady Lake,65
+2020-12-15,Santa Clara,88,Fresno Pacific,65
+2020-12-15,TN Martin,95,Bethel TN,60
+2020-12-16,Belmont,64,Kennesaw,53
+2020-12-16,San Diego,70,Cal Poly,61
+2020-12-16,Chattanooga,69,UNC Asheville,66
+2020-12-16,Georgia St,88,Mercer,81
+2020-12-16,Jacksonville St,74,Tennessee Tech,50
+2020-12-16,Grambling,78,ULM,61
+2020-12-16,Toledo,96,Marshall,87
+2020-12-16,Mississippi,70,MTSU,51
+2020-12-16,Mississippi St,81,Cent Arkansas,65
+2020-12-16,TCU,77,Oklahoma St,76
+2020-12-16,Texas,79,Sam Houston St,63
+2020-12-16,UAB,88,Southern Univ,46
+2020-12-16,Villanova,85,Butler,66
+2020-12-16,Florida Intl,85,FL Gulf Coast,69
+2020-12-16,Troy,79,Samford,71
+2020-12-16,N Colorado,83,Denver,75
+2020-12-16,Duke,75,Notre Dame,65
+2020-12-16,Abilene Chr,95,Hardin-Simmons,73
+2020-12-16,Pittsburgh,70,Miami FL,55
+2020-12-16,Richmond,78,Vanderbilt,67
+2020-12-16,Colorado,91,NE Omaha,49
+2020-12-16,South Alabama,103,Flagler,81
+2020-12-16,Memphis,80,Tulane,74
+2020-12-16,Montana,66,Washington,58
+2020-12-16,Purdue,67,Ohio St,60
+2020-12-16,Oregon St,73,UT San Antonio,61
+2020-12-16,SMU,70,East Carolina,55
+2020-12-16,South Florida,74,Cincinnati,71
+2020-12-16,Pepperdine,91,Concordia CA,68
+2020-12-16,UTEP,76,Arizona St,63
+2020-12-16,Massachusetts,85,La Salle,66
+2020-12-16,William & Mary,75,Hampton,58
+2020-12-16,LIU Brooklyn,75,Sacred Heart,55
+2020-12-16,Central Conn,78,St Francis NY,59
+2020-12-16,Bryant,74,Wagner,62
+2020-12-16,Elon,66,Campbell,56
+2020-12-16,Syracuse,62,Northeastern,56
+2020-12-16,Liberty,91,Carver Bib,38
+2020-12-16,Oklahoma,79,Oral Roberts,65
+2020-12-16,Missouri St,73,Wm Jewell,64
+2020-12-17,Bradley,83,Jackson St,60
+2020-12-17,Seton Hall,70,Marquette,63
+2020-12-17,Southern Utah,85,Dixie St,78
+2020-12-17,Creighton,94,St John's,76
+2020-12-17,Kansas,58,Texas Tech,57
+2020-12-17,North Alabama,99,Crowley's Ridge,51
+2020-12-17,Loy Marymount,51,UC Irvine,48
+2020-12-17,Appalachian St,87,Greensboro,47
+2020-12-17,Coastal Car,99,Delaware St,73
+2020-12-17,North Texas,85,Houston Bap,55
+2020-12-17,Idaho St,89,SAGU Amer Ind,54
+2020-12-17,Wyoming,82,NE Omaha,78
+2020-12-17,E Kentucky,118,Camp U-Harrodsburg,54
+2020-12-17,S Illinois,85,North Dakota,64
+2020-12-17,Sacred Heart,87,LIU Brooklyn,72
+2020-12-17,Valparaiso,89,Purdue Northwest,71
+2020-12-17,Drexel,81,St Joseph's PA,77
+2020-12-17,Bryant,81,Wagner,75
+2020-12-17,Seattle,78,Col of Idaho,54
+2020-12-17,New Mexico,90,Le Tourneau,58
+2020-12-17,Nebraska,110,Doane,64
+2020-12-17,Oregon,74,San Francisco,64
+2020-12-17,St Louis,80,NC State,69
+2020-12-17,ETSU,96,Columbia Intl,54
+2020-12-17,UT Arlington,109,Dallas Chr,48
+2020-12-18,Georgia Tech,74,Florida A&M,64
+2020-12-18,SIUE,69,Morehead St,65
+2020-12-18,N Illinois,64,Chicago St,54
+2020-12-18,TN Martin,69,SE Missouri St,67
+2020-12-18,Tulsa,82,Northwestern LA,55
+2020-12-18,West Virginia,70,Iowa St,65
+2020-12-18,W Carolina,76,Col Charleston,70
+2020-12-18,FL Gulf Coast,112,Webber,39
+2020-12-18,UNC Wilmington,80,Norfolk St,72
+2020-12-18,Davidson,67,Rhode Island,58
+2020-12-18,Georgia St,122,Carver Bib,57
+2020-12-18,Washington St,82,Montana St,54
+2020-12-18,Gardner Webb,88,VMI,77
+2020-12-18,Coastal Car,86,Alice Lloyd,63
+2020-12-18,Niagara,68,Fairfield,51
+2020-12-18,Howard,81,Hampton,76
+2020-12-18,Iona,70,Rider,56
+2020-12-18,Ark Little Rock,78,Champion Bap,50
+2020-12-18,Monmouth NJ,78,St Peter's,76
+2020-12-18,BYU,72,San Diego St,62
+2020-12-18,Utah,79,Idaho,41
+2020-12-18,Nevada,74,Air Force,57
+2020-12-18,Presbyterian,62,S Carolina St,56
+2020-12-18,Weber St,94,Portland St,66
+2020-12-18,S Illinois,62,North Dakota,50
+2020-12-18,Belmont,88,Tennessee St,63
+2020-12-18,Wichita St,73,Emporia St,57
+2020-12-18,Tennessee,103,Tennessee Tech,49
+2020-12-18,W Michigan,76,C Michigan,61
+2020-12-18,Richmond,75,Loyola-Chicago,73
+2020-12-18,NC A&T,91,Greensboro,45
+2020-12-18,Montana,78,Dickinson St ND,51
+2020-12-18,Appalachian St,77,Columbia Intl,41
+2020-12-18,Drake,75,South Dakota,57
+2020-12-18,Bowling Green,85,Robert Morris,65
+2020-12-18,Southern Utah,98,Bethesda,64
+2020-12-18,Utah St,63,N Colorado,50
+2020-12-18,Idaho St,113,SAGU Amer Ind,46
+2020-12-19,Gonzaga,99,Iowa,88
+2020-12-19,Indiana St,67,Ball St,57
+2020-12-19,Louisiana Tech,86,Lamar,57
+2020-12-19,Auburn,77,Troy,41
+2020-12-19,Dayton,65,Mississippi,62
+2020-12-19,East Carolina,73,James Madison,64
+2020-12-19,Baylor,100,Kansas St,69
+2020-12-19,Samford,65,Kennesaw,63
+2020-12-19,Loy Marymount,76,Cal Poly,52
+2020-12-19,Oklahoma,84,Houston Bap,65
+2020-12-19,Purdue,88,Notre Dame,78
+2020-12-19,Southern Miss,60,ULM,47
+2020-12-19,St Mary's CA,53,Colorado St,33
+2020-12-19,Stanford,78,Arizona,75
+2020-12-19,Toledo,71,Valparaiso,57
+2020-12-19,Chattanooga,69,UAB,66
+2020-12-19,Vanderbilt,59,Radford,50
+2020-12-19,Virginia Tech,97,Coppin St,57
+2020-12-19,High Point,71,William & Mary,49
+2020-12-19,Bradley,69,Miami OH,68
+2020-12-19,Texas St,70,Denver,68
+2020-12-19,UCF,86,Florida St,74
+2020-12-19,Winthrop,87,Furman,71
+2020-12-19,Indiana,68,Butler,60
+2020-12-19,Miami FL,73,Jacksonville,64
+2020-12-19,Missouri St,94,Northwestern LA,67
+2020-12-19,Sam Houston St,82,Rice,69
+2020-12-19,Alabama A&M,93,South Alabama,90
+2020-12-19,UNC Greensboro,71,Elon,64
+2020-12-19,Flagler,73,North Florida,66
+2020-12-19,Hartford,63,Maine,60
+2020-12-19,UMBC,65,SUNY Albany,64
+2020-12-19,Stony Brook,73,Binghamton,59
+2020-12-19,UC Santa Barbara,75,Pepperdine,63
+2020-12-19,NC State,69,Campbell,50
+2020-12-19,Georgia,83,Cincinnati,68
+2020-12-19,Citadel,91,Longwood,89
+2020-12-19,Ga Southern,103,Florida Intl,99
+2020-12-19,Tulane,77,Grambling,65
+2020-12-19,Charlotte,76,NC A&T,72
+2020-12-19,Syracuse,107,Buffalo,96
+2020-12-19,Drexel,85,F Dickinson,68
+2020-12-19,TAM C. Christi,99,Our Lady Lake,72
+2020-12-19,La Salle,71,Delaware,61
+2020-12-19,E Washington,80,Northern Arizona,64
+2020-12-19,N Kentucky,79,Youngstown St,64
+2020-12-19,Wright St,93,Detroit,70
+2020-12-19,St Bonaventure,77,Hofstra,69
+2020-12-19,Niagara,81,Fairfield,61
+2020-12-19,St Peter's,78,Monmouth NJ,76
+2020-12-19,Iona,72,Rider,64
+2020-12-19,WI Milwaukee,68,WI Green Bay,65
+2020-12-19,IL Chicago,74,Oakland,72
+2020-12-19,Temple,72,NJIT,60
+2020-12-19,Fresno St,78,Fresno Pacific,65
+2020-12-19,Marist,61,Manhattan,39
+2020-12-19,Louisiana,75,McNeese St,65
+2020-12-19,California,87,CS Northridge,56
+2020-12-19,Wisconsin,85,Louisville,48
+2020-12-19,WKU,73,Alabama,71
+2020-12-19,Stetson,95,Carver Bib,51
+2020-12-19,WV Tech,73,Morgan St,67
+2020-12-19,North Carolina,75,Kentucky,63
+2020-12-19,Ohio St,77,UCLA,70
+2020-12-19,Missouri KC,98,Kansas Chr,42
+2020-12-19,ETSU,62,Lee TN,53
+2020-12-19,Oregon,80,Portland,41
+2020-12-19,Villanova,88,St Joseph's PA,68
+2020-12-19,Akron,93,Malone,83
+2020-12-19,Tennessee St,90,Crowley's Ridge,68
+2020-12-19,Cleveland St,63,PFW,61
+2020-12-19,CS Bakersfield,87,St Katherine,46
+2020-12-19,Dixie St,90,Bethesda,69
+2020-12-19,Cent Arkansas,92,Champion Bap,28
+2020-12-19,UC Irvine,85,San Diego,53
+2020-12-19,Hawaii,89,Hawaii Hilo,66
+2020-12-19,Missouri KC,95,Kansas Chr,36
+2020-12-20,UMBC,65,SUNY Albany,60
+2020-12-20,Arkansas,87,Oral Roberts,76
+2020-12-20,Stony Brook,80,Binghamton,70
+2020-12-20,Wright St,85,Detroit,72
+2020-12-20,Drake,111,Chicago St,67
+2020-12-20,Georgia Tech,97,Delaware St,69
+2020-12-20,Hartford,65,Maine,50
+2020-12-20,IL Chicago,90,Oakland,73
+2020-12-20,Iowa St,60,Jackson St,45
+2020-12-20,Youngstown St,70,N Kentucky,60
+2020-12-20,Providence,80,Seton Hall,77
+2020-12-20,St John's,94,Georgetown,83
+2020-12-20,Texas,77,Oklahoma St,74
+2020-12-20,Creighton,76,Connecticut,74
+2020-12-20,WI Milwaukee,74,WI Green Bay,62
+2020-12-20,Xavier,91,Marquette,88
+2020-12-20,Arkansas St,90,Champion Bap,50
+2020-12-20,Colorado,92,Washington,69
+2020-12-20,Rutgers,91,Illinois,88
+2020-12-20,Northwestern,79,Michigan St,65
+2020-12-20,North Alabama,82,Freed-Hardeman,56
+2020-12-20,Minnesota,90,St Louis,82
+2020-12-20,Air Force,68,Nevada,66
+2020-12-20,San Francisco,68,Grand Canyon,65
+2020-12-20,Portland St,74,Weber St,72
+2020-12-20,UT San Antonio,102,Our Lady Lake,70
+2020-12-20,Marist,72,Manhattan,67
+2020-12-20,Houston,88,Alcorn St,55
+2020-12-20,UTEP,79,Benedictine AZ,59
+2020-12-20,Old Dominion,66,Northeastern,62
+2020-12-20,Pacific,92,Westmont,64
+2020-12-20,South Dakota,84,Mt Marty,44
+2020-12-20,W Illinois,81,TN Martin,63
+2020-12-20,Ga Southern,119,Carver Bib,43
+2020-12-20,Marshall,85,Robert Morris,71
+2020-12-20,Cleveland St,89,PFW,80
+2020-12-20,C Michigan,127,Olivet MI,66
+2020-12-20,James Madison,98,Alice Lloyd,55
+2020-12-21,Texas St,70,Northern Arizona,65
+2020-12-21,Austin Peay,74,Murray St,70
+2020-12-21,Baylor,99,Ark Pine Bluff,42
+2020-12-21,Hampton,67,Charleston So,55
+2020-12-21,Georgia St,72,Col Charleston,55
+2020-12-21,Kansas St,70,Jacksonville,46
+2020-12-21,Missouri St,85,Ark Little Rock,77
+2020-12-21,Texas A&M,70,Wofford,52
+2020-12-21,Sam Houston St,69,UTRGV,66
+2020-12-21,Samford,133,Belhaven MS,84
+2020-12-21,Furman,118,S Carolina St,52
+2020-12-21,North Florida,98,Edward Waters,71
+2020-12-21,Washington St,90,Prairie View,62
+2020-12-21,UNC Wilmington,78,Campbell,59
+2020-12-21,Belmont,72,Evansville,63
+2020-12-21,FL Atlantic,107,Florida Col,72
+2020-12-21,Gonzaga,95,Northwestern LA,57
+2020-12-21,Lipscomb,97,Crowley's Ridge,60
+2020-12-21,Virginia Tech,84,Longwood,58
+2020-12-21,Tulsa,56,Memphis,49
+2020-12-21,Wagner,74,Sacred Heart,46
+2020-12-21,Utah St,107,San Jose St,62
+2020-12-21,Southern Utah,96,Bethesda,57
+2020-12-21,BYU,87,TX Southern,71
+2020-12-21,Florida St,72,Gardner Webb,59
+2020-12-21,MA Lowell,73,Vermont,65
+2020-12-21,Boise St,77,New Mexico,53
+2020-12-21,Mississippi St,87,MS Valley St,48
+2020-12-21,George Mason,68,VMI,66
+2020-12-21,Tennessee,102,St Joseph's PA,66
+2020-12-21,Clemson,66,Morehead St,51
+2020-12-21,Rice,73,New Orleans,62
+2020-12-21,Stanford,63,CS Bakersfield,50
+2020-12-21,S Illinois,76,Butler,73
+2020-12-21,Bryant,93,Massachusetts,88
+2020-12-21,Florida Intl,111,Carver Bib,34
+2020-12-21,Morgan St,65,Delaware,59
+2020-12-22,Mercer,81,Kennesaw,71
+2020-12-22,Alabama,85,ETSU,69
+2020-12-22,Arkansas,85,Abilene Chr,72
+2020-12-22,Auburn,67,Appalachian St,53
+2020-12-22,Citadel,94,Presbyterian,82
+2020-12-22,Georgia,76,Northeastern,58
+2020-12-22,Kansas,79,West Virginia,65
+2020-12-22,Louisiana Tech,68,ULM,57
+2020-12-22,Marshall,88,UNC Asheville,67
+2020-12-22,Maryland,84,La Salle,71
+2020-12-22,Missouri,54,Bradley,53
+2020-12-22,N Colorado,69,Idaho St,64
+2020-12-22,Texas Tech,69,Oklahoma,67
+2020-12-22,Old Dominion,77,VA Wesleyan,57
+2020-12-22,Mississippi,90,TN Martin,43
+2020-12-22,TCU,89,N Dakota St,82
+2020-12-22,Chattanooga,66,Tennessee St,63
+2020-12-22,WKU,88,Tennessee Tech,68
+2020-12-22,Indiana St,72,SE Missouri St,66
+2020-12-22,FL Gulf Coast,73,Ga Southern,60
+2020-12-22,UT San Antonio,88,Lamar,66
+2020-12-22,E Kentucky,86,High Point,67
+2020-12-22,UT Arlington,117,Howard Payne,53
+2020-12-22,Louisville,64,Pittsburgh,54
+2020-12-22,Portland,62,Montana St,59
+2020-12-22,NC State,79,North Carolina,76
+2020-12-22,UNC Greensboro,86,NC A&T,65
+2020-12-22,Hofstra,76,Richmond,71
+2020-12-22,Liberty,108,Alcorn St,65
+2020-12-22,Colorado,74,Grand Canyon,64
+2020-12-22,Davidson,85,Vanderbilt,65
+2020-12-22,Northern Arizona,68,Denver,65
+2020-12-22,Charlotte,66,G Washington,65
+2020-12-22,Houston,76,Temple,50
+2020-12-22,Arizona,70,Montana,64
+2020-12-22,Iowa,70,Purdue,55
+2020-12-22,San Diego St,74,St Mary's CA,49
+2020-12-22,Sacred Heart,86,Wagner,85
+2020-12-22,Toledo,78,N Illinois,55
+2020-12-22,UCF,75,Cincinnati,70
+2020-12-22,East Carolina,68,Tulane,58
+2020-12-22,Hampton,70,Charleston So,68
+2020-12-22,Wichita St,82,South Florida,77
+2020-12-22,Drake,88,North Dakota,55
+2020-12-22,Akron,90,Ohio,70
+2020-12-22,F Dickinson,69,Fairfield,65
+2020-12-22,Ball St,76,W Michigan,68
+2020-12-22,Vermont,62,MA Lowell,53
+2020-12-22,Wisconsin,67,Nebraska,53
+2020-12-22,Boston College,78,Maine,62
+2020-12-22,Virginia,76,William & Mary,40
+2020-12-22,Niagara,70,SUNY Albany,65
+2020-12-22,North Texas,110,LSU-Alexandria,78
+2020-12-22,California,70,Seattle,65
+2020-12-22,Oregon St,67,Portland St,62
+2020-12-22,UC San Diego,77,St Katherine,51
+2020-12-22,VCU,82,James Madison,81
+2020-12-22,Gonzaga,95,Northwestern LA,78
+2020-12-22,Loyola-Chicago,92,St Francis IL,55
+2020-12-22,TAM C. Christi,59,Paul Quinn,35
+2020-12-22,Colorado St,70,Santa Clara,57
+2020-12-23,Butler,70,Providence,64
+2020-12-23,Creighton,66,Xavier,61
+2020-12-23,Villanova,85,Marquette,68
+2020-12-23,Seton Hall,78,Georgetown,67
+2020-12-23,UNC Wilmington,87,Delaware St,63
+2020-12-23,SE Louisiana,77,Grambling,70
+2020-12-23,St Louis,62,Missouri KC,46
+2020-12-23,BYU,87,Weber St,79
+2020-12-23,Illinois,98,Penn St,81
+2020-12-23,Northwestern,74,Indiana,67
+2020-12-23,Washington St,62,Northwestern LA,52
+2020-12-23,Ohio St,80,Rutgers,68
+2020-12-23,Utah St,85,San Jose St,52
+2020-12-23,Idaho St,71,N Colorado,56
+2020-12-23,Boise St,89,New Mexico,52
+2020-12-23,NJIT,81,Rider,66
+2020-12-23,Tennessee,80,SC Upstate,60
+2020-12-23,Iona,85,Coppin St,65
+2020-12-23,CS Bakersfield,79,Pepperdine,51
+2020-12-23,DePaul,91,W Illinois,72
+2020-12-23,George Mason,70,Towson,65
+2020-12-23,Tulsa,102,SW Christian,45
+2020-12-23,UC San Diego,75,St Katherine,39
+2020-12-23,Notre Dame,81,Bellarmine,70
+2020-12-23,St Peter's,70,St Francis NY,64
+2020-12-25,Minnesota,102,Iowa,95
+2020-12-25,Purdue,73,Maryland,70
+2020-12-25,Wisconsin,85,Michigan St,76
+2020-12-25,Michigan,80,Nebraska,69
+2020-12-26,Cleveland St,87,Youngstown St,69
+2020-12-26,Robert Morris,102,PFW,88
+2020-12-26,Louisville,62,Kentucky,59
+2020-12-26,Wright St,67,WI Green Bay,53
+2020-12-26,Illinois,69,Indiana,60
+2020-12-26,Northwestern,71,Ohio St,70
+2020-12-26,Houston,63,UCF,54
+2020-12-26,Towson,78,Coppin St,73
+2020-12-26,Norfolk St,68,George Mason,65
+2020-12-26,Gonzaga,98,Virginia,75
+2020-12-26,LSU,86,Nicholls St,80
+2020-12-26,Oakland,77,Detroit,75
+2020-12-27,UMBC,74,Binghamton,67
+2020-12-27,New Hampshire,77,Hartford,69
+2020-12-27,Stony Brook,73,MA Lowell,58
+2020-12-27,Vermont,92,NJIT,78
+2020-12-27,UC Irvine,75,UC Santa Barbara,56
+2020-12-27,PFW,87,Robert Morris,82
+2020-12-27,Wright St,90,WI Green Bay,77
+2020-12-27,Cleveland St,81,Youngstown St,74
+2020-12-27,Missouri St,79,Northern Iowa,59
+2020-12-27,Drake,81,Indiana St,63
+2020-12-27,S Illinois,63,Evansville,57
+2020-12-27,Loyola-Chicago,90,Illinois St,60
+2020-12-27,Providence,95,DePaul,90
+2020-12-27,E Michigan,94,Olivet MI,65
+2020-12-27,Jacksonville St,104,Carver Bib,45
+2020-12-27,Vanderbilt,87,Alcorn St,59
+2020-12-27,Monmouth NJ,84,Canisius,66
+2020-12-27,Oakland,83,Detroit,80
+2020-12-28,New Hampshire,53,Hartford,51
+2020-12-28,Stony Brook,71,MA Lowell,64
+2020-12-28,Binghamton,75,UMBC,69
+2020-12-28,NJIT,81,Vermont,80
+2020-12-28,UC Irvine,73,UC Santa Barbara,69
+2020-12-28,Troy,88,Carver Bib,35
+2020-12-28,Colorado St,75,Fresno St,53
+2020-12-28,Maryland,70,Wisconsin,64
+2020-12-28,Arizona,88,Colorado,74
+2020-12-28,Drake,73,Indiana St,66
+2020-12-28,Evansville,84,S Illinois,72
+2020-12-28,Northern Iowa,85,Missouri St,75
+2020-12-28,Loyola-Chicago,86,Illinois St,55
+2020-12-28,Minnesota,81,Michigan St,56
+2020-12-28,Gonzaga,88,Northern Arizona,58
+2020-12-28,Monmouth NJ,97,Canisius,69
+2020-12-28,Southern Miss,74,Loyola NO,54
+2020-12-28,CS Northridge,66,New Mexico St,63
+2020-12-29,Alabama,82,Mississippi,64
+2020-12-29,Baylor,93,Cent Arkansas,56
+2020-12-29,Gonzaga,112,Dixie St,67
+2020-12-29,LSU,77,Texas A&M,54
+2020-12-29,Texas Tech,79,Incarnate Word,51
+2020-12-29,Lamar,74,SE Louisiana,64
+2020-12-29,Clemson,77,Florida St,67
+2020-12-29,Virginia Tech,80,Miami FL,78
+2020-12-29,Kansas St,60,NE Omaha,58
+2020-12-29,Lipscomb,93,Freed-Hardeman,72
+2020-12-29,Tulsa,65,Houston,64
+2020-12-29,Iowa,87,Northwestern,72
+2020-12-29,Memphis,58,South Florida,57
+2020-12-29,Rutgers,81,Purdue,76
+2020-12-29,McNeese St,94,Champion Bap,36
+2020-12-29,Abilene Chr,82,Dallas Chr,44
+2020-12-29,Sam Houston St,101,M Hardin-Baylor,59
+2020-12-29,C Michigan,87,E Michigan,60
+2020-12-29,West Virginia,73,Northeastern,51
+2020-12-29,Wofford,78,Mercer,65
+2020-12-29,USC,86,Santa Clara,63
+2020-12-30,Arkansas,97,Auburn,85
+2020-12-30,Belmont,68,Murray St,55
+2020-12-30,Furman,77,Chattanooga,73
+2020-12-30,ETSU,86,W Carolina,78
+2020-12-30,E Kentucky,69,E Illinois,61
+2020-12-30,Mississippi St,83,Georgia,73
+2020-12-30,Hampton,80,Gardner Webb,69
+2020-12-30,High Point,63,SC Upstate,52
+2020-12-30,Jacksonville St,80,TN Martin,70
+2020-12-30,UNC Asheville,80,Longwood,73
+2020-12-30,Tennessee,73,Missouri,53
+2020-12-30,Seattle,84,Portland,68
+2020-12-30,Radford,71,Presbyterian,65
+2020-12-30,Samford,84,VMI,71
+2020-12-30,St Mary's CA,63,CS Sacramento,45
+2020-12-30,Austin Peay,68,Tennessee St,59
+2020-12-30,Tennessee Tech,72,SE Missouri St,63
+2020-12-30,Winthrop,84,Campbell,83
+2020-12-30,Rhode Island,63,St Bonaventure,57
+2020-12-30,Richmond,80,Davidson,74
+2020-12-30,La Salle,67,Dayton,65
+2020-12-30,G Washington,71,Fordham,47
+2020-12-30,George Mason,93,Massachusetts,92
+2020-12-30,Indiana,87,Penn St,85
+2020-12-30,Ohio St,90,Nebraska,54
+2020-12-30,VCU,80,St Joseph's PA,64
+2020-12-30,SMU,79,Temple,71
+2020-12-30,Colorado St,81,Fresno St,59
+2020-12-30,Virginia,66,Notre Dame,57
+2020-12-30,McNeese St,91,Champion Bap,76
+2020-12-30,NC State,79,Boston College,76
+2020-12-30,Florida,91,Vanderbilt,72
+2020-12-30,Georgia Tech,72,North Carolina,67
+2020-12-30,Connecticut,82,DePaul,61
+2020-12-30,Providence,71,Butler,55
+2020-12-30,Seton Hall,85,Xavier,68
+2020-12-30,Baylor,105,Alcorn St,76
+2020-12-30,Bowling Green,83,Ohio,75
+2020-12-30,TCU,66,Prairie View,61
+2020-12-30,Manhattan,65,Delaware St,59
+2020-12-30,Wichita St,81,Newman,43
+2020-12-31,San Francisco,70,San Diego,62
+2020-12-31,Northern Arizona,78,Idaho,65
+2020-12-31,Incarnate Word,92,McMurry,71
+2020-12-31,Michigan,84,Maryland,73
+2020-12-31,Wisconsin,71,Minnesota,59
+2020-12-31,Gardner Webb,80,Hampton,69
+2020-12-31,Longwood,65,UNC Asheville,55
+2020-12-31,Boise St,106,San Jose St,54
+2020-12-31,Winthrop,94,Campbell,76
+2020-12-31,Nevada,68,New Mexico,54
+2020-12-31,Utah St,83,Air Force,48
+2020-12-31,Oregon,82,California,69
+2020-12-31,Arizona,80,Washington,53
+2020-12-31,UCLA,72,Utah,70
+2020-12-31,Presbyterian,65,Radford,63
+2020-12-31,SC Upstate,60,High Point,51
+2020-12-31,Colorado,72,USC,62
+2020-12-31,Wake Forest,70,Catawba,62
+2021-01-01,Troy,69,Appalachian St,56
+2021-01-01,South Alabama,88,Ga Southern,59
+2021-01-01,ULM,84,Arkansas St,72
+2021-01-01,Louisiana,83,Texas St,77
+2021-01-01,Long Beach St,90,CS Bakersfield,89
+2021-01-01,UC Santa Barbara,81,CS Fullerton,63
+2021-01-01,Ark Little Rock,102,UT Arlington,93
+2021-01-01,Coastal Car,81,Georgia St,69
+2021-01-01,Canisius,70,St Peter's,58
+2021-01-01,Rider,70,Fairfield,62
+2021-01-01,N Kentucky,75,PFW,68
+2021-01-01,Robert Morris,67,WI Milwaukee,64
+2021-01-01,Youngstown St,84,WI Green Bay,77
+2021-01-01,Cleveland St,65,IUPUI,62
+2021-01-01,Incarnate Word,81,McMurry,54
+2021-01-01,Lipscomb,77,Liberty,70
+2021-01-01,Rice,95,UT San Antonio,86
+2021-01-01,WKU,67,Charlotte,63
+2021-01-01,Jacksonville,62,Kennesaw,57
+2021-01-01,Bellarmine,90,Transylvania,40
+2021-01-01,Wright St,90,Oakland,51
+2021-01-01,Florida Intl,82,Old Dominion,67
+2021-01-01,Louisiana Tech,75,Marshall,68
+2021-01-01,Southern Miss,74,UTEP,66
+2021-01-01,Marist,63,Niagara,61
+2021-01-01,Montana St,96,MT Western,67
+2021-01-01,Akron,66,Kent,62
+2021-01-02,Charlotte,75,WKU,71
+2021-01-02,Northern Arizona,83,Idaho,78
+2021-01-02,Appalachian St,90,Troy,59
+2021-01-02,Ga Southern,62,South Alabama,49
+2021-01-02,CS Bakersfield,89,Long Beach St,76
+2021-01-02,ULM,62,Arkansas St,55
+2021-01-02,UC Santa Barbara,65,CS Fullerton,61
+2021-01-02,Texas St,71,Louisiana,59
+2021-01-02,Georgia St,70,Coastal Car,62
+2021-01-02,Abilene Chr,83,Lamar,65
+2021-01-02,Grambling,66,Alabama St,49
+2021-01-02,Missouri,81,Arkansas,68
+2021-01-02,Ark Pine Bluff,92,MS Valley St,52
+2021-01-02,E Kentucky,80,Austin Peay,75
+2021-01-02,Ohio,78,Ball St,68
+2021-01-02,Colgate,101,Army,57
+2021-01-02,E Illinois,87,Tennessee Tech,81
+2021-01-02,Florida,83,LSU,79
+2021-01-02,Old Dominion,71,Florida Intl,66
+2021-01-02,Furman,83,Mercer,80
+2021-01-02,Gonzaga,85,San Francisco,62
+2021-01-02,Baylor,76,Iowa St,65
+2021-01-02,Cleveland St,59,IUPUI,49
+2021-01-02,Texas,84,Kansas,59
+2021-01-02,TCU,67,Kansas St,60
+2021-01-02,Lehigh,90,Lafayette,89
+2021-01-02,Marshall,80,Louisiana Tech,73
+2021-01-02,Cent Arkansas,81,McNeese St,67
+2021-01-02,Kentucky,78,Mississippi St,73
+2021-01-02,N Colorado,64,Montana,62
+2021-01-02,Morehead St,61,Murray St,56
+2021-01-02,Navy,78,Bucknell,69
+2021-01-02,ETSU,71,UNC Greensboro,61
+2021-01-02,Sam Houston St,84,Nicholls St,81
+2021-01-02,North Dakota,52,Missouri KC,45
+2021-01-02,Bowling Green,68,N Illinois,42
+2021-01-02,N Kentucky,70,PFW,68
+2021-01-02,Oakland,81,Wright St,71
+2021-01-02,Oklahoma,75,West Virginia,71
+2021-01-02,Wichita St,83,Mississippi,79
+2021-01-02,South Dakota,93,Denver,54
+2021-01-02,SE Missouri St,83,Tennessee St,79
+2021-01-02,UTEP,77,Southern Miss,62
+2021-01-02,SF Austin,78,New Orleans,67
+2021-01-02,Alabama,71,Tennessee,63
+2021-01-02,Texas A&M,68,Auburn,66
+2021-01-02,Oklahoma St,82,Texas Tech,77
+2021-01-02,Belmont,90,TN Martin,69
+2021-01-02,VMI,84,Chattanooga,79
+2021-01-02,N Dakota St,68,W Illinois,50
+2021-01-02,Toledo,70,W Michigan,59
+2021-01-02,Wofford,94,Samford,84
+2021-01-02,WI Green Bay,79,Youngstown St,69
+2021-01-02,Oral Roberts,95,NE Omaha,83
+2021-01-02,Jacksonville,72,Kennesaw,66
+2021-01-02,Liberty,66,Lipscomb,50
+2021-01-02,Clemson,66,Miami FL,65
+2021-01-02,Houston Bap,99,Northwestern LA,93
+2021-01-02,Louisville,76,Boston College,64
+2021-01-02,Bellarmine,90,Mt St Joseph,38
+2021-01-02,Dayton,74,George Mason,65
+2021-01-02,La Salle,89,Fordham,52
+2021-01-02,St Bonaventure,69,Richmond,66
+2021-01-02,Delaware,70,Col Charleston,67
+2021-01-02,Hartford,76,Binghamton,56
+2021-01-02,Hofstra,61,William & Mary,56
+2021-01-02,Maine,59,New Hampshire,56
+2021-01-02,Northeastern,75,Elon,52
+2021-01-02,SUNY Albany,63,Vermont,62
+2021-01-02,NJIT,73,MA Lowell,67
+2021-01-02,Tulsa,70,Cincinnati,66
+2021-01-02,Duquesne,75,G Washington,63
+2021-01-02,Illinois,66,Purdue,58
+2021-01-02,Iowa,77,Rutgers,75
+2021-01-02,Michigan St,84,Nebraska,77
+2021-01-02,Boise St,87,San Jose St,86
+2021-01-02,Utah St,72,Air Force,53
+2021-01-02,Wyoming,78,Fresno St,74
+2021-01-02,Nevada,84,New Mexico,74
+2021-01-02,Canisius,63,St Peter's,60
+2021-01-02,Tulane,60,East Carolina,56
+2021-01-02,South Florida,68,UCF,61
+2021-01-02,UCLA,65,Colorado,62
+2021-01-02,Oregon,73,Stanford,56
+2021-01-02,Arizona,86,Washington St,82
+2021-01-02,USC,64,Utah,46
+2021-01-02,Oregon St,73,California,64
+2021-01-02,Evansville,65,Northern Iowa,61
+2021-01-02,Missouri St,84,Indiana St,74
+2021-01-02,Rice,84,UT San Antonio,69
+2021-01-02,South Carolina,78,Florida A&M,71
+2021-01-02,Fairfield,72,Rider,56
+2021-01-02,Creighton,67,Providence,65
+2021-01-02,Marquette,64,Georgetown,60
+2021-01-02,NC A&T,97,S Carolina St,86
+2021-01-02,Seton Hall,68,Butler,60
+2021-01-02,Colorado St,70,San Diego St,67
+2021-01-02,Niagara,86,Marist,72
+2021-01-02,North Carolina,66,Notre Dame,65
+2021-01-02,Loyola-Chicago,57,North Texas,49
+2021-01-02,Weber St,70,Utah Valley,62
+2021-01-02,Ark Little Rock,75,UT Arlington,62
+2021-01-03,Col Charleston,66,Delaware,59
+2021-01-03,Hartford,77,Binghamton,74
+2021-01-03,Hofstra,82,William & Mary,73
+2021-01-03,New Hampshire,62,Maine,58
+2021-01-03,Northeastern,66,Elon,58
+2021-01-03,MA Lowell,74,NJIT,60
+2021-01-03,Vermont,74,SUNY Albany,66
+2021-01-03,Georgia Tech,70,Wake Forest,54
+2021-01-03,Rhode Island,85,St Joseph's PA,77
+2021-01-03,Michigan,85,Northwestern,66
+2021-01-03,Minnesota,77,Ohio St,60
+2021-01-03,Navy,63,Bucknell,60
+2021-01-03,Army,75,Colgate,73
+2021-01-03,Lafayette,82,Lehigh,70
+2021-01-03,Oral Roberts,86,NE Omaha,75
+2021-01-03,South Dakota,79,Denver,57
+2021-01-03,N Dakota St,78,W Illinois,67
+2021-01-03,Houston,74,SMU,60
+2021-01-03,Drake,73,S Illinois,55
+2021-01-03,Missouri St,70,Indiana St,66
+2021-01-03,Evansville,70,Northern Iowa,64
+2021-01-03,Missouri KC,77,North Dakota,53
+2021-01-03,NC A&T,73,S Carolina St,66
+2021-01-03,Siena,78,Monmouth NJ,77
+2021-01-03,CS Sacramento,85,Fresno Pacific,54
+2021-01-03,G Washington,75,Duquesne,73
+2021-01-03,Morgan St,80,James Madison,73
+2021-01-04,Jackson St,60,Alabama St,44
+2021-01-04,West Virginia,87,Oklahoma St,84
+2021-01-04,Indiana,63,Maryland,55
+2021-01-04,Fresno St,81,Wyoming,61
+2021-01-04,SC Upstate,71,Longwood,69
+2021-01-04,Drake,86,S Illinois,55
+2021-01-04,Radford,79,Hampton,66
+2021-01-04,Montana,56,N Colorado,54
+2021-01-04,Siena,76,Monmouth NJ,62
+2021-01-04,Boston Univ,83,Holy Cross,76
+2021-01-04,Coppin St,86,Delaware St,78
+2021-01-04,San Diego St,78,Colorado St,65
+2021-01-04,Stanford,81,Oregon St,71
+2021-01-04,Winthrop,85,Charleston So,69
+2021-01-04,Campbell,70,Gardner Webb,61
+2021-01-04,S Dakota St,93,Mt Marty,50
+2021-01-04,San Jose St,80,Benedictine AZ,64
+2021-01-04,Youngstown St,109,Carlow,56
+2021-01-05,Alabama,86,Florida,71
+2021-01-05,Toledo,84,Kent,82
+2021-01-05,Kentucky,77,Vanderbilt,74
+2021-01-05,Mississippi St,78,Missouri,63
+2021-01-05,Ohio,76,N Illinois,73
+2021-01-05,Radford,76,Hampton,65
+2021-01-05,Kansas,93,TCU,64
+2021-01-05,Texas,78,Iowa St,72
+2021-01-05,Texas Tech,82,Kansas St,71
+2021-01-05,SC Upstate,65,Longwood,59
+2021-01-05,North Carolina,67,Miami FL,65
+2021-01-05,Fordham,55,Dayton,54
+2021-01-05,Clemson,74,NC State,70
+2021-01-05,Davidson,61,Duquesne,48
+2021-01-05,Michigan St,68,Rutgers,45
+2021-01-05,Connecticut,65,Marquette,54
+2021-01-05,Holy Cross,68,Boston Univ,66
+2021-01-05,Bowling Green,90,C Michigan,69
+2021-01-05,Coppin St,81,Delaware St,77
+2021-01-05,Winthrop,78,Charleston So,76
+2021-01-05,Gardner Webb,85,Campbell,70
+2021-01-05,James Madison,79,FL Atlantic,70
+2021-01-06,Baylor,76,Oklahoma,61
+2021-01-06,Cent Arkansas,83,New Orleans,79
+2021-01-06,Chattanooga,73,Samford,68
+2021-01-06,LSU,94,Georgia,92
+2021-01-06,Nicholls St,76,Lamar,69
+2021-01-06,Mississippi,72,Auburn,61
+2021-01-06,Sam Houston St,70,SE Louisiana,52
+2021-01-06,South Carolina,78,Texas A&M,54
+2021-01-06,Tennessee,79,Arkansas,74
+2021-01-06,UNC Greensboro,84,Wofford,75
+2021-01-06,Abilene Chr,66,Houston Bap,63
+2021-01-06,Incarnate Word,75,Northwestern LA,67
+2021-01-06,Richmond,80,Rhode Island,73
+2021-01-06,VCU,66,George Mason,61
+2021-01-06,Michigan,82,Minnesota,57
+2021-01-06,St Bonaventure,83,St Joseph's PA,57
+2021-01-06,Tulsa,61,South Florida,51
+2021-01-06,Boise St,78,Air Force,59
+2021-01-06,Houston,70,Wichita St,63
+2021-01-06,Duke,83,Boston College,82
+2021-01-06,Louisville,73,Virginia Tech,71
+2021-01-06,Virginia,70,Wake Forest,61
+2021-01-06,Creighton,89,Seton Hall,53
+2021-01-06,Butler,63,Georgetown,55
+2021-01-06,Utah St,77,New Mexico,45
+2021-01-06,Xavier,69,St John's,61
+2021-01-06,Pittsburgh,63,Syracuse,60
+2021-01-07,Belmont,77,SE Missouri St,66
+2021-01-07,E Illinois,74,Murray St,68
+2021-01-07,E Kentucky,69,Jacksonville St,66
+2021-01-07,Northeastern,81,Hofstra,78
+2021-01-07,Morehead St,57,Tennessee Tech,54
+2021-01-07,Tennessee St,74,TN Martin,62
+2021-01-07,Idaho St,73,Northern Arizona,69
+2021-01-07,Montana St,79,N Colorado,67
+2021-01-07,Southern Utah,85,Idaho,80
+2021-01-07,Bryant,93,Central Conn,68
+2021-01-07,Colorado St,74,UNLV,71
+2021-01-07,Illinois,81,Northwestern,56
+2021-01-07,Wisconsin,80,Indiana,73
+2021-01-07,Iowa,89,Maryland,67
+2021-01-07,Merrimack,97,Sacred Heart,90
+2021-01-07,St Francis NY,70,Mt St Mary's,55
+2021-01-07,San Diego St,65,Nevada,60
+2021-01-07,Washington St,71,California,60
+2021-01-07,Colorado,79,Oregon,72
+2021-01-07,USC,87,Arizona,73
+2021-01-07,LIU Brooklyn,78,St Francis PA,75
+2021-01-07,Stanford,91,Washington,75
+2021-01-07,UCLA,81,Arizona St,75
+2021-01-07,Cincinnati,76,SMU,69
+2021-01-07,UTRGV,96,St Mary's TX,67
+2021-01-07,San Francisco,88,Portland,64
+2021-01-07,Gonzaga,86,BYU,69
+2021-01-08,Cleveland St,58,N Kentucky,44
+2021-01-08,PFW,96,IL Chicago,89
+2021-01-08,S Dakota St,83,W Illinois,77
+2021-01-08,South Dakota,66,Missouri KC,64
+2021-01-08,Utah Valley,77,Cal Baptist,50
+2021-01-08,WI Green Bay,84,Oakland,81
+2021-01-08,Youngstown St,74,Wright St,72
+2021-01-08,North Dakota,72,Oral Roberts,71
+2021-01-08,N Dakota St,71,NE Omaha,69
+2021-01-08,Grand Canyon,75,Tarleton St,72
+2021-01-08,Dayton,89,Davidson,78
+2021-01-08,Appalachian St,66,Ga Southern,63
+2021-01-08,UT Arlington,77,ULM,64
+2021-01-08,Louisiana,66,Ark Little Rock,64
+2021-01-08,Long Beach St,82,CS Fullerton,80
+2021-01-08,CS Bakersfield,62,Cal Poly,49
+2021-01-08,Hawaii,88,UC Riverside,83
+2021-01-08,Coastal Car,78,South Alabama,65
+2021-01-08,Purdue,55,Michigan St,54
+2021-01-08,Rider,76,Niagara,70
+2021-01-08,UTEP,101,Rice,89
+2021-01-08,Fresno St,79,San Jose St,64
+2021-01-08,Bryant,76,Central Conn,64
+2021-01-08,Old Dominion,71,FL Atlantic,67
+2021-01-08,Florida Intl,68,MTSU,55
+2021-01-08,WKU,66,Louisiana Tech,64
+2021-01-08,Sacred Heart,68,Merrimack,62
+2021-01-08,St Francis NY,67,Mt St Mary's,55
+2021-01-08,Stetson,86,North Alabama,77
+2021-01-08,North Texas,77,UT San Antonio,70
+2021-01-08,Boise St,80,Air Force,69
+2021-01-08,UAB,72,Southern Miss,60
+2021-01-08,Utah St,82,New Mexico,46
+2021-01-08,Quinnipiac,84,Manhattan,79
+2021-01-08,Toledo,95,Ohio,78
+2021-01-08,Lipscomb,77,Bellarmine,72
+2021-01-08,WI Milwaukee,94,IUPUI,70
+2021-01-08,Liberty,69,Kennesaw,63
+2021-01-08,Jacksonville,66,North Florida,65
+2021-01-08,LIU Brooklyn,71,St Francis PA,58
+2021-01-08,SF Austin,87,Midwest TX St,71
+2021-01-09,Idaho St,76,Northern Arizona,70
+2021-01-09,Montana St,76,N Colorado,74
+2021-01-09,Southern Utah,83,Idaho,67
+2021-01-09,UT San Antonio,77,North Texas,69
+2021-01-09,Appalachian St,77,Ga Southern,71
+2021-01-09,CS Fullerton,75,Long Beach St,72
+2021-01-09,CS Bakersfield,65,Cal Poly,50
+2021-01-09,UT Arlington,75,ULM,74
+2021-01-09,UC Riverside,70,Hawaii,68
+2021-01-09,Coastal Car,83,South Alabama,69
+2021-01-09,Ark Little Rock,78,Louisiana,76
+2021-01-09,Lamar,71,Houston Bap,65
+2021-01-09,Arkansas,99,Georgia,69
+2021-01-09,Ark Pine Bluff,91,Alabama St,82
+2021-01-09,Alabama,94,Auburn,90
+2021-01-09,Belmont,89,TN Martin,69
+2021-01-09,Bowling Green,93,C Michigan,65
+2021-01-09,Buffalo,86,Ball St,69
+2021-01-09,Sam Houston St,91,Cent Arkansas,80
+2021-01-09,Radford,79,Charleston So,64
+2021-01-09,Citadel,92,Chattanooga,87
+2021-01-09,Austin Peay,74,E Illinois,71
+2021-01-09,E Kentucky,90,Tennessee Tech,80
+2021-01-09,E Michigan,71,Akron,59
+2021-01-09,Kentucky,76,Florida,58
+2021-01-09,Southern Univ,61,Grambling,55
+2021-01-09,Hampton,73,UNC Asheville,71
+2021-01-09,Texas Tech,91,Iowa St,64
+2021-01-09,Kansas,63,Oklahoma,59
+2021-01-09,Oklahoma St,70,Kansas St,54
+2021-01-09,Kent,80,W Michigan,54
+2021-01-09,Campbell,64,Longwood,58
+2021-01-09,Miami OH,70,N Illinois,58
+2021-01-09,Morehead St,56,Jacksonville St,55
+2021-01-09,Northeastern,67,Hofstra,56
+2021-01-09,Old Dominion,64,FL Atlantic,55
+2021-01-09,Gonzaga,116,Portland,88
+2021-01-09,Santa Clara,66,St Mary's CA,64
+2021-01-09,Baylor,67,TCU,49
+2021-01-09,Tennessee,68,Texas A&M,54
+2021-01-09,UAB,62,Southern Miss,58
+2021-01-09,Mississippi St,84,Vanderbilt,81
+2021-01-09,Texas,72,West Virginia,70
+2021-01-09,Louisiana Tech,63,WKU,58
+2021-01-09,Lipscomb,65,Bellarmine,58
+2021-01-09,North Alabama,73,Stetson,66
+2021-01-09,Duke,79,Wake Forest,68
+2021-01-09,Miami FL,64,NC State,59
+2021-01-09,New Orleans,86,Incarnate Word,64
+2021-01-09,Nicholls St,87,SE Louisiana,67
+2021-01-09,Northwestern LA,78,McNeese St,75
+2021-01-09,Rhode Island,83,VCU,68
+2021-01-09,Virginia,61,Boston College,49
+2021-01-09,Duquesne,48,Fordham,45
+2021-01-09,Richmond,77,George Mason,57
+2021-01-09,Col Charleston,61,Drexel,60
+2021-01-09,UMBC,69,New Hampshire,54
+2021-01-09,William & Mary,67,Delaware,62
+2021-01-09,NJIT,63,Maine,54
+2021-01-09,Vermont,76,Binghamton,60
+2021-01-09,MA Lowell,71,Hartford,62
+2021-01-09,Ohio St,79,Rutgers,68
+2021-01-09,California,84,Washington,78
+2021-01-09,UCLA,81,Arizona,76
+2021-01-09,Grand Canyon,59,Tarleton St,48
+2021-01-09,Cleveland St,74,N Kentucky,71
+2021-01-09,Colgate,86,Boston Univ,79
+2021-01-09,Colorado St,83,UNLV,80
+2021-01-09,South Florida,69,East Carolina,63
+2021-01-09,MTSU,67,Florida Intl,56
+2021-01-09,South Dakota,68,Missouri KC,62
+2021-01-09,Army,83,Holy Cross,68
+2021-01-09,Houston,71,Tulane,50
+2021-01-09,Utah Valley,81,Cal Baptist,77
+2021-01-09,PFW,88,IL Chicago,55
+2021-01-09,Massachusetts,83,La Salle,67
+2021-01-09,Lafayette,83,Bucknell,60
+2021-01-09,N Dakota St,80,NE Omaha,66
+2021-01-09,San Diego St,69,Nevada,67
+2021-01-09,Niagara,66,Rider,55
+2021-01-09,Oral Roberts,74,North Dakota,57
+2021-01-09,WI Green Bay,87,Oakland,78
+2021-01-09,Rice,71,UTEP,68
+2021-01-09,S Dakota St,92,W Illinois,63
+2021-01-09,Stanford,75,Washington St,60
+2021-01-09,Wright St,93,Youngstown St,55
+2021-01-09,Evansville,57,Illinois St,48
+2021-01-09,Missouri St,81,Valparaiso,68
+2021-01-09,USC,73,Arizona St,64
+2021-01-09,Syracuse,74,Georgetown,69
+2021-01-09,Creighton,97,St John's,79
+2021-01-09,Seton Hall,76,DePaul,68
+2021-01-09,Morgan St,78,Norfolk St,74
+2021-01-09,Connecticut,72,Butler,60
+2021-01-09,Seattle,98,St Martin's,63
+2021-01-09,Montana,84,Whitworth,67
+2021-01-09,Monmouth NJ,80,Marist,64
+2021-01-09,Manhattan,45,Quinnipiac,42
+2021-01-09,WI Milwaukee,71,IUPUI,63
+2021-01-09,Winthrop,75,Gardner Webb,65
+2021-01-09,Siena,74,Fairfield,58
+2021-01-09,Liberty,76,Kennesaw,47
+2021-01-09,North Florida,70,Jacksonville,68
+2021-01-09,UC Irvine,79,UC San Diego,65
+2021-01-09,Oregon,79,Utah,73
+2021-01-09,Navy,69,Lehigh,61
+2021-01-09,NW Nazarene,75,Portland St,72
+2021-01-09,Wofford,48,UNC Greensboro,45
+2021-01-09,Belmont Abbey,75,Charlotte,72
+2021-01-09,LSU,75,Mississippi,61
+2021-01-09,St Joseph's PA,67,SUNY Albany,64
+2021-01-10,Vermont,84,Binghamton,44
+2021-01-10,Col Charleston,73,Drexel,68
+2021-01-10,UMBC,68,New Hampshire,66
+2021-01-10,Maine,45,NJIT,41
+2021-01-10,Hartford,75,MA Lowell,58
+2021-01-10,Holy Cross,70,Army,61
+2021-01-10,Colgate,89,Boston Univ,45
+2021-01-10,Lafayette,87,Bucknell,76
+2021-01-10,Virginia Tech,77,Notre Dame,63
+2021-01-10,Maryland,66,Illinois,63
+2021-01-10,Indiana,84,Nebraska,76
+2021-01-10,Longwood,78,Campbell,69
+2021-01-10,UNC Asheville,85,Hampton,77
+2021-01-10,Iowa,86,Minnesota,71
+2021-01-10,Radford,68,Charleston So,48
+2021-01-10,Fresno St,80,San Jose St,65
+2021-01-10,Illinois St,73,Evansville,68
+2021-01-10,Norfolk St,89,Morgan St,85
+2021-01-10,Northern Iowa,78,Bradley,72
+2021-01-10,Xavier,74,Providence,73
+2021-01-10,Missouri St,78,Valparaiso,68
+2021-01-10,Monmouth NJ,72,Marist,62
+2021-01-10,Wichita St,82,Cincinnati,76
+2021-01-10,Winthrop,91,Gardner Webb,83
+2021-01-10,Siena,75,Fairfield,68
+2021-01-10,Navy,73,Lehigh,58
+2021-01-10,Indiana St,76,Loyola-Chicago,71
+2021-01-10,Loy Marymount,68,San Francisco,60
+2021-01-10,James Madison,100,Chowan,76
+2021-01-10,Florida A&M,70,S Carolina St,68
+2021-01-11,Boise St,83,Wyoming,60
+2021-01-11,Connecticut,60,DePaul,53
+2021-01-11,Colorado,65,Utah,58
+2021-01-11,SMU,79,Temple,68
+2021-01-11,Bradley,75,Northern Iowa,73
+2021-01-11,Loyola-Chicago,58,Indiana St,48
+2021-01-11,Prairie View,73,TX Southern,67
+2021-01-12,Ball St,88,Bowling Green,64
+2021-01-12,Kent,94,C Michigan,85
+2021-01-12,Florida,72,Mississippi,63
+2021-01-12,Alabama,85,Kentucky,65
+2021-01-12,N Illinois,67,Akron,65
+2021-01-12,Ohio,78,Miami OH,61
+2021-01-12,Oklahoma,82,TCU,46
+2021-01-12,Oklahoma St,75,Kansas,70
+2021-01-12,Toledo,96,E Michigan,63
+2021-01-12,Buffalo,85,W Michigan,69
+2021-01-12,Virginia Tech,74,Duke,67
+2021-01-12,Boston College,84,Miami FL,62
+2021-01-12,Davidson,80,St Joseph's PA,66
+2021-01-12,Michigan,77,Wisconsin,54
+2021-01-12,Marquette,79,Providence,69
+2021-01-12,St John's,69,Butler,57
+2021-01-12,North Carolina,81,Syracuse,75
+2021-01-12,UNLV,95,St Katherine,34
+2021-01-12,USC,67,UC Riverside,62
+2021-01-12,Alabama St,64,MS Valley St,51
+2021-01-12,Grambling,79,Alcorn St,74
+2021-01-13,Chattanooga,83,Mercer,80
+2021-01-13,Furman,94,Citadel,88
+2021-01-13,Auburn,95,Georgia,77
+2021-01-13,LSU,92,Arkansas,76
+2021-01-13,Texas A&M,56,Mississippi St,55
+2021-01-13,Sam Houston St,96,Lamar,71
+2021-01-13,SF Austin,95,Cent Arkansas,69
+2021-01-13,Texas Tech,79,Texas,77
+2021-01-13,Wofford,80,VMI,78
+2021-01-13,Nicholls St,76,Northwestern LA,66
+2021-01-13,Dayton,72,Duquesne,63
+2021-01-13,St Bonaventure,68,Fordham,54
+2021-01-13,George Mason,75,La Salle,42
+2021-01-13,VCU,84,G Washington,77
+2021-01-13,Incarnate Word,83,McNeese St,61
+2021-01-13,Ohio St,81,Northwestern,71
+2021-01-13,Wichita St,72,Tulsa,53
+2021-01-13,Louisville,77,Wake Forest,65
+2021-01-13,Virginia,80,Notre Dame,68
+2021-01-13,Boise St,90,Wyoming,70
+2021-01-13,SE Louisiana,76,TAM C. Christi,63
+2021-01-13,Massachusetts,80,Rhode Island,78
+2021-01-13,Florida St,105,NC State,73
+2021-01-13,Norfolk St,80,NC Wesleyan,58
+2021-01-13,New Mexico,72,Dixie St,63
+2021-01-14,Morehead St,87,E Illinois,61
+2021-01-14,FL Atlantic,81,Florida Intl,79
+2021-01-14,Gonzaga,95,Pepperdine,70
+2021-01-14,Jacksonville St,65,Tennessee St,64
+2021-01-14,Pacific,79,Santa Clara,58
+2021-01-14,San Francisco,79,Portland,63
+2021-01-14,BYU,62,St Mary's CA,52
+2021-01-14,Belmont,88,Tennessee Tech,67
+2021-01-14,Montana,67,Northern Arizona,56
+2021-01-14,Montana St,71,Portland St,64
+2021-01-14,E Washington,75,Southern Utah,63
+2021-01-14,N Colorado,74,Idaho,54
+2021-01-14,Sacred Heart,65,Central Conn,48
+2021-01-14,Purdue,81,Indiana,69
+2021-01-14,LIU Brooklyn,77,Wagner,66
+2021-01-14,Mt St Mary's,77,Merrimack,57
+2021-01-14,Hampton,69,SC Upstate,68
+2021-01-14,UCLA,91,Washington St,61
+2021-01-14,E Michigan,67,Calvin,56
+2021-01-14,Colorado St,90,San Jose St,57
+2021-01-14,Arizona,98,Oregon St,64
+2021-01-14,Winthrop,72,Longwood,61
+2021-01-14,UNC Asheville,92,Charleston So,54
+2021-01-14,St Francis PA,89,Bryant,82
+2021-01-14,Utah St,57,San Diego St,45
+2021-01-14,USC,95,Washington,68
+2021-01-14,Campbell,48,Presbyterian,46
+2021-01-14,Colorado,89,California,60
+2021-01-14,Utah,79,Stanford,65
+2021-01-14,Temple,62,UCF,55
+2021-01-14,UNC Greensboro,87,Samford,63
+2021-01-15,Cal Baptist,83,Tarleton St,74
+2021-01-15,Campbell,73,Presbyterian,51
+2021-01-15,Oral Roberts,88,Denver,84
+2021-01-15,Detroit,86,WI Green Bay,61
+2021-01-15,IL Chicago,67,Robert Morris,53
+2021-01-15,N Dakota St,62,North Dakota,45
+2021-01-15,IUPUI,74,N Kentucky,69
+2021-01-15,Oakland,82,Youngstown St,65
+2021-01-15,Utah Valley,93,Seattle,92
+2021-01-15,UNC Asheville,83,Charleston So,75
+2021-01-15,Hampton,84,SC Upstate,74
+2021-01-15,UTRGV,82,Dixie St,49
+2021-01-15,Winthrop,70,Longwood,50
+2021-01-15,PFW,81,WI Milwaukee,72
+2021-01-15,Cleveland St,66,Wright St,64
+2021-01-15,Ga Southern,67,Troy,64
+2021-01-15,Arkansas St,74,ULM,72
+2021-01-15,South Alabama,73,Appalachian St,64
+2021-01-15,UT Arlington,91,Louisiana,86
+2021-01-15,UC Riverside,86,Cal Poly,51
+2021-01-15,UC Santa Barbara,69,UC San Diego,52
+2021-01-15,CS Bakersfield,60,Hawaii,55
+2021-01-15,Texas St,63,Ark Little Rock,59
+2021-01-15,Monmouth NJ,92,Quinnipiac,80
+2021-01-15,Siena,78,Rider,69
+2021-01-15,Wisconsin,60,Rutgers,54
+2021-01-15,North Alabama,66,Kennesaw,43
+2021-01-15,Stetson,65,Liberty,59
+2021-01-15,Wagner,76,LIU Brooklyn,74
+2021-01-15,Louisiana Tech,77,UT San Antonio,66
+2021-01-15,Mt St Mary's,63,Merrimack,52
+2021-01-15,Southern Miss,84,MTSU,54
+2021-01-15,UAB,61,Charlotte,37
+2021-01-15,North Texas,63,UTEP,33
+2021-01-15,Rice,69,Old Dominion,59
+2021-01-15,Bryant,72,St Francis PA,63
+2021-01-15,Bowling Green,76,Buffalo,69
+2021-01-15,Bellarmine,74,FL Gulf Coast,60
+2021-01-15,Nevada,73,Fresno St,57
+2021-01-15,Manhattan,58,Niagara,49
+2021-01-15,Marist,73,Fairfield,63
+2021-01-15,Grand Canyon,121,Bethesda,62
+2021-01-15,WKU,81,Marshall,73
+2021-01-15,St Bonaventure,62,Duquesne,48
+2021-01-15,Lipscomb,84,North Florida,72
+2021-01-15,Delaware,74,Hofstra,56
+2021-01-15,Maryland,100,Wingate,58
+2021-01-16,Charlotte,70,UAB,55
+2021-01-16,Southern Utah,99,E Washington,94
+2021-01-16,N Colorado,75,Idaho,61
+2021-01-16,Northern Arizona,62,Montana,58
+2021-01-16,Montana St,69,Portland St,64
+2021-01-16,North Texas,74,UTEP,65
+2021-01-16,North Alabama,66,Kennesaw,64
+2021-01-16,UC Riverside,70,Cal Poly,53
+2021-01-16,CS Bakersfield,83,Hawaii,72
+2021-01-16,Appalachian St,83,South Alabama,77
+2021-01-16,UC Santa Barbara,84,UC San Diego,53
+2021-01-16,UNC Greensboro,82,Samford,70
+2021-01-16,Akron,95,Toledo,94
+2021-01-16,Alabama,90,Arkansas,59
+2021-01-16,Alabama A&M,70,Alabama St,63
+2021-01-16,Alcorn St,71,MS Valley St,59
+2021-01-16,Auburn,66,Kentucky,59
+2021-01-16,Ball St,78,N Illinois,58
+2021-01-16,Nicholls St,74,Cent Arkansas,72
+2021-01-16,C Michigan,75,E Michigan,64
+2021-01-16,Wofford,77,Chattanooga,59
+2021-01-16,E Kentucky,93,E Illinois,85
+2021-01-16,FL Atlantic,107,Florida Intl,63
+2021-01-16,Furman,78,ETSU,66
+2021-01-16,SF Austin,83,Incarnate Word,65
+2021-01-16,Belmont,98,Jacksonville St,91
+2021-01-16,Lafayette,77,Loyola MD,75
+2021-01-16,Louisiana Tech,82,UT San Antonio,66
+2021-01-16,LSU,85,South Carolina,80
+2021-01-16,Mercer,78,W Carolina,76
+2021-01-16,Mississippi St,72,Florida,69
+2021-01-16,Kent,89,Ohio,79
+2021-01-16,Georgia,78,Mississippi,74
+2021-01-16,Pacific,58,Loy Marymount,49
+2021-01-16,Pepperdine,80,Portland,65
+2021-01-16,Sam Houston St,87,Houston Bap,80
+2021-01-16,Southern Miss,64,MTSU,59
+2021-01-16,Southern Univ,88,Ark Pine Bluff,53
+2021-01-16,Gonzaga,73,St Mary's CA,59
+2021-01-16,Tennessee Tech,74,Tennessee St,71
+2021-01-16,Tennessee,81,Vanderbilt,61
+2021-01-16,Texas,82,Kansas St,67
+2021-01-16,Missouri,68,Texas A&M,52
+2021-01-16,Grambling,78,TX Southern,72
+2021-01-16,Baylor,68,Texas Tech,60
+2021-01-16,Murray St,79,TN Martin,57
+2021-01-16,Utah St,64,San Diego St,59
+2021-01-16,VMI,110,Citadel,103
+2021-01-16,Liberty,68,Stetson,58
+2021-01-16,Bellarmine,80,FL Gulf Coast,63
+2021-01-16,Ga Southern,63,Troy,56
+2021-01-16,Georgia St,71,Coastal Car,68
+2021-01-16,Arkansas St,93,ULM,72
+2021-01-16,Louisiana,68,UT Arlington,51
+2021-01-16,Texas St,67,Ark Little Rock,56
+2021-01-16,BYU,72,San Francisco,63
+2021-01-16,Virginia,85,Clemson,50
+2021-01-16,Abilene Chr,76,SE Louisiana,42
+2021-01-16,Florida St,82,North Carolina,75
+2021-01-16,Rhode Island,80,George Mason,60
+2021-01-16,Miami FL,78,Louisville,72
+2021-01-16,New Orleans,99,McNeese St,84
+2021-01-16,Notre Dame,80,Boston College,70
+2021-01-16,Pittsburgh,96,Syracuse,76
+2021-01-16,Northeastern,67,Col Charleston,62
+2021-01-16,Drexel,82,William & Mary,58
+2021-01-16,Hartford,70,UMBC,63
+2021-01-16,New Hampshire,81,Stony Brook,64
+2021-01-16,Vermont,65,Maine,30
+2021-01-16,SUNY Albany,83,NJIT,75
+2021-01-16,MA Lowell,92,Binghamton,78
+2021-01-16,Ohio St,87,Illinois,81
+2021-01-16,Air Force,72,Wyoming,69
+2021-01-16,California,72,Utah,63
+2021-01-16,UCLA,81,Washington,76
+2021-01-16,Cal Baptist,73,Tarleton St,67
+2021-01-16,Wright St,85,Cleveland St,49
+2021-01-16,Colgate,95,Holy Cross,55
+2021-01-16,Colorado St,88,San Jose St,61
+2021-01-16,Colorado,77,Stanford,64
+2021-01-16,Oral Roberts,91,Denver,82
+2021-01-16,Detroit,68,WI Green Bay,65
+2021-01-16,Navy,87,American Univ,86
+2021-01-16,IUPUI,65,N Kentucky,63
+2021-01-16,UTRGV,72,Dixie St,65
+2021-01-16,IL Chicago,66,Robert Morris,62
+2021-01-16,PFW,81,WI Milwaukee,74
+2021-01-16,Bucknell,75,Lehigh,70
+2021-01-16,Loyola-Chicago,72,Northern Iowa,57
+2021-01-16,Minnesota,75,Michigan,57
+2021-01-16,Monmouth NJ,70,Quinnipiac,63
+2021-01-16,North Dakota,82,N Dakota St,78
+2021-01-16,Oakland,81,Youngstown St,74
+2021-01-16,Old Dominion,61,Rice,58
+2021-01-16,Siena,74,Rider,72
+2021-01-16,USC,85,Washington St,77
+2021-01-16,Army,79,Boston Univ,59
+2021-01-16,UNLV,77,New Mexico,54
+2021-01-16,Norfolk St,87,Delaware St,76
+2021-01-16,Bradley,69,Evansville,60
+2021-01-16,Indiana St,73,Illinois St,65
+2021-01-16,Marquette,73,St John's,71
+2021-01-16,Butler,70,Creighton,66
+2021-01-16,Oregon St,80,Arizona St,79
+2021-01-16,Manhattan,58,Niagara,55
+2021-01-16,Morgan St,92,Coppin St,72
+2021-01-16,Davidson,77,La Salle,53
+2021-01-16,James Madison,81,Towson,72
+2021-01-16,Grand Canyon,98,Bethesda,47
+2021-01-16,Fairfield,55,Marist,52
+2021-01-16,North Florida,72,Lipscomb,67
+2021-01-16,Weber St,124,Yellowstone Chr,44
+2021-01-16,Morehead St,64,SE Missouri St,50
+2021-01-16,Temple,65,Tulane,57
+2021-01-16,DePaul,77,Valparaiso,58
+2021-01-16,CS Northridge,86,CS Fullerton,85
+2021-01-16,NC A&T,112,Carver Bib,46
+2021-01-17,SUNY Albany,83,NJIT,71
+2021-01-17,MA Lowell,77,Binghamton,67
+2021-01-17,Northeastern,68,Col Charleston,66
+2021-01-17,Hofstra,68,Delaware,67
+2021-01-17,William & Mary,69,Drexel,64
+2021-01-17,New Hampshire,67,Stony Brook,64
+2021-01-17,UMBC,57,Hartford,49
+2021-01-17,Vermont,88,Maine,60
+2021-01-17,Navy,71,American Univ,59
+2021-01-17,Colgate,96,Holy Cross,87
+2021-01-17,Dayton,67,G Washington,54
+2021-01-17,Massachusetts,65,Fordham,46
+2021-01-17,Iowa,96,Northwestern,73
+2021-01-17,Tulsa,58,Memphis,57
+2021-01-17,Purdue,80,Penn St,72
+2021-01-17,Virginia Tech,64,Wake Forest,60
+2021-01-17,Houston,75,UCF,58
+2021-01-17,Lafayette,72,Loyola MD,70
+2021-01-17,Bucknell,77,Lehigh,61
+2021-01-17,Loyola-Chicago,88,Northern Iowa,46
+2021-01-17,WKU,69,Marshall,67
+2021-01-17,Army,76,Boston Univ,65
+2021-01-17,Norfolk St,83,Delaware St,79
+2021-01-17,Bradley,86,Evansville,55
+2021-01-17,Indiana St,74,Illinois St,68
+2021-01-17,Nevada,79,Fresno St,65
+2021-01-17,Weber St,94,Tarleton St,79
+2021-01-17,Coppin St,89,Morgan St,79
+2021-01-17,Idaho St,57,CS Sacramento,56
+2021-01-17,CS Fullerton,85,CS Northridge,77
+2021-01-17,Santa Clara,69,San Diego,63
+2021-01-17,Missouri St,94,Missouri S&T,49
+2021-01-18,Alcorn St,82,Ark Pine Bluff,48
+2021-01-18,Baylor,77,Kansas,69
+2021-01-18,Prairie View,59,Grambling,50
+2021-01-18,Southern Univ,102,MS Valley St,61
+2021-01-18,Florida St,78,Louisville,65
+2021-01-18,La Salle,90,St Joseph's PA,83
+2021-01-18,Wyoming,77,Air Force,58
+2021-01-18,St John's,74,Connecticut,70
+2021-01-18,Samford,82,W Carolina,78
+2021-01-18,UNLV,53,New Mexico,46
+2021-01-18,UNC Greensboro,87,Citadel,73
+2021-01-18,ETSU,92,VMI,81
+2021-01-18,Towson,72,UNC Wilmington,69
+2021-01-18,CS Sacramento,70,Idaho St,65
+2021-01-19,Akron,69,Bowling Green,57
+2021-01-19,Florida,75,Tennessee,49
+2021-01-19,UNC Asheville,79,Gardner Webb,75
+2021-01-19,Kent,84,Buffalo,81
+2021-01-19,Longwood,75,High Point,54
+2021-01-19,Alabama,105,LSU,75
+2021-01-19,Miami OH,81,Ball St,71
+2021-01-19,Mississippi,64,Mississippi St,46
+2021-01-19,Missouri,81,South Carolina,70
+2021-01-19,Oklahoma,76,Kansas St,50
+2021-01-19,Winthrop,72,Presbyterian,58
+2021-01-19,Toledo,89,C Michigan,72
+2021-01-19,Pittsburgh,79,Duke,73
+2021-01-19,Syracuse,83,Miami FL,57
+2021-01-19,Michigan,87,Maryland,63
+2021-01-19,Butler,67,DePaul,53
+2021-01-19,Villanova,76,Seton Hall,74
+2021-01-19,Towson,78,UNC Wilmington,74
+2021-01-19,Purdue,67,Ohio St,65
+2021-01-19,Oregon St,58,USC,56
+2021-01-19,SE Missouri St,63,Tennessee St,59
+2021-01-19,Illinois,79,Penn St,65
+2021-01-19,Utah St,83,Colorado St,64
+2021-01-19,Loy Marymount,72,San Diego,69
+2021-01-19,Radford,97,Campbell,91
+2021-01-20,Arkansas,75,Auburn,73
+2021-01-20,Mercer,83,Citadel,63
+2021-01-20,Georgia,63,Kentucky,62
+2021-01-20,New Orleans,87,TAM C. Christi,68
+2021-01-20,Sam Houston St,64,Abilene Chr,57
+2021-01-20,SF Austin,86,Northwestern LA,74
+2021-01-20,VMI,74,Furman,73
+2021-01-20,ETSU,59,W Carolina,48
+2021-01-20,Chattanooga,70,Samford,64
+2021-01-20,Duquesne,71,Rhode Island,69
+2021-01-20,SE Louisiana,92,McNeese St,88
+2021-01-20,Davidson,73,Fordham,58
+2021-01-20,George Mason,87,St Joseph's PA,85
+2021-01-20,Nicholls St,92,Houston Bap,83
+2021-01-20,Houston,86,Tulsa,59
+2021-01-20,Gardner Webb,84,UNC Asheville,57
+2021-01-20,Winthrop,78,Presbyterian,66
+2021-01-20,Georgia Tech,83,Clemson,65
+2021-01-20,Washington,84,Colorado,80
+2021-01-20,Longwood,67,High Point,54
+2021-01-20,Loyola-Chicago,75,Valparaiso,39
+2021-01-20,Providence,74,Creighton,70
+2021-01-20,Illinois St,71,Bradley,56
+2021-01-20,Boise St,73,Fresno St,51
+2021-01-20,Wisconsin,68,Northwestern,52
+2021-01-20,St Bonaventure,70,VCU,54
+2021-01-20,North Carolina,80,Wake Forest,73
+2021-01-20,Radford,67,Campbell,61
+2021-01-20,Cal Baptist,89,San Diego Chr,37
+2021-01-21,Austin Peay,72,Tennessee Tech,69
+2021-01-21,Belmont,79,E Illinois,66
+2021-01-21,E Kentucky,113,TN Martin,73
+2021-01-21,St Mary's CA,65,Loy Marymount,61
+2021-01-21,Morehead St,76,SE Missouri St,65
+2021-01-21,Jacksonville St,85,Murray St,82
+2021-01-21,Pepperdine,85,Pacific,68
+2021-01-21,San Francisco,73,Santa Clara,50
+2021-01-21,SIUE,67,Tennessee St,65
+2021-01-21,Weber St,91,Southern Utah,67
+2021-01-21,BYU,95,Portland,67
+2021-01-21,Montana St,62,Northern Arizona,51
+2021-01-21,N Colorado,78,E Washington,76
+2021-01-21,Montana,78,CS Sacramento,66
+2021-01-21,Idaho St,64,Portland St,57
+2021-01-21,Mt St Mary's,67,Central Conn,57
+2021-01-21,Merrimack,62,F Dickinson,51
+2021-01-21,Indiana,81,Iowa,69
+2021-01-21,Memphis,72,Wichita St,52
+2021-01-21,Arizona,84,Arizona St,82
+2021-01-21,New Mexico,67,San Jose St,51
+2021-01-21,St Francis PA,76,Sacred Heart,58
+2021-01-21,Utah,71,Washington St,56
+2021-01-21,UCLA,61,California,57
+2021-01-21,Penn St,75,Rutgers,67
+2021-01-21,Buffalo,92,E Michigan,77
+2021-01-21,Miami OH,96,Bowling Green,77
+2021-01-21,UNLV,99,Benedictine AZ,45
+2021-01-21,Akron,81,C Michigan,67
+2021-01-21,Colorado St,84,Utah St,76
+2021-01-21,Morgan St,99,St Mary's MD,41
+2021-01-22,Cleveland St,64,WI Milwaukee,53
+2021-01-22,Grand Canyon,77,Dixie St,74
+2021-01-22,Wright St,95,IUPUI,65
+2021-01-22,N Dakota St,70,Denver,58
+2021-01-22,Oakland,86,Detroit,81
+2021-01-22,N Kentucky,81,Robert Morris,76
+2021-01-22,S Dakota St,92,North Dakota,73
+2021-01-22,South Dakota,65,W Illinois,60
+2021-01-22,WI Green Bay,77,PFW,59
+2021-01-22,IL Chicago,67,Youngstown St,66
+2021-01-22,Appalachian St,80,Georgia St,71
+2021-01-22,Texas St,57,ULM,47
+2021-01-22,Ga Southern,84,South Alabama,75
+2021-01-22,Louisiana,81,Arkansas St,68
+2021-01-22,Ark Little Rock,66,UT Arlington,59
+2021-01-22,UC Irvine,68,Cal Poly,49
+2021-01-22,CS Fullerton,83,Hawaii,67
+2021-01-22,UC Santa Barbara,105,CS Northridge,58
+2021-01-22,UC San Diego,89,UC Davis,69
+2021-01-22,CS Bakersfield,47,UC Riverside,45
+2021-01-22,Coastal Car,90,Troy,81
+2021-01-22,Michigan,70,Purdue,53
+2021-01-22,Wyoming,71,Nevada,64
+2021-01-22,St Peter's,68,Siena,62
+2021-01-22,San Diego St,98,Air Force,61
+2021-01-22,Central Conn,65,Mt St Mary's,64
+2021-01-22,Merrimack,76,F Dickinson,71
+2021-01-22,North Alabama,82,Jacksonville,81
+2021-01-22,UTEP,82,Louisiana Tech,74
+2021-01-22,UAB,78,Rice,68
+2021-01-22,Sacred Heart,82,St Francis PA,70
+2021-01-22,Bellarmine,67,Stetson,62
+2021-01-22,FL Atlantic,66,Charlotte,53
+2021-01-22,Marshall,79,Florida Intl,66
+2021-01-22,UT San Antonio,70,Southern Miss,64
+2021-01-22,FL Gulf Coast,79,Lipscomb,69
+2021-01-22,Niagara,59,Quinnipiac,56
+2021-01-22,Rider,76,Marist,64
+2021-01-22,North Florida,69,Kennesaw,54
+2021-01-23,Charlotte,74,FL Atlantic,71
+2021-01-23,Marshall,89,Florida Intl,72
+2021-01-23,Montana St,58,Northern Arizona,53
+2021-01-23,E Washington,82,N Colorado,76
+2021-01-23,Portland St,69,Idaho St,43
+2021-01-23,CS Sacramento,89,Montana,83
+2021-01-23,UAB,86,Rice,74
+2021-01-23,UT San Antonio,78,Southern Miss,72
+2021-01-23,Appalachian St,74,Georgia St,61
+2021-01-23,Hawaii,76,CS Fullerton,53
+2021-01-23,UC Santa Barbara,80,CS Northridge,66
+2021-01-23,Texas St,69,ULM,63
+2021-01-23,South Alabama,62,Ga Southern,48
+2021-01-23,UC Irvine,67,Cal Poly,44
+2021-01-23,UC Riverside,70,CS Bakersfield,63
+2021-01-23,UC Davis,78,UC San Diego,71
+2021-01-23,UT Arlington,66,Ark Little Rock,61
+2021-01-23,Coastal Car,70,Troy,65
+2021-01-23,Louisiana,77,Arkansas St,74
+2021-01-23,Abilene Chr,93,Cent Arkansas,58
+2021-01-23,Alabama,81,Mississippi St,73
+2021-01-23,Alabama A&M,68,Southern Univ,58
+2021-01-23,Alcorn St,57,Alabama St,52
+2021-01-23,American Univ,71,Loyola MD,70
+2021-01-23,TX Southern,66,Ark Pine Bluff,57
+2021-01-23,Jacksonville St,76,Austin Peay,70
+2021-01-23,Bellarmine,76,Stetson,65
+2021-01-23,Belmont,114,SIUE,62
+2021-01-23,BYU,65,Pepperdine,54
+2021-01-23,UNC Greensboro,74,Chattanooga,66
+2021-01-23,ETSU,71,Furman,62
+2021-01-23,Miami OH,85,E Michigan,63
+2021-01-23,Florida,92,Georgia,84
+2021-01-23,Gonzaga,95,Pacific,49
+2021-01-23,Jackson St,75,Grambling,61
+2021-01-23,Incarnate Word,72,TAM C. Christi,53
+2021-01-23,West Virginia,69,Kansas St,47
+2021-01-23,Kentucky,82,LSU,69
+2021-01-23,Lipscomb,71,FL Gulf Coast,56
+2021-01-23,Santa Clara,72,Loy Marymount,69
+2021-01-23,Mercer,83,VMI,80
+2021-01-23,Prairie View,77,MS Valley St,31
+2021-01-23,Morehead St,76,TN Martin,44
+2021-01-23,Murray St,72,Tennessee Tech,63
+2021-01-23,New Hampshire,71,SUNY Albany,64
+2021-01-23,North Alabama,76,Jacksonville,54
+2021-01-23,Ohio,85,Ball St,77
+2021-01-23,Oklahoma,75,Kansas,68
+2021-01-23,Baylor,81,Oklahoma St,66
+2021-01-23,Mississippi,61,Texas A&M,50
+2021-01-23,San Diego,78,Portland,70
+2021-01-23,St Mary's CA,67,San Francisco,63
+2021-01-23,Southern Utah,77,Weber St,72
+2021-01-23,SF Austin,102,Lamar,72
+2021-01-23,Tennessee St,65,E Illinois,54
+2021-01-23,Missouri,73,Tennessee,64
+2021-01-23,Toledo,76,Kent,74
+2021-01-23,Arkansas,92,Vanderbilt,71
+2021-01-23,Akron,79,W Michigan,68
+2021-01-23,Wofford,91,W Carolina,78
+2021-01-23,Oral Roberts,60,Missouri KC,58
+2021-01-23,Florida St,80,Clemson,61
+2021-01-23,Louisville,70,Duke,65
+2021-01-23,Virginia,64,Georgia Tech,62
+2021-01-23,North Carolina,86,NC State,76
+2021-01-23,Nicholls St,86,New Orleans,62
+2021-01-23,Northwestern LA,73,SE Louisiana,68
+2021-01-23,Syracuse,78,Virginia Tech,60
+2021-01-23,VCU,66,Dayton,43
+2021-01-23,La Salle,84,Richmond,78
+2021-01-23,Hofstra,71,Towson,58
+2021-01-23,UNC Wilmington,77,Delaware,70
+2021-01-23,Northeastern,72,James Madison,63
+2021-01-23,NJIT,74,Stony Brook,65
+2021-01-23,George Mason,71,St Joseph's PA,62
+2021-01-23,McNeese St,74,Houston Bap,71
+2021-01-23,San Jose St,83,New Mexico,71
+2021-01-23,Penn St,81,Northwestern,78
+2021-01-23,Ohio St,74,Wisconsin,62
+2021-01-23,USC,76,California,68
+2021-01-23,Stanford,73,UCLA,72
+2021-01-23,Grand Canyon,81,Dixie St,46
+2021-01-23,SMU,78,UCF,65
+2021-01-23,WI Milwaukee,81,Cleveland St,80
+2021-01-23,Colorado,70,Washington St,59
+2021-01-23,N Dakota St,84,Denver,58
+2021-01-23,Detroit,82,Oakland,72
+2021-01-23,Wright St,100,IUPUI,72
+2021-01-23,Lehigh,75,Holy Cross,72
+2021-01-23,Youngstown St,85,IL Chicago,77
+2021-01-23,WI Green Bay,87,PFW,72
+2021-01-23,Boston Univ,81,Lafayette,76
+2021-01-23,Louisiana Tech,73,UTEP,55
+2021-01-23,Auburn,109,South Carolina,86
+2021-01-23,Maryland,63,Minnesota,49
+2021-01-23,WKU,82,MTSU,67
+2021-01-23,S Dakota St,85,North Dakota,74
+2021-01-23,N Kentucky,79,Robert Morris,74
+2021-01-23,Oregon St,75,Oregon,64
+2021-01-23,Siena,47,St Peter's,40
+2021-01-23,South Dakota,84,W Illinois,74
+2021-01-23,Navy,69,Army,62
+2021-01-23,Creighton,74,Connecticut,66
+2021-01-23,Coppin St,81,Norfolk St,71
+2021-01-23,DePaul,68,Marquette,61
+2021-01-23,Villanova,71,Providence,56
+2021-01-23,Valparaiso,69,Illinois St,60
+2021-01-23,Quinnipiac,78,Niagara,69
+2021-01-23,North Florida,68,Kennesaw,65
+2021-01-23,Marist,76,Rider,67
+2021-01-23,Houston,68,Temple,51
+2021-01-23,St John's,96,Utah Valley,78
+2021-01-23,Wake Forest,76,Pittsburgh,75
+2021-01-23,St Bonaventure,65,Duquesne,61
+2021-01-23,Cal Baptist,96,Long Beach St,75
+2021-01-23,Drexel,79,William & Mary,64
+2021-01-24,Hofstra,74,Towson,69
+2021-01-24,Delaware,67,UNC Wilmington,62
+2021-01-24,Stony Brook,56,NJIT,44
+2021-01-24,James Madison,79,Northeastern,72
+2021-01-24,High Point,81,Presbyterian,57
+2021-01-24,Lehigh,82,Holy Cross,74
+2021-01-24,Boston Univ,64,Lafayette,61
+2021-01-24,Army,87,Navy,78
+2021-01-24,UNC Asheville,76,Radford,68
+2021-01-24,Notre Dame,73,Miami FL,59
+2021-01-24,WKU,68,MTSU,52
+2021-01-24,Davidson,69,Massachusetts,60
+2021-01-24,Memphis,80,East Carolina,53
+2021-01-24,Rutgers,74,Indiana,70
+2021-01-24,SUNY Albany,83,New Hampshire,64
+2021-01-24,American Univ,81,Loyola MD,79
+2021-01-24,Missouri KC,81,Oral Roberts,76
+2021-01-24,Wyoming,93,Nevada,88
+2021-01-24,San Diego St,91,Air Force,59
+2021-01-24,Washington,83,Utah,79
+2021-01-24,Coppin St,81,Norfolk St,77
+2021-01-24,Loyola-Chicago,69,Bradley,56
+2021-01-24,Valparaiso,70,Illinois St,66
+2021-01-24,Rhode Island,52,Fordham,42
+2021-01-24,Gardner Webb,74,Charleston So,62
+2021-01-24,Morgan St,99,Delaware St,83
+2021-01-24,Nicholls St,105,Carver Bib,60
+2021-01-25,Alabama St,66,Southern Univ,64
+2021-01-25,Prairie View,73,Ark Pine Bluff,56
+2021-01-25,Oklahoma St,81,Iowa St,60
+2021-01-25,West Virginia,88,Texas Tech,87
+2021-01-25,Virginia,81,Syracuse,58
+2021-01-25,Presbyterian,71,High Point,56
+2021-01-25,Radford,73,UNC Asheville,63
+2021-01-25,Loyola-Chicago,65,Bradley,58
+2021-01-25,UNLV,59,Utah St,56
+2021-01-25,Indiana St,69,S Illinois,66
+2021-01-25,Northern Iowa,70,Coe,60
+2021-01-25,Arizona,80,Arizona St,67
+2021-01-25,Loy Marymount,75,Portland,50
+2021-01-25,Gardner Webb,80,Charleston So,71
+2021-01-25,New Mexico St,70,W New Mexico,41
+2021-01-25,Tarleton St,113,Howard Payne,53
+2021-01-26,Akron,86,E Michigan,65
+2021-01-26,Alabama,70,Kentucky,59
+2021-01-26,Auburn,88,Missouri,82
+2021-01-26,Toledo,90,Miami OH,81
+2021-01-26,Ohio,81,W Michigan,58
+2021-01-26,Tennessee,56,Mississippi St,53
+2021-01-26,Oklahoma,80,Texas,79
+2021-01-26,LSU,78,Texas A&M,66
+2021-01-26,Duke,75,Georgia Tech,68
+2021-01-26,North Carolina,75,Pittsburgh,65
+2021-01-26,Richmond,79,St Joseph's PA,56
+2021-01-26,Dayton,76,St Louis,71
+2021-01-26,Connecticut,63,Butler,51
+2021-01-26,F Dickinson,94,St Francis PA,92
+2021-01-26,Portland St,69,St Martin's,60
+2021-01-26,Memphis,76,SMU,72
+2021-01-26,TN Martin,69,SE Missouri St,66
+2021-01-26,Drake,68,Missouri St,61
+2021-01-26,SIUE,87,E Illinois,74
+2021-01-26,Temple,76,Tulsa,67
+2021-01-26,Indiana St,71,S Illinois,59
+2021-01-27,Abilene Chr,82,SF Austin,62
+2021-01-27,Arkansas,74,Mississippi,59
+2021-01-27,Baylor,107,Kansas St,59
+2021-01-27,Citadel,77,Wofford,69
+2021-01-27,Florida,78,Vanderbilt,71
+2021-01-27,SE Louisiana,69,Cent Arkansas,57
+2021-01-27,South Carolina,83,Georgia,59
+2021-01-27,Sam Houston St,75,TAM C. Christi,70
+2021-01-27,VMI,87,W Carolina,61
+2021-01-27,Rhode Island,73,La Salle,60
+2021-01-27,Northwestern LA,81,New Orleans,73
+2021-01-27,Duquesne,86,Fordham,62
+2021-01-27,Houston Bap,73,Incarnate Word,57
+2021-01-27,Nicholls St,76,McNeese St,69
+2021-01-27,UCF,71,East Carolina,64
+2021-01-27,Virginia Tech,62,Notre Dame,51
+2021-01-27,Creighton,85,Seton Hall,81
+2021-01-27,St John's,81,DePaul,68
+2021-01-27,Providence,72,Marquette,63
+2021-01-27,Colorado,70,Washington St,58
+2021-01-27,St Francis PA,90,F Dickinson,82
+2021-01-27,Pepperdine,76,BYU,73
+2021-01-27,James Madison,78,Towson,63
+2021-01-27,Utah St,83,UNLV,74
+2021-01-27,Florida St,81,Miami FL,59
+2021-01-27,NC State,72,Wake Forest,67
+2021-01-27,Colorado St,78,Boise St,56
+2021-01-27,Wisconsin,61,Maryland,55
+2021-01-27,Drake,78,Missouri St,73
+2021-01-27,Ohio St,83,Penn St,79
+2021-01-27,UNC Greensboro,81,Mercer,68
+2021-01-27,Clemson,54,Louisville,50
+2021-01-27,Kent,96,Bowling Green,91
+2021-01-27,Merrimack,68,LIU Brooklyn,63
+2021-01-28,Belmont,81,Austin Peay,76
+2021-01-28,Morehead St,85,Jacksonville St,66
+2021-01-28,Murray St,73,Tennessee St,53
+2021-01-28,Gonzaga,90,San Diego,62
+2021-01-28,SE Missouri St,64,SIUE,62
+2021-01-28,Louisiana Tech,76,Southern Miss,63
+2021-01-28,TN Martin,51,E Illinois,41
+2021-01-28,UT San Antonio,86,UTEP,79
+2021-01-28,Weber St,81,Idaho,56
+2021-01-28,San Diego St,87,Wyoming,57
+2021-01-28,Arizona St,72,California,68
+2021-01-28,Stanford,73,Arizona,64
+2021-01-28,UAB,70,MTSU,59
+2021-01-28,Fresno St,64,New Mexico,62
+2021-01-28,San Jose St,59,Air Force,58
+2021-01-28,SMU,67,Memphis,65
+2021-01-28,Rutgers,67,Michigan St,37
+2021-01-28,USC,75,Oregon St,62
+2021-01-28,Valparaiso,91,Bradley,85
+2021-01-28,Winthrop,84,UNC Asheville,80
+2021-01-28,Kansas,59,TCU,51
+2021-01-28,Houston,83,Tulane,60
+2021-01-28,LIU Brooklyn,78,Merrimack,68
+2021-01-29,Cal Baptist,89,Dixie St,74
+2021-01-29,Cleveland St,74,WI Green Bay,68
+2021-01-29,Grand Canyon,70,New Mexico St,62
+2021-01-29,Oakland,81,PFW,66
+2021-01-29,IUPUI,73,WI Milwaukee,68
+2021-01-29,North Dakota,83,W Illinois,81
+2021-01-29,N Kentucky,72,IL Chicago,68
+2021-01-29,N Dakota St,71,Missouri KC,67
+2021-01-29,Wright St,79,Robert Morris,70
+2021-01-29,Detroit,78,Youngstown St,75
+2021-01-29,South Dakota,91,NE Omaha,59
+2021-01-29,Coastal Car,79,Ga Southern,62
+2021-01-29,Arkansas St,83,UT Arlington,75
+2021-01-29,UC Santa Barbara,72,UC Davis,51
+2021-01-29,CS Fullerton,90,CS Bakersfield,84
+2021-01-29,UC Irvine,53,Hawaii,51
+2021-01-29,Louisiana,62,Texas St,60
+2021-01-29,Troy,71,Appalachian St,62
+2021-01-29,Ark Little Rock,66,ULM,62
+2021-01-29,Illinois,80,Iowa,75
+2021-01-29,St Peter's,59,Manhattan,55
+2021-01-29,Bellarmine,84,Kennesaw,67
+2021-01-29,Longwood,49,Presbyterian,45
+2021-01-29,Charlotte,63,Florida Intl,55
+2021-01-29,North Alabama,82,North Florida,78
+2021-01-29,Liberty,59,Jacksonville,54
+2021-01-29,Ohio,76,Buffalo,75
+2021-01-29,Utah Valley,73,Tarleton St,60
+2021-01-29,Boise St,85,Colorado St,77
+2021-01-29,Monmouth NJ,77,Niagara,67
+2021-01-29,UNC Asheville,57,Winthrop,55
+2021-01-29,FL Gulf Coast,64,Stetson,63
+2021-01-29,High Point,59,Gardner Webb,55
+2021-01-29,Campbell,59,Charleston So,58
+2021-01-29,North Texas,79,Rice,74
+2021-01-29,Cal Poly,76,CS Northridge,70
+2021-01-29,Northern Arizona,68,N Colorado,64
+2021-01-29,NC Central,94,Carver Bib,61
+2021-01-30,Weber St,81,Idaho,62
+2021-01-30,Liberty,64,Jacksonville,58
+2021-01-30,Bellarmine,84,Kennesaw,79
+2021-01-30,North Florida,82,North Alabama,72
+2021-01-30,CS Northridge,64,Cal Poly,51
+2021-01-30,CS Bakersfield,83,CS Fullerton,73
+2021-01-30,Ga Southern,61,Coastal Car,58
+2021-01-30,Hawaii,62,UC Irvine,61
+2021-01-30,UC Santa Barbara,89,UC Davis,86
+2021-01-30,UT Arlington,65,Arkansas St,64
+2021-01-30,Louisiana,74,Texas St,73
+2021-01-30,Troy,65,Appalachian St,59
+2021-01-30,Ark Little Rock,65,ULM,49
+2021-01-30,Akron,74,Ball St,42
+2021-01-30,Southern Univ,76,Alcorn St,59
+2021-01-30,Austin Peay,71,Tennessee St,56
+2021-01-30,Baylor,84,Auburn,72
+2021-01-30,Toledo,84,Bowling Green,66
+2021-01-30,Northwestern LA,81,Cent Arkansas,77
+2021-01-30,ETSU,112,Citadel,84
+2021-01-30,Georgia,71,Mississippi,61
+2021-01-30,Grambling,74,Ark Pine Bluff,71
+2021-01-30,Jackson St,106,MS Valley St,56
+2021-01-30,Texas A&M,68,Kansas St,61
+2021-01-30,Kent,83,C Michigan,76
+2021-01-30,Louisiana Tech,65,Southern Miss,62
+2021-01-30,Texas Tech,76,LSU,71
+2021-01-30,Miami OH,65,W Michigan,56
+2021-01-30,Mississippi St,95,Iowa St,56
+2021-01-30,Missouri,102,TCU,98
+2021-01-30,Belmont,72,Murray St,71
+2021-01-30,UNC Greensboro,76,VMI,59
+2021-01-30,Oklahoma,66,Alabama,61
+2021-01-30,Oklahoma St,81,Arkansas,77
+2021-01-30,Gonzaga,97,Pepperdine,75
+2021-01-30,Prairie View,79,Alabama A&M,57
+2021-01-30,SE Missouri St,75,E Illinois,44
+2021-01-30,Tennessee,80,Kansas,61
+2021-01-30,Morehead St,74,Tennessee Tech,55
+2021-01-30,TX Southern,80,Alabama St,73
+2021-01-30,SIUE,76,TN Martin,60
+2021-01-30,UTEP,69,UT San Antonio,51
+2021-01-30,Vanderbilt,93,South Carolina,81
+2021-01-30,Florida,85,West Virginia,80
+2021-01-30,Wofford,72,Mercer,69
+2021-01-30,Lamar,64,McNeese St,56
+2021-01-30,Charlotte,68,Florida Intl,65
+2021-01-30,Duke,79,Clemson,53
+2021-01-30,Dayton,67,Rhode Island,56
+2021-01-30,Abilene Chr,75,Incarnate Word,67
+2021-01-30,Georgia Tech,76,Florida St,65
+2021-01-30,Wake Forest,66,Miami FL,54
+2021-01-30,SE Louisiana,79,New Orleans,73
+2021-01-30,Virginia Tech,65,Virginia,51
+2021-01-30,Delaware,66,Elon,43
+2021-01-30,Hofstra,82,UNC Wilmington,73
+2021-01-30,William & Mary,84,Towson,74
+2021-01-30,Binghamton,65,New Hampshire,44
+2021-01-30,St Francis PA,62,Central Conn,59
+2021-01-30,Duquesne,67,St Joseph's PA,50
+2021-01-30,Tulsa,77,East Carolina,68
+2021-01-30,LIU Brooklyn,102,St Francis NY,88
+2021-01-30,Purdue,81,Minnesota,62
+2021-01-30,Sacred Heart,61,Mt St Mary's,58
+2021-01-30,Arizona,71,California,50
+2021-01-30,Grand Canyon,65,New Mexico St,53
+2021-01-30,Wichita St,93,UCF,88
+2021-01-30,Presbyterian,66,Longwood,54
+2021-01-30,Cleveland St,73,WI Green Bay,65
+2021-01-30,Utah,77,Colorado,74
+2021-01-30,Detroit,77,Youngstown St,72
+2021-01-30,WI Milwaukee,83,IUPUI,76
+2021-01-30,Missouri KC,49,N Dakota St,47
+2021-01-30,Arizona St,79,Stanford,75
+2021-01-30,Dixie St,79,Cal Baptist,75
+2021-01-30,N Kentucky,69,IL Chicago,67
+2021-01-30,Oakland,82,PFW,75
+2021-01-30,VCU,73,La Salle,62
+2021-01-30,Bucknell,84,Lehigh,70
+2021-01-30,Navy,70,Loyola MD,52
+2021-01-30,St Peter's,68,Manhattan,54
+2021-01-30,South Dakota,97,NE Omaha,93
+2021-01-30,Fresno St,65,New Mexico,55
+2021-01-30,W Illinois,99,North Dakota,87
+2021-01-30,Wright St,86,Robert Morris,56
+2021-01-30,San Diego St,98,Wyoming,71
+2021-01-30,San Jose St,75,Air Force,62
+2021-01-30,Creighton,69,DePaul,62
+2021-01-30,Norfolk St,94,Delaware St,66
+2021-01-30,Georgetown,73,Providence,72
+2021-01-30,UCLA,57,Oregon St,52
+2021-01-30,Northern Iowa,74,S Illinois,62
+2021-01-30,Villanova,80,Seton Hall,72
+2021-01-30,Tarleton St,70,Utah Valley,62
+2021-01-30,Penn St,81,Wisconsin,71
+2021-01-30,Morgan St,79,Coppin St,76
+2021-01-30,F Dickinson,81,Bryant,79
+2021-01-30,Notre Dame,84,Pittsburgh,58
+2021-01-30,Hartford,59,Stony Brook,57
+2021-01-30,Marist,55,Siena,54
+2021-01-30,Furman,75,W Carolina,69
+2021-01-30,Colgate,74,Holy Cross,63
+2021-01-30,St Bonaventure,84,George Mason,67
+2021-01-30,Niagara,83,Monmouth NJ,74
+2021-01-30,Campbell,75,Charleston So,67
+2021-01-30,Stetson,77,FL Gulf Coast,66
+2021-01-30,High Point,72,Gardner Webb,69
+2021-01-30,Lipscomb,89,Bluefield WV,56
+2021-01-30,Xavier,68,Butler,55
+2021-01-30,BYU,95,Pacific,87
+2021-01-30,NC A&T,70,Florida A&M,58
+2021-01-30,Idaho St,89,Northwest WA,48
+2021-01-31,New Hampshire,71,Binghamton,65
+2021-01-31,Delaware,75,Elon,70
+2021-01-31,Hofstra,89,UNC Wilmington,83
+2021-01-31,William & Mary,75,Towson,74
+2021-01-31,Syracuse,76,NC State,73
+2021-01-31,Ohio St,79,Michigan St,62
+2021-01-31,Rutgers,64,Northwestern,56
+2021-01-31,Tulane,81,Temple,64
+2021-01-31,Central Conn,85,St Francis PA,77
+2021-01-31,Houston,70,SMU,48
+2021-01-31,Bucknell,92,Lehigh,68
+2021-01-31,Loyola-Chicago,72,Missouri St,46
+2021-01-31,Mt St Mary's,76,Sacred Heart,64
+2021-01-31,Drake,78,Illinois St,76
+2021-01-31,Indiana St,60,Bradley,57
+2021-01-31,Evansville,70,Valparaiso,52
+2021-01-31,Nevada,89,UNLV,60
+2021-01-31,S Illinois,71,Northern Iowa,68
+2021-01-31,UAB,63,MTSU,52
+2021-01-31,SF Austin,78,Sam Houston St,68
+2021-01-31,F Dickinson,95,Bryant,84
+2021-01-31,Washington St,77,Washington,62
+2021-01-31,Siena,63,Marist,50
+2021-01-31,Stony Brook,63,Hartford,49
+2021-01-31,NJIT,69,UMBC,65
+2021-01-31,Colgate,78,Holy Cross,60
+2021-01-31,E Washington,68,CS Sacramento,60
+2021-01-31,St John's,75,Marquette,73
+2021-01-31,North Texas,79,Rice,53
+2021-01-31,James Madison,73,Drexel,64
+2021-01-31,NC A&T,67,Florida A&M,65
+2021-01-31,UC Riverside,71,UC San Diego,59
+2021-02-01,Grambling,85,MS Valley St,72
+2021-02-01,Jackson St,63,Ark Pine Bluff,55
+2021-02-01,Prairie View,87,Alabama St,63
+2021-02-01,TX Southern,66,Alabama A&M,49
+2021-02-01,Texas Tech,57,Oklahoma,52
+2021-02-01,Miami FL,77,Duke,75
+2021-02-01,Memphis,96,UCF,69
+2021-02-01,Loyola-Chicago,70,Missouri St,50
+2021-02-01,Murray St,77,SE Missouri St,60
+2021-02-01,Drake,95,Illinois St,60
+2021-02-01,W Carolina,76,Citadel,75
+2021-02-01,Louisville,74,Georgia Tech,58
+2021-02-01,Austin Peay,74,SIUE,59
+2021-02-01,Florida Intl,90,FL Memorial,74
+2021-02-01,Wofford,67,ETSU,62
+2021-02-01,E Washington,94,CS Sacramento,79
+2021-02-01,Indiana St,67,Bradley,55
+2021-02-01,Evansville,58,Valparaiso,51
+2021-02-01,NC Central,91,S Carolina St,77
+2021-02-01,Stetson,110,Carver Bib,56
+2021-02-02,Arkansas,61,Mississippi St,45
+2021-02-02,Georgia,91,Auburn,86
+2021-02-02,Buffalo,78,Ball St,58
+2021-02-02,Ohio,83,C Michigan,69
+2021-02-02,West Virginia,76,Iowa St,72
+2021-02-02,Kansas,74,Kansas St,51
+2021-02-02,Kent,77,Miami OH,68
+2021-02-02,Mississippi,52,Tennessee,50
+2021-02-02,Baylor,83,Texas,69
+2021-02-02,Toledo,91,Akron,76
+2021-02-02,Clemson,63,North Carolina,50
+2021-02-02,Duquesne,69,Dayton,64
+2021-02-02,Notre Dame,79,Wake Forest,58
+2021-02-02,Illinois,75,Indiana,71
+2021-02-02,Maryland,61,Purdue,60
+2021-02-02,Wisconsin,72,Penn St,56
+2021-02-02,Marquette,70,Butler,67
+2021-02-02,Nevada,72,UNLV,62
+2021-02-02,Iowa,84,Michigan St,78
+2021-02-02,E Illinois,70,SIUE,61
+2021-02-02,E Kentucky,86,Jacksonville St,82
+2021-02-02,USC,72,Stanford,66
+2021-02-02,Troy,90,Spring Hill,73
+2021-02-02,NC Central,64,S Carolina St,63
+2021-02-02,Morgan St,95,Coppin St,82
+2021-02-02,UMBC,75,NJIT,71
+2021-02-03,Alabama,78,LSU,60
+2021-02-03,South Carolina,72,Florida,66
+2021-02-03,ETSU,70,Mercer,64
+2021-02-03,UNC Greensboro,85,Citadel,66
+2021-02-03,TCU,81,Oklahoma St,78
+2021-02-03,Chattanooga,74,W Carolina,67
+2021-02-03,VMI,84,Wofford,80
+2021-02-03,VCU,63,Rhode Island,62
+2021-02-03,Massachusetts,60,Fordham,54
+2021-02-03,Memphis,75,UCF,61
+2021-02-03,East Carolina,82,Houston,73
+2021-02-03,Pittsburgh,83,Virginia Tech,72
+2021-02-03,Wichita St,75,Tulane,67
+2021-02-03,Georgetown,86,Creighton,79
+2021-02-03,Seton Hall,60,Providence,43
+2021-02-03,St John's,70,Villanova,59
+2021-02-03,Incarnate Word,67,Lamar,58
+2021-02-03,James Madison,78,Elon,57
+2021-02-03,SF Austin,84,TAM C. Christi,75
+2021-02-03,SMU,65,Tulsa,63
+2021-02-03,La Salle,82,St Louis,75
+2021-02-03,Virginia,64,NC State,57
+2021-02-03,Missouri,75,Kentucky,70
+2021-02-03,W Michigan,76,Bowling Green,70
+2021-02-03,Delaware St,81,Lancaster Bib,80
+2021-02-04,Belmont,89,E Illinois,61
+2021-02-04,Austin Peay,94,E Kentucky,79
+2021-02-04,E Washington,89,Idaho,75
+2021-02-04,Morehead St,66,Murray St,56
+2021-02-04,BYU,105,Portland,60
+2021-02-04,SIUE,68,Tennessee St,60
+2021-02-04,SE Missouri St,68,Tennessee Tech,64
+2021-02-04,Jacksonville St,82,TN Martin,70
+2021-02-04,Weber St,96,Montana St,88
+2021-02-04,Montana,70,Portland St,64
+2021-02-04,Cincinnati,63,Temple,60
+2021-02-04,Colorado St,74,Wyoming,72
+2021-02-04,Ohio St,89,Iowa,85
+2021-02-04,Merrimack,68,St Francis PA,62
+2021-02-04,Wagner,74,St Francis NY,67
+2021-02-04,Stanford,70,California,55
+2021-02-04,Utah,73,Arizona,58
+2021-02-04,Rutgers,76,Minnesota,72
+2021-02-04,Oregon St,91,Washington,71
+2021-02-04,Washington St,74,Oregon,71
+2021-02-04,Utah St,69,Fresno St,53
+2021-02-04,F Dickinson,78,LIU Brooklyn,70
+2021-02-04,Radford,63,SC Upstate,61
+2021-02-04,Gardner Webb,59,Presbyterian,53
+2021-02-04,Gonzaga,76,Pacific,58
+2021-02-05,Cleveland St,80,Oakland,72
+2021-02-05,North Dakota,85,Denver,82
+2021-02-05,Detroit,82,PFW,72
+2021-02-05,IUPUI,80,WI Green Bay,71
+2021-02-05,Dixie St,77,Seattle,76
+2021-02-05,Cal Baptist,85,New Mexico St,75
+2021-02-05,Wright St,72,IL Chicago,47
+2021-02-05,N Dakota St,61,Oral Roberts,54
+2021-02-05,Youngstown St,84,Robert Morris,78
+2021-02-05,South Dakota,64,S Dakota St,56
+2021-02-05,N Kentucky,87,WI Milwaukee,73
+2021-02-05,Arkansas St,95,Louisiana,87
+2021-02-05,South Alabama,71,Coastal Car,65
+2021-02-05,UT Arlington,63,ULM,56
+2021-02-05,UC Irvine,70,CS Bakersfield,53
+2021-02-05,CS Northridge,80,UC Davis,77
+2021-02-05,Texas St,57,Ark Little Rock,47
+2021-02-05,Troy,68,Ga Southern,56
+2021-02-05,Penn St,55,Maryland,50
+2021-02-05,Louisiana Tech,68,North Texas,63
+2021-02-05,Old Dominion,82,Marshall,81
+2021-02-05,Merrimack,59,St Francis PA,54
+2021-02-05,MTSU,66,Charlotte,65
+2021-02-05,Nevada,74,Boise St,72
+2021-02-05,Rice,88,Southern Miss,62
+2021-02-05,Wagner,84,St Francis NY,81
+2021-02-05,UAB,63,UTEP,51
+2021-02-05,Monmouth NJ,70,Manhattan,65
+2021-02-05,UT San Antonio,87,Florida Intl,80
+2021-02-05,MA Lowell,74,New Hampshire,69
+2021-02-05,Radford,102,SC Upstate,66
+2021-02-05,F Dickinson,77,LIU Brooklyn,62
+2021-02-05,Bellarmine,71,Jacksonville,56
+2021-02-05,Akron,72,Kent,61
+2021-02-05,W Illinois,85,NE Omaha,77
+2021-02-05,Stetson,73,Lipscomb,68
+2021-02-05,FL Gulf Coast,86,North Alabama,60
+2021-02-05,Dayton,74,George Mason,65
+2021-02-05,Gardner Webb,91,Presbyterian,64
+2021-02-05,Hawaii,84,Cal Poly,68
+2021-02-05,Liberty,90,Lancaster Bib,49
+2021-02-06,Bellarmine,63,Jacksonville,44
+2021-02-06,UT San Antonio,90,Florida Intl,47
+2021-02-06,North Texas,57,Louisiana Tech,55
+2021-02-06,Marshall,87,Old Dominion,67
+2021-02-06,Portland St,61,Montana,56
+2021-02-06,UAB,75,UTEP,60
+2021-02-06,Weber St,82,Montana St,74
+2021-02-06,Arkansas St,83,Louisiana,77
+2021-02-06,South Alabama,70,Coastal Car,66
+2021-02-06,UT Arlington,58,ULM,52
+2021-02-06,CS Bakersfield,62,UC Irvine,57
+2021-02-06,UC Davis,75,CS Northridge,63
+2021-02-06,Texas St,77,Ark Little Rock,67
+2021-02-06,Ga Southern,79,Troy,64
+2021-02-06,Ball St,81,Toledo,67
+2021-02-06,Buffalo,88,Miami OH,64
+2021-02-06,Citadel,74,W Carolina,63
+2021-02-06,Wofford,75,Furman,67
+2021-02-06,Chattanooga,67,ETSU,65
+2021-02-06,West Virginia,91,Kansas,79
+2021-02-06,Alabama St,73,Ark Pine Bluff,67
+2021-02-06,Jackson St,74,Alcorn St,66
+2021-02-06,Grambling,72,Southern Univ,69
+2021-02-06,Texas Tech,73,Kansas St,62
+2021-02-06,Oklahoma,79,Iowa St,72
+2021-02-06,Oklahoma St,75,Texas,67
+2021-02-06,Alabama A&M,93,MS Valley St,58
+2021-02-06,E Washington,90,Idaho,64
+2021-02-06,Clemson,78,Syracuse,61
+2021-02-06,Belmont,94,SIUE,62
+2021-02-06,North Carolina,91,Duke,87
+2021-02-06,Abilene Chr,77,Lamar,62
+2021-02-06,E Illinois,86,Tennessee St,72
+2021-02-06,Murray St,76,E Kentucky,64
+2021-02-06,Georgia Tech,82,Notre Dame,80
+2021-02-06,Jacksonville St,66,SE Missouri St,54
+2021-02-06,Tennessee,82,Kentucky,71
+2021-02-06,Massachusetts,75,Rhode Island,63
+2021-02-06,Virginia Tech,80,Miami FL,76
+2021-02-06,Morehead St,75,Austin Peay,74
+2021-02-06,Missouri,68,Alabama,65
+2021-02-06,W Illinois,75,NE Omaha,73
+2021-02-06,Sam Houston St,78,Nicholls St,71
+2021-02-06,NC State,81,Boston College,65
+2021-02-06,TN Martin,66,Tennessee Tech,64
+2021-02-06,Col Charleston,90,Towson,88
+2021-02-06,Drexel,73,Hofstra,71
+2021-02-06,McNeese St,80,Cent Arkansas,70
+2021-02-06,UCF,65,Tulsa,58
+2021-02-06,Memphis,66,East Carolina,59
+2021-02-06,Georgia,73,Vanderbilt,70
+2021-02-06,Incarnate Word,58,TAM C. Christi,53
+2021-02-06,Illinois,75,Wisconsin,60
+2021-02-06,Mississippi,86,Auburn,84
+2021-02-06,Mississippi St,75,South Carolina,59
+2021-02-06,Purdue,75,Northwestern,70
+2021-02-06,Seattle,77,Dixie St,56
+2021-02-06,Cleveland St,80,Oakland,78
+2021-02-06,Colorado St,68,Wyoming,59
+2021-02-06,Colorado,82,Arizona,79
+2021-02-06,Denver,85,North Dakota,81
+2021-02-06,Detroit,83,PFW,56
+2021-02-06,Loyola-Chicago,68,Evansville,55
+2021-02-06,WI Green Bay,79,IUPUI,72
+2021-02-06,New Mexico St,97,Cal Baptist,70
+2021-02-06,Wright St,77,IL Chicago,57
+2021-02-06,MTSU,73,Charlotte,60
+2021-02-06,Oral Roberts,80,N Dakota St,74
+2021-02-06,N Kentucky,79,WI Milwaukee,65
+2021-02-06,Oregon St,68,Washington St,66
+2021-02-06,Oregon,86,Washington,74
+2021-02-06,Rice,76,Southern Miss,68
+2021-02-06,Youngstown St,70,Robert Morris,66
+2021-02-06,S Dakota St,89,South Dakota,78
+2021-02-06,Creighton,71,Marquette,68
+2021-02-06,Missouri St,74,Illinois St,67
+2021-02-06,St John's,92,Providence,81
+2021-02-06,Bradley,74,S Illinois,66
+2021-02-06,USC,66,UCLA,48
+2021-02-06,Seton Hall,80,Connecticut,73
+2021-02-06,Butler,68,DePaul,58
+2021-02-06,Drake,80,Valparaiso,77
+2021-02-06,UNLV,68,Air Force,58
+2021-02-06,Indiana St,61,Northern Iowa,57
+2021-02-06,St Louis,70,St Bonaventure,59
+2021-02-06,Michigan St,66,Nebraska,56
+2021-02-06,Monmouth NJ,71,Manhattan,69
+2021-02-06,New Hampshire,74,MA Lowell,63
+2021-02-06,Lipscomb,69,Stetson,61
+2021-02-06,FL Gulf Coast,69,North Alabama,60
+2021-02-06,Fordham,76,La Salle,68
+2021-02-06,W Michigan,67,C Michigan,65
+2021-02-06,Houston,112,Our Lady Lake,46
+2021-02-06,Virginia,73,Pittsburgh,66
+2021-02-06,Hawaii,81,Cal Poly,64
+2021-02-06,Southern Utah,110,Benedictine AZ,58
+2021-02-06,Pepperdine,91,Portland,70
+2021-02-06,Morgan St,74,Delaware St,69
+2021-02-06,TX Southern,77,UTRGV,75
+2021-02-06,Tarleton St,97,SW Adventist,26
+2021-02-07,Col Charleston,66,Towson,53
+2021-02-07,Hofstra,79,Drexel,74
+2021-02-07,Indiana,67,Iowa,65
+2021-02-07,Wichita St,70,Temple,67
+2021-02-07,Cincinnati,64,Tulane,61
+2021-02-07,Loyola-Chicago,69,Evansville,58
+2021-02-07,Nevada,73,Boise St,62
+2021-02-07,Norfolk St,84,Coppin St,72
+2021-02-07,Missouri St,72,Illinois St,62
+2021-02-07,S Illinois,69,Bradley,68
+2021-02-07,Valparaiso,74,Drake,57
+2021-02-07,UMBC,71,Stony Brook,65
+2021-02-07,Quinnipiac,78,Fairfield,63
+2021-02-07,Stanford,76,California,70
+2021-02-07,High Point,72,Hampton,58
+2021-02-07,Villanova,84,Georgetown,74
+2021-02-07,Northern Iowa,70,Indiana St,67
+2021-02-07,Loyola MD,75,Lafayette,62
+2021-02-07,UC San Diego,101,Bethesda,64
+2021-02-08,MS Valley St,68,Alabama St,65
+2021-02-08,Grambling,67,Alcorn St,62
+2021-02-08,Jackson St,57,Southern Univ,53
+2021-02-08,Kansas,78,Oklahoma St,66
+2021-02-08,Alabama A&M,56,Ark Pine Bluff,55
+2021-02-08,Ohio St,73,Maryland,65
+2021-02-08,SMU,71,East Carolina,56
+2021-02-08,San Diego St,85,San Jose St,54
+2021-02-08,UNLV,69,Air Force,64
+2021-02-08,Colorado,78,Oregon St,49
+2021-02-08,Furman,68,UNC Greensboro,49
+2021-02-08,E Kentucky,78,SIUE,74
+2021-02-08,LIU Brooklyn,96,St Francis NY,84
+2021-02-08,Abilene Chr,82,TAM C. Christi,69
+2021-02-08,TN Martin,76,Austin Peay,75
+2021-02-08,SC Upstate,77,Gardner Webb,69
+2021-02-08,Gonzaga,82,BYU,71
+2021-02-08,Mercer,89,Samford,82
+2021-02-08,UMBC,60,Stony Brook,48
+2021-02-08,Hampton,76,High Point,71
+2021-02-08,Fairfield,77,Quinnipiac,70
+2021-02-08,Coppin St,74,Norfolk St,64
+2021-02-08,Minnesota,79,Nebraska,61
+2021-02-08,Florida A&M,59,NC Central,50
+2021-02-08,Lafayette,80,Loyola MD,76
+2021-02-08,Youngstown St,60,Rochester MI,50
+2021-02-09,Kent,71,Bowling Green,67
+2021-02-09,Texas,80,Kansas St,77
+2021-02-09,TCU,79,Iowa St,76
+2021-02-09,West Virginia,82,Texas Tech,71
+2021-02-09,Notre Dame,93,Duke,89
+2021-02-09,Arkansas,81,Kentucky,80
+2021-02-09,Syracuse,77,NC State,68
+2021-02-09,Auburn,73,Vanderbilt,67
+2021-02-09,Alabama,81,South Carolina,78
+2021-02-09,Michigan St,60,Penn St,58
+2021-02-09,Creighton,63,Georgetown,48
+2021-02-09,Florida A&M,60,NC Central,47
+2021-02-09,Butler,76,St John's,73
+2021-02-09,Tarleton St,112,McMurry,54
+2021-02-09,VCU,76,Dayton,67
+2021-02-09,St Bonaventure,86,La Salle,73
+2021-02-09,James Madison,70,Elon,61
+2021-02-09,South Alabama,70,Georgia St,67
+2021-02-09,Southern Utah,109,San Diego Chr,50
+2021-02-10,Citadel,79,ETSU,71
+2021-02-10,Old Dominion,78,Charlotte,76
+2021-02-10,UNC Greensboro,64,Furman,58
+2021-02-10,W Carolina,74,VMI,72
+2021-02-10,Chattanooga,78,Wofford,66
+2021-02-10,Mercer,77,Samford,70
+2021-02-10,Abilene Chr,88,Houston Bap,59
+2021-02-10,SF Austin,80,TAM C. Christi,68
+2021-02-10,Mississippi,80,Missouri,59
+2021-02-10,Nicholls St,76,Lamar,71
+2021-02-10,Northwestern LA,68,Incarnate Word,67
+2021-02-10,St Louis,67,Rhode Island,60
+2021-02-10,Sam Houston St,79,SE Louisiana,61
+2021-02-10,George Mason,77,Fordham,45
+2021-02-10,Indiana,79,Northwestern,76
+2021-02-10,Iowa,79,Rutgers,66
+2021-02-10,LSU,94,Mississippi St,80
+2021-02-10,Tulane,58,Tulsa,48
+2021-02-10,Wichita St,61,UCF,60
+2021-02-10,Virginia,57,Georgia Tech,49
+2021-02-10,San Diego St,77,San Jose St,55
+2021-02-10,Wake Forest,69,Boston College,65
+2021-02-10,Providence,70,Connecticut,59
+2021-02-10,Missouri St,65,S Illinois,53
+2021-02-10,Bradley,76,Valparaiso,52
+2021-02-10,Houston,82,South Florida,65
+2021-02-10,Drake,80,Northern Iowa,59
+2021-02-10,Villanova,96,Marquette,64
+2021-02-10,Pepperdine,76,San Francisco,68
+2021-02-10,Tennessee,89,Georgia,81
+2021-02-10,Wisconsin,61,Nebraska,48
+2021-02-11,Georgia St,79,Ga Southern,75
+2021-02-11,South Alabama,73,Troy,70
+2021-02-11,ULM,72,Louisiana,66
+2021-02-11,Texas St,63,UT Arlington,56
+2021-02-11,Presbyterian,85,Hampton,70
+2021-02-11,Belmont,92,E Kentucky,74
+2021-02-11,Jacksonville St,76,E Illinois,64
+2021-02-11,Austin Peay,71,TN Martin,50
+2021-02-11,Morehead St,79,Tennessee St,66
+2021-02-11,Winthrop,80,Radford,64
+2021-02-11,SIUE,81,Tennessee Tech,63
+2021-02-11,Idaho St,69,Idaho,43
+2021-02-11,Montana,80,Weber St,67
+2021-02-11,E Washington,93,Montana St,77
+2021-02-11,Merrimack,62,Central Conn,46
+2021-02-11,Wagner,76,F Dickinson,72
+2021-02-11,Mt St Mary's,66,LIU Brooklyn,60
+2021-02-11,Minnesota,71,Purdue,68
+2021-02-11,St Francis NY,70,St Francis PA,67
+2021-02-11,Fresno St,69,Air Force,63
+2021-02-11,Utah,76,California,75
+2021-02-11,Washington St,81,UCLA,73
+2021-02-11,Colorado,69,Stanford,51
+2021-02-11,Oregon,75,Arizona St,64
+2021-02-11,Arizona,70,Oregon St,61
+2021-02-11,Boise St,78,UNLV,66
+2021-02-11,USC,69,Washington,54
+2021-02-11,Longwood,57,Gardner Webb,54
+2021-02-11,High Point,77,Charleston So,73
+2021-02-11,Kansas,97,Iowa St,64
+2021-02-11,Campbell,72,SC Upstate,71
+2021-02-11,Pacific,84,Portland,57
+2021-02-12,Detroit,89,Cleveland St,83
+2021-02-12,W Illinois,75,Denver,69
+2021-02-12,IUPUI,89,IL Chicago,69
+2021-02-12,Missouri KC,62,NE Omaha,52
+2021-02-12,Utah Valley,87,Dixie St,72
+2021-02-12,Youngstown St,84,PFW,70
+2021-02-12,Seattle,83,New Mexico St,72
+2021-02-12,Robert Morris,88,Oakland,82
+2021-02-12,WKU,77,Rice,71
+2021-02-12,WI Green Bay,86,N Kentucky,82
+2021-02-12,Wright St,92,WI Milwaukee,81
+2021-02-12,UC Davis,68,Long Beach St,66
+2021-02-12,CS Bakersfield,76,UC San Diego,71
+2021-02-12,UC Riverside,86,UC Irvine,65
+2021-02-12,UC Santa Barbara,59,Hawaii,50
+2021-02-12,UTEP,75,Florida Intl,59
+2021-02-12,Merrimack,72,Central Conn,52
+2021-02-12,Hampton,62,Presbyterian,57
+2021-02-12,UT San Antonio,84,FL Atlantic,80
+2021-02-12,Jacksonville,66,Lipscomb,60
+2021-02-12,Mt St Mary's,64,LIU Brooklyn,46
+2021-02-12,Louisiana Tech,70,UAB,58
+2021-02-12,North Texas,65,Southern Miss,49
+2021-02-12,Winthrop,55,Radford,47
+2021-02-12,St Francis PA,80,St Francis NY,66
+2021-02-12,UCF,53,Tulane,49
+2021-02-12,Iona,85,Manhattan,67
+2021-02-12,Charleston So,69,High Point,68
+2021-02-12,Akron,83,Miami OH,76
+2021-02-12,VCU,67,St Bonaventure,64
+2021-02-12,Canisius,74,Quinnipiac,67
+2021-02-12,Marshall,107,MTSU,79
+2021-02-12,Campbell,64,SC Upstate,49
+2021-02-12,Clemson,74,Georgia Tech,72
+2021-02-12,Illinois,77,Nebraska,72
+2021-02-12,Longwood,78,Gardner Webb,71
+2021-02-12,Stetson,74,Kennesaw,61
+2021-02-12,Liberty,73,North Florida,61
+2021-02-12,Bellarmine,66,North Alabama,64
+2021-02-12,Arkansas St,73,Ark Little Rock,62
+2021-02-12,Portland St,99,Simpson CA,66
+2021-02-12,Cincinnati,71,Temple,69
+2021-02-12,Murray St,80,SE Missouri St,60
+2021-02-12,MA Lowell,79,SUNY Albany,71
+2021-02-12,Buffalo,86,W Michigan,54
+2021-02-13,Lipscomb,71,Jacksonville,69
+2021-02-13,Marshall,96,MTSU,85
+2021-02-13,UT San Antonio,86,FL Atlantic,75
+2021-02-13,Idaho St,64,Idaho,58
+2021-02-13,Weber St,91,Montana,82
+2021-02-13,E Washington,85,Montana St,69
+2021-02-13,UC Davis,78,Long Beach St,76
+2021-02-13,CS Bakersfield,65,UC San Diego,50
+2021-02-13,UC Irvine,73,UC Riverside,67
+2021-02-13,UC Santa Barbara,81,Hawaii,74
+2021-02-13,ETSU,71,Wofford,49
+2021-02-13,Furman,88,W Carolina,70
+2021-02-13,Kent,80,N Illinois,58
+2021-02-13,UNC Greensboro,77,Mercer,74
+2021-02-13,Old Dominion,64,Charlotte,45
+2021-02-13,Chattanooga,70,Citadel,66
+2021-02-13,Bowling Green,88,Toledo,81
+2021-02-13,VMI,85,Samford,56
+2021-02-13,Oklahoma,91,West Virginia,90
+2021-02-13,Alabama St,72,Alabama A&M,58
+2021-02-13,Southern Univ,73,Ark Pine Bluff,71
+2021-02-13,TX Southern,75,Grambling,73
+2021-02-13,Kansas,64,Iowa St,50
+2021-02-13,Louisiana Tech,69,UAB,64
+2021-02-13,Alcorn St,70,MS Valley St,56
+2021-02-13,Louisiana,88,ULM,72
+2021-02-13,Oklahoma St,67,Kansas St,60
+2021-02-13,North Texas,68,Southern Miss,56
+2021-02-13,Texas,70,TCU,55
+2021-02-13,Loy Marymount,80,Pacific,76
+2021-02-13,Pepperdine,60,St Mary's CA,58
+2021-02-13,Gonzaga,100,San Francisco,61
+2021-02-13,Arkansas St,67,Ark Little Rock,65
+2021-02-13,Texas St,79,UT Arlington,68
+2021-02-13,South Alabama,58,Troy,51
+2021-02-13,Sam Houston St,97,Cent Arkansas,57
+2021-02-13,Belmont,73,Morehead St,58
+2021-02-13,Duke,69,NC State,53
+2021-02-13,Abilene Chr,83,TAM C. Christi,55
+2021-02-13,Tennessee Tech,80,E Illinois,67
+2021-02-13,E Kentucky,93,Tennessee St,73
+2021-02-13,Florida St,92,Wake Forest,85
+2021-02-13,Houston Bap,80,Lamar,75
+2021-02-13,Arkansas,86,Missouri,81
+2021-02-13,Jacksonville St,80,SIUE,60
+2021-02-13,Kentucky,82,Auburn,80
+2021-02-13,Austin Peay,78,SE Missouri St,63
+2021-02-13,Murray St,84,TN Martin,55
+2021-02-13,Virginia,60,North Carolina,48
+2021-02-13,Nicholls St,86,SE Louisiana,84
+2021-02-13,Northwestern LA,69,McNeese St,66
+2021-02-13,Oral Roberts,103,S Dakota St,86
+2021-02-13,St Louis,68,Fordham,40
+2021-02-13,Col Charleston,71,Elon,53
+2021-02-13,James Madison,93,Hofstra,89
+2021-02-13,Northeastern,76,Towson,67
+2021-02-13,Alabama,115,Georgia,82
+2021-02-13,Ohio St,78,Indiana,59
+2021-02-13,Iowa,88,Michigan St,58
+2021-02-13,Vanderbilt,72,Mississippi St,51
+2021-02-13,Mississippi,81,South Carolina,74
+2021-02-13,Rutgers,64,Northwestern,50
+2021-02-13,California,71,Colorado,62
+2021-02-13,UCLA,64,Washington,61
+2021-02-13,New Mexico St,65,Seattle,58
+2021-02-13,Cleveland St,71,Detroit,64
+2021-02-13,W Illinois,82,Denver,75
+2021-02-13,UTEP,77,Florida Intl,68
+2021-02-13,IUPUI,88,IL Chicago,81
+2021-02-13,Missouri KC,55,NE Omaha,47
+2021-02-13,Oregon,63,Arizona,61
+2021-02-13,Dixie St,93,Utah Valley,89
+2021-02-13,Youngstown St,72,PFW,70
+2021-02-13,LSU,78,Tennessee,65
+2021-02-13,Boise St,61,UNLV,59
+2021-02-13,North Dakota,85,South Dakota,76
+2021-02-13,N Kentucky,71,WI Green Bay,66
+2021-02-13,Oakland,86,Robert Morris,81
+2021-02-13,WKU,89,Rice,66
+2021-02-13,USC,76,Washington St,65
+2021-02-13,Stanford,73,Utah,66
+2021-02-13,Fresno St,67,Air Force,64
+2021-02-13,Wright St,92,WI Milwaukee,82
+2021-02-13,Creighton,86,Villanova,70
+2021-02-13,Providence,57,DePaul,47
+2021-02-13,Illinois St,80,S Illinois,55
+2021-02-13,Norfolk St,74,Morgan St,69
+2021-02-13,Missouri St,80,Bradley,58
+2021-02-13,Connecticut,80,Xavier,72
+2021-02-13,Georgetown,78,Butler,63
+2021-02-13,Valparaiso,70,Northern Iowa,57
+2021-02-13,Loyola-Chicago,81,Drake,54
+2021-02-13,NJIT,67,Hartford,57
+2021-02-13,SUNY Albany,81,MA Lowell,69
+2021-02-13,Vermont,86,Stony Brook,78
+2021-02-13,Syracuse,75,Boston College,67
+2021-02-13,Wagner,95,F Dickinson,86
+2021-02-13,Fairfield,55,St Peter's,50
+2021-02-13,Canisius,89,Quinnipiac,70
+2021-02-13,Colgate,84,Army,74
+2021-02-13,Holy Cross,82,Boston Univ,65
+2021-02-13,Lafayette,97,Loyola MD,94
+2021-02-13,Kennesaw,83,Stetson,75
+2021-02-13,Manhattan,77,Iona,70
+2021-02-13,Liberty,80,North Florida,60
+2021-02-13,Bellarmine,87,North Alabama,63
+2021-02-13,Cal Baptist,83,CS Sacramento,71
+2021-02-14,Elon,66,Col Charleston,55
+2021-02-14,James Madison,74,Hofstra,70
+2021-02-14,Towson,68,Northeastern,57
+2021-02-14,Notre Dame,71,Miami FL,61
+2021-02-14,Maryland,72,Minnesota,59
+2021-02-14,Michigan,67,Wisconsin,59
+2021-02-14,Nebraska,62,Penn St,61
+2021-02-14,S Dakota St,95,Oral Roberts,80
+2021-02-14,S Illinois,59,Illinois St,49
+2021-02-14,Seton Hall,57,Marquette,51
+2021-02-14,Norfolk St,68,Morgan St,65
+2021-02-14,Missouri St,72,Bradley,57
+2021-02-14,Cincinnati,69,UCF,68
+2021-02-14,Drake,51,Loyola-Chicago,50
+2021-02-14,Tulane,62,South Florida,59
+2021-02-14,Georgia Tech,71,Pittsburgh,65
+2021-02-14,Vermont,61,Stony Brook,57
+2021-02-14,Indiana St,76,Evansville,70
+2021-02-14,Arizona St,75,Oregon St,73
+2021-02-14,St Peter's,66,Fairfield,49
+2021-02-14,Hartford,75,NJIT,61
+2021-02-14,North Dakota,85,South Dakota,81
+2021-02-14,Boston Univ,86,Holy Cross,68
+2021-02-14,Colgate,92,Army,83
+2021-02-14,Loyola MD,88,Lafayette,69
+2021-02-14,Richmond,90,St Mary's MD,49
+2021-02-14,Northern Iowa,74,Valparaiso,60
+2021-02-14,CS Sacramento,70,Cal Baptist,69
+2021-02-15,Florida St,81,Virginia,60
+2021-02-15,Washington,65,Washington St,63
+2021-02-15,Chattanooga,53,ETSU,51
+2021-02-15,Longwood,83,Hampton,73
+2021-02-15,SF Austin,89,New Orleans,79
+2021-02-15,Murray St,86,SIUE,57
+2021-02-15,Presbyterian,75,SC Upstate,65
+2021-02-15,E Kentucky,83,Tennessee Tech,72
+2021-02-15,Idaho St,84,George Fox,59
+2021-02-16,Akron,81,N Illinois,76
+2021-02-16,Bowling Green,75,Ball St,62
+2021-02-16,Toledo,87,Miami OH,75
+2021-02-16,Kent,76,W Michigan,69
+2021-02-16,Oklahoma St,76,Iowa St,58
+2021-02-16,Rhode Island,91,Dayton,89
+2021-02-16,Arkansas,75,Florida,64
+2021-02-16,Georgia,80,Missouri,70
+2021-02-16,Illinois,73,Northwestern,66
+2021-02-16,Purdue,75,Michigan St,65
+2021-02-16,St Louis,78,La Salle,57
+2021-02-16,Connecticut,73,Providence,61
+2021-02-16,SE Missouri St,86,Austin Peay,81
+2021-02-16,St Francis NY,83,F Dickinson,75
+2021-02-16,Wagner,61,Mt St Mary's,39
+2021-02-16,Loy Marymount,76,Santa Clara,73
+2021-02-16,St John's,93,Xavier,84
+2021-02-16,Tulsa,72,Temple,66
+2021-02-16,Maryland,64,Nebraska,50
+2021-02-17,Mercer,71,ETSU,64
+2021-02-17,Furman,78,Samford,64
+2021-02-17,Chattanooga,89,W Carolina,81
+2021-02-17,VMI,88,UNC Greensboro,77
+2021-02-17,Wofford,81,Citadel,67
+2021-02-17,Indiana,82,Minnesota,72
+2021-02-17,Wyoming,83,New Mexico,74
+2021-02-17,UCF,81,South Florida,65
+2021-02-17,Kentucky,82,Vanderbilt,78
+2021-02-17,Loyola-Chicago,54,Valparaiso,52
+2021-02-17,Maryland,79,Nebraska,71
+2021-02-17,NC State,74,Pittsburgh,73
+2021-02-17,Marquette,73,Butler,57
+2021-02-17,Missouri St,68,S Illinois,53
+2021-02-17,Boise St,79,Utah St,70
+2021-02-17,Seton Hall,60,DePaul,52
+2021-02-17,USC,89,Arizona St,71
+2021-02-17,Drake,77,Northern Iowa,69
+2021-02-17,St Francis NY,90,F Dickinson,87
+2021-02-17,Quinnipiac,74,Iona,70
+2021-02-17,Wagner,57,Mt St Mary's,55
+2021-02-17,VCU,68,Richmond,56
+2021-02-17,Boston Univ,78,Holy Cross,69
+2021-02-17,Indiana St,87,Evansville,73
+2021-02-17,Kansas,59,Kansas St,41
+2021-02-17,Duke,84,Wake Forest,60
+2021-02-17,North Carolina,82,Northeastern,62
+2021-02-17,Gardner Webb,69,Radford,57
+2021-02-17,Tennessee,93,South Carolina,73
+2021-02-17,Sacred Heart,82,Central Conn,70
+2021-02-18,E Washington,90,Montana,76
+2021-02-18,Gonzaga,87,St Mary's CA,65
+2021-02-18,Loy Marymount,68,San Francisco,63
+2021-02-18,San Diego,71,Santa Clara,60
+2021-02-18,Portland St,84,Idaho,64
+2021-02-18,Belmont,63,Jacksonville St,59
+2021-02-18,E Illinois,68,Murray St,59
+2021-02-18,Austin Peay,79,SIUE,57
+2021-02-18,BYU,80,Pacific,52
+2021-02-18,Tennessee St,91,Tennessee Tech,86
+2021-02-18,Southern Utah,88,CS Sacramento,69
+2021-02-18,Weber St,92,Northern Arizona,59
+2021-02-18,Iowa,77,Wisconsin,62
+2021-02-18,Michigan,71,Rutgers,64
+2021-02-18,Ohio St,92,Penn St,82
+2021-02-18,Washington St,82,California,51
+2021-02-18,UCLA,74,Arizona,60
+2021-02-18,Oregon,60,Colorado,56
+2021-02-18,Oregon St,74,Utah,56
+2021-02-18,San Diego St,67,Fresno St,53
+2021-02-18,Stanford,79,Washington,61
+2021-02-18,Winthrop,76,High Point,70
+2021-02-18,Campbell,76,Hampton,57
+2021-02-18,Vermont,80,UMBC,71
+2021-02-18,Wichita St,68,Houston,63
+2021-02-18,Illinois St,88,Bradley,71
+2021-02-18,E Kentucky,89,TN Martin,72
+2021-02-18,Gardner Webb,77,Radford,49
+2021-02-18,Longwood,70,Charleston So,62
+2021-02-18,SC Upstate,65,Presbyterian,51
+2021-02-19,PFW,75,Cleveland St,68
+2021-02-19,Missouri KC,68,Denver,57
+2021-02-19,Detroit,85,Robert Morris,74
+2021-02-19,IUPUI,72,Youngstown St,70
+2021-02-19,Utah Valley,69,New Mexico St,66
+2021-02-19,Tarleton St,77,Dixie St,59
+2021-02-19,Grand Canyon,71,Cal Baptist,61
+2021-02-19,IL Chicago,61,WI Green Bay,58
+2021-02-19,NE Omaha,72,North Dakota,62
+2021-02-19,S Dakota St,68,N Dakota St,67
+2021-02-19,Oakland,85,WI Milwaukee,81
+2021-02-19,N Kentucky,81,Wright St,75
+2021-02-19,Dayton,76,St Louis,53
+2021-02-19,South Alabama,65,Appalachian St,63
+2021-02-19,Georgia St,80,Troy,66
+2021-02-19,UC Irvine,89,CS Fullerton,78
+2021-02-19,Long Beach St,64,Cal Poly,60
+2021-02-19,Hawaii,75,CS Northridge,74
+2021-02-19,UC Santa Barbara,71,CS Bakersfield,66
+2021-02-19,UC Riverside,81,UC San Diego,75
+2021-02-19,St Peter's,59,Marist,54
+2021-02-19,UNLV,76,San Jose St,60
+2021-02-19,Wyoming,79,New Mexico,67
+2021-02-19,UAB,76,Old Dominion,69
+2021-02-19,Boise St,81,Utah St,77
+2021-02-19,Winthrop,71,High Point,63
+2021-02-19,Toledo,80,Buffalo,70
+2021-02-19,Canisius,80,Fairfield,69
+2021-02-19,Iona,91,Monmouth NJ,86
+2021-02-19,Stetson,91,Jacksonville,75
+2021-02-19,Lipscomb,76,Kennesaw,62
+2021-02-19,Campbell,73,Hampton,68
+2021-02-19,UMBC,66,Vermont,55
+2021-02-19,Longwood,64,Charleston So,58
+2021-02-19,Akron,88,Ball St,79
+2021-02-19,Southern Miss,85,Florida Intl,72
+2021-02-19,Davidson,101,S Virginia,51
+2021-02-20,Southern Utah,77,CS Sacramento,57
+2021-02-20,Weber St,74,Northern Arizona,52
+2021-02-20,South Alabama,56,Appalachian St,54
+2021-02-20,Georgia St,65,Troy,53
+2021-02-20,CS Fullerton,67,UC Irvine,64
+2021-02-20,Long Beach St,74,Cal Poly,69
+2021-02-20,CS Northridge,88,Hawaii,80
+2021-02-20,UC Santa Barbara,63,CS Bakersfield,44
+2021-02-20,UC San Diego,83,UC Riverside,82
+2021-02-20,Citadel,75,VMI,74
+2021-02-20,Kent,64,E Michigan,51
+2021-02-20,Furman,70,Mercer,60
+2021-02-20,Wofford,80,W Carolina,56
+2021-02-20,Elon,75,William & Mary,54
+2021-02-20,Old Dominion,65,UAB,58
+2021-02-20,Oklahoma,66,Iowa St,56
+2021-02-20,Kansas,67,Texas Tech,61
+2021-02-20,Miami OH,69,N Illinois,64
+2021-02-20,Kansas St,62,TCU,54
+2021-02-20,West Virginia,84,Texas,82
+2021-02-20,E Washington,90,Montana,76
+2021-02-20,San Diego St,75,Fresno St,57
+2021-02-20,Gonzaga,106,San Diego,69
+2021-02-20,Portland St,71,Idaho,40
+2021-02-20,BYU,88,Loy Marymount,71
+2021-02-20,Santa Clara,86,Pepperdine,82
+2021-02-20,Belmont,90,Tennessee Tech,66
+2021-02-20,Duke,66,Virginia,65
+2021-02-20,E Illinois,76,Austin Peay,69
+2021-02-20,Georgia Tech,87,Miami FL,60
+2021-02-20,TAM C. Christi,77,Lamar,68
+2021-02-20,Jacksonville St,77,Tennessee St,76
+2021-02-20,Kentucky,70,Tennessee,55
+2021-02-20,North Carolina,99,Louisville,54
+2021-02-20,Missouri,93,South Carolina,78
+2021-02-20,Murray St,89,SIUE,62
+2021-02-20,South Dakota,86,Oral Roberts,84
+2021-02-20,Pacific,80,Portland,58
+2021-02-20,Nicholls St,79,Cent Arkansas,68
+2021-02-20,LIU Brooklyn,87,Central Conn,74
+2021-02-20,F Dickinson,76,Mt St Mary's,71
+2021-02-20,Florida,70,Georgia,63
+2021-02-20,George Mason,79,VCU,76
+2021-02-20,Illinois,94,Minnesota,63
+2021-02-20,Michigan St,78,Indiana,71
+2021-02-20,Bryant,60,Merrimack,58
+2021-02-20,Mississippi St,66,Mississippi,56
+2021-02-20,NC State,80,Wake Forest,62
+2021-02-20,Purdue,75,Nebraska,58
+2021-02-20,St Francis NY,88,Sacred Heart,76
+2021-02-20,Wagner,67,St Francis PA,52
+2021-02-20,Alabama,82,Vanderbilt,78
+2021-02-20,Washington,62,California,51
+2021-02-20,Cal Baptist,65,Grand Canyon,62
+2021-02-20,UCF,84,Tulane,81
+2021-02-20,Dixie St,64,Tarleton St,48
+2021-02-20,Cleveland St,67,PFW,55
+2021-02-20,Missouri KC,80,Denver,69
+2021-02-20,Detroit,80,Robert Morris,61
+2021-02-20,Florida A&M,71,NC A&T,57
+2021-02-20,Youngstown St,77,IUPUI,70
+2021-02-20,Arizona,81,USC,72
+2021-02-20,New Mexico St,67,Utah Valley,60
+2021-02-20,WI Green Bay,69,IL Chicago,59
+2021-02-20,LSU,104,Auburn,80
+2021-02-20,Marist,51,St Peter's,50
+2021-02-20,North Dakota,81,NE Omaha,69
+2021-02-20,N Dakota St,84,S Dakota St,82
+2021-02-20,Wright St,77,N Kentucky,71
+2021-02-20,WI Milwaukee,89,Oakland,87
+2021-02-20,Oregon,67,Utah,64
+2021-02-20,UCLA,80,Arizona St,79
+2021-02-20,Villanova,68,Connecticut,60
+2021-02-20,Georgetown,81,Seton Hall,75
+2021-02-20,Colorado,61,Oregon St,57
+2021-02-20,Quinnipiac,80,Rider,64
+2021-02-20,SE Missouri St,94,E Kentucky,72
+2021-02-20,Washington St,85,Stanford,76
+2021-02-20,Stony Brook,59,SUNY Albany,43
+2021-02-20,Navy,72,American Univ,60
+2021-02-20,Loyola MD,75,Lehigh,47
+2021-02-20,Colgate,82,Boston Univ,72
+2021-02-20,Syracuse,75,Notre Dame,67
+2021-02-20,Army,69,Holy Cross,65
+2021-02-20,DePaul,88,St John's,83
+2021-02-20,Lipscomb,77,Kennesaw,63
+2021-02-20,Iona,88,Monmouth NJ,65
+2021-02-20,Niagara,64,Siena,62
+2021-02-20,Binghamton,76,NJIT,63
+2021-02-20,St Joseph's PA,91,La Salle,82
+2021-02-20,New Hampshire,69,MA Lowell,67
+2021-02-20,Richmond,79,Duquesne,72
+2021-02-20,Fairfield,66,Canisius,53
+2021-02-20,UNC Greensboro,60,Chattanooga,55
+2021-02-20,Morehead St,79,TN Martin,69
+2021-02-20,Jacksonville,86,Stetson,82
+2021-02-20,Florida St,79,Pittsburgh,72
+2021-02-20,Col Charleston,86,Columbus St,83
+2021-02-21,Iowa,74,Penn St,68
+2021-02-21,Maryland,68,Rutgers,59
+2021-02-21,Michigan,92,Ohio St,87
+2021-02-21,Wisconsin,68,Northwestern,51
+2021-02-21,LIU Brooklyn,81,Central Conn,79
+2021-02-21,Houston,90,Cincinnati,52
+2021-02-21,Mt St Mary's,74,F Dickinson,61
+2021-02-21,UNLV,67,San Jose St,64
+2021-02-21,Sacred Heart,88,St Francis NY,82
+2021-02-21,Wagner,70,St Francis PA,68
+2021-02-21,NC A&T,70,Florida A&M,63
+2021-02-21,Xavier,63,Butler,51
+2021-02-21,Drake,85,Evansville,71
+2021-02-21,Quinnipiac,93,Rider,68
+2021-02-21,Valparaiso,66,S Illinois,65
+2021-02-21,SUNY Albany,67,Stony Brook,59
+2021-02-21,Colgate,78,Boston Univ,63
+2021-02-21,Navy,69,American Univ,60
+2021-02-21,Holy Cross,67,Army,51
+2021-02-21,G Washington,78,Rhode Island,70
+2021-02-21,Siena,68,Niagara,66
+2021-02-21,ULM,78,Ark Little Rock,66
+2021-02-21,Coastal Car,65,Ga Southern,55
+2021-02-21,Binghamton,72,NJIT,58
+2021-02-21,St Bonaventure,69,Davidson,58
+2021-02-21,Bryant,76,Merrimack,60
+2021-02-21,Lehigh,76,Loyola MD,72
+2021-02-21,South Florida,83,Temple,76
+2021-02-21,UTRGV,116,Dallas Chr,51
+2021-02-21,Delaware St,75,St Mary's MD,58
+2021-02-21,Prairie View,77,TX Southern,75
+2021-02-22,Alcorn St,65,Alabama A&M,52
+2021-02-22,Southern Univ,75,Alabama St,66
+2021-02-22,Duke,85,Syracuse,71
+2021-02-22,New Mexico,73,Air Force,65
+2021-02-22,Mercer,88,Citadel,52
+2021-02-22,New Orleans,88,Cent Arkansas,63
+2021-02-22,Northwestern LA,86,Houston Bap,80
+2021-02-22,Morehead St,56,SIUE,48
+2021-02-22,UNC Greensboro,77,W Carolina,56
+2021-02-22,S Illinois,67,Valparaiso,64
+2021-02-22,St Mary's CA,66,Pepperdine,61
+2021-02-22,SE Louisiana,78,TAM C. Christi,75
+2021-02-22,Sam Houston St,77,Lamar,71
+2021-02-22,ULM,68,Ark Little Rock,64
+2021-02-22,E Kentucky,87,SE Missouri St,65
+2021-02-22,Elon,73,William & Mary,54
+2021-02-22,Drake,74,Evansville,63
+2021-02-22,UAB,117,Rust,45
+2021-02-22,Oklahoma St,74,Texas Tech,69
+2021-02-22,USC,72,Oregon,58
+2021-02-22,Jackson St,63,Grambling,59
+2021-02-22,Louisiana,76,UT Arlington,74
+2021-02-22,Charleston So,78,Presbyterian,77
+2021-02-22,Gardner Webb,69,SC Upstate,58
+2021-02-22,Texas St,57,Arkansas St,52
+2021-02-22,Liberty,74,North Alabama,54
+2021-02-22,N Colorado,89,Warner Pacific,60
+2021-02-23,Ohio,90,Akron,73
+2021-02-23,Baylor,77,Iowa St,72
+2021-02-23,Kansas St,62,Oklahoma,57
+2021-02-23,Georgia Tech,69,Virginia Tech,53
+2021-02-23,Louisville,69,Notre Dame,57
+2021-02-23,Mississippi,60,Missouri,53
+2021-02-23,Georgia,91,LSU,78
+2021-02-23,Florida,74,Auburn,57
+2021-02-23,VCU,67,St Louis,65
+2021-02-23,Connecticut,70,Georgetown,57
+2021-02-23,Villanova,81,St John's,58
+2021-02-23,West Virginia,74,TCU,66
+2021-02-23,Texas,75,Kansas,72
+2021-02-23,Georgia St,85,Appalachian St,71
+2021-02-23,Michigan St,81,Illinois,72
+2021-02-23,Pacific,77,San Diego,67
+2021-02-23,Penn St,86,Nebraska,83
+2021-02-23,Miami OH,96,C Michigan,54
+2021-02-23,Richmond,79,Massachusetts,65
+2021-02-23,Buffalo,102,N Illinois,74
+2021-02-23,Bowling Green,82,E Michigan,69
+2021-02-23,Arizona St,97,Washington,64
+2021-02-23,Campbell,68,High Point,48
+2021-02-23,Prairie View,72,Ark Pine Bluff,56
+2021-02-23,TX Southern,82,MS Valley St,45
+2021-02-23,Liberty,74,North Alabama,54
+2021-02-24,Furman,72,Citadel,63
+2021-02-24,Mercer,81,Chattanooga,77
+2021-02-24,W Carolina,81,UNC Greensboro,80
+2021-02-24,Abilene Chr,86,Sam Houston St,72
+2021-02-24,Arkansas,81,Alabama,66
+2021-02-24,SF Austin,83,Northwestern LA,57
+2021-02-24,McNeese St,95,SE Louisiana,91
+2021-02-24,Lamar,67,Incarnate Word,45
+2021-02-24,Cincinnati,70,Tulsa,69
+2021-02-24,Nicholls St,83,Houston Bap,68
+2021-02-24,Rutgers,74,Indiana,63
+2021-02-24,Memphis,61,Tulane,46
+2021-02-24,Mississippi St,69,South Carolina,48
+2021-02-24,Temple,65,South Florida,47
+2021-02-24,Florida St,88,Miami FL,71
+2021-02-24,New Orleans,69,TAM C. Christi,61
+2021-02-24,Air Force,62,New Mexico,55
+2021-02-24,Tennessee,70,Vanderbilt,58
+2021-02-24,Creighton,77,DePaul,53
+2021-02-24,Providence,83,Xavier,68
+2021-02-24,Fresno St,67,UNLV,64
+2021-02-24,Loyola MD,60,American Univ,49
+2021-02-24,Southern Utah,85,Northern Arizona,80
+2021-02-24,Norfolk St,86,Delaware St,55
+2021-02-24,Holy Cross,86,Boston Univ,75
+2021-02-24,NC A&T,79,NC Central,63
+2021-02-24,Ball St,90,Kent,71
+2021-02-24,NC State,68,Virginia,61
+2021-02-24,Butler,61,Seton Hall,52
+2021-02-24,Southern Univ,73,Alabama A&M,57
+2021-02-24,St Joseph's PA,97,Dayton,84
+2021-02-24,Clemson,60,Wake Forest,39
+2021-02-24,St Bonaventure,56,Davidson,53
+2021-02-24,George Mason,63,G Washington,58
+2021-02-24,Hampton,74,Longwood,68
+2021-02-24,La Salle,85,Duquesne,65
+2021-02-24,Marquette,83,North Carolina,70
+2021-02-24,Alcorn St,68,Alabama St,59
+2021-02-24,Radford,74,Mt Aloysius,51
+2021-02-25,Loy Marymount,81,Pepperdine,74
+2021-02-25,E Kentucky,81,Belmont,67
+2021-02-25,SE Missouri St,94,E Illinois,88
+2021-02-25,Jacksonville St,87,Murray St,74
+2021-02-25,Tennessee Tech,81,Austin Peay,76
+2021-02-25,Morehead St,74,Tennessee St,60
+2021-02-25,SIUE,66,TN Martin,53
+2021-02-25,Montana,64,Idaho St,58
+2021-02-25,N Colorado,66,Portland St,64
+2021-02-25,Weber St,82,CS Sacramento,73
+2021-02-25,Wagner,83,Central Conn,63
+2021-02-25,St Francis NY,84,Merrimack,71
+2021-02-25,Michigan St,71,Ohio St,67
+2021-02-25,Mt St Mary's,72,St Francis PA,65
+2021-02-25,Oregon St,59,California,57
+2021-02-25,UCLA,76,Utah,61
+2021-02-25,F Dickinson,82,Sacred Heart,69
+2021-02-25,Arizona St,80,Washington,72
+2021-02-25,Arizona,69,Washington St,53
+2021-02-25,Oregon,71,Stanford,68
+2021-02-25,San Diego St,78,Boise St,66
+2021-02-25,Colorado,80,USC,62
+2021-02-25,Bryant,87,LIU Brooklyn,80
+2021-02-25,Buffalo,85,C Michigan,73
+2021-02-25,Gonzaga,89,Santa Clara,75
+2021-02-25,BYU,79,San Francisco,73
+2021-02-25,Ohio,86,E Michigan,67
+2021-02-25,Michigan,79,Iowa,57
+2021-02-25,Detroit,83,Robert Morris,73
+2021-02-25,Prairie View,82,MS Valley St,62
+2021-02-25,Youngstown St,74,IL Chicago,58
+2021-02-25,PFW,89,WI Green Bay,84
+2021-02-25,WI Milwaukee,84,IUPUI,72
+2021-02-25,TX Southern,79,Ark Pine Bluff,65
+2021-02-25,Miami OH,74,W Michigan,66
+2021-02-25,St Mary's CA,58,Pacific,46
+2021-02-25,Illinois,86,Nebraska,70
+2021-02-25,Florida A&M,75,S Carolina St,67
+2021-02-25,Northwestern,67,Minnesota,59
+2021-02-25,Houston,81,WKU,57
+2021-02-26,NE Omaha,80,Denver,76
+2021-02-26,S Dakota St,67,Missouri KC,49
+2021-02-26,Utah Valley,78,UTRGV,74
+2021-02-26,New Mexico St,78,Tarleton St,51
+2021-02-26,Appalachian St,84,Ga Southern,78
+2021-02-26,Georgia St,84,South Alabama,81
+2021-02-26,UT Arlington,73,Arkansas St,71
+2021-02-26,UC Irvine,80,UC San Diego,55
+2021-02-26,UC Davis,69,Cal Poly,61
+2021-02-26,CS Bakersfield,84,CS Northridge,58
+2021-02-26,UC Santa Barbara,72,UC Riverside,68
+2021-02-26,Hawaii,78,Long Beach St,76
+2021-02-26,Texas St,58,ULM,49
+2021-02-26,Coastal Car,75,Troy,59
+2021-02-26,Louisiana,66,Ark Little Rock,61
+2021-02-26,Purdue,73,Penn St,52
+2021-02-26,Central Conn,83,Wagner,77
+2021-02-26,Sacred Heart,70,F Dickinson,64
+2021-02-26,FL Atlantic,69,Southern Miss,60
+2021-02-26,Louisiana Tech,101,Rice,57
+2021-02-26,Loyola-Chicago,60,S Illinois,52
+2021-02-26,Merrimack,75,St Francis NY,67
+2021-02-26,Old Dominion,67,MTSU,61
+2021-02-26,St Louis,72,Richmond,67
+2021-02-26,Drake,80,Bradley,71
+2021-02-26,Missouri St,90,Evansville,81
+2021-02-26,Northern Iowa,70,Illinois St,56
+2021-02-26,Seattle,63,Grand Canyon,57
+2021-02-26,Indiana St,58,Valparaiso,43
+2021-02-26,UNLV,68,Fresno St,67
+2021-02-26,Utah St,75,Nevada,72
+2021-02-26,Southern Utah,92,Northern Arizona,62
+2021-02-26,Cincinnati,91,Tulane,71
+2021-02-26,St Peter's,66,Rider,52
+2021-02-26,Bryant,63,LIU Brooklyn,60
+2021-02-26,St Bonaventure,88,G Washington,41
+2021-02-26,North Florida,79,Stetson,74
+2021-02-26,Idaho,74,Montana St,69
+2021-02-26,Siena,74,Manhattan,69
+2021-02-26,Drexel,84,James Madison,78
+2021-02-26,Bowling Green,83,Akron,71
+2021-02-26,North Texas,77,Marshall,65
+2021-02-26,UAB,64,UT San Antonio,57
+2021-02-26,Kennesaw,80,FL Gulf Coast,63
+2021-02-27,Liberty,94,Bellarmine,78
+2021-02-27,Marshall,73,North Texas,72
+2021-02-27,UT San Antonio,96,UAB,79
+2021-02-27,North Alabama,73,Lipscomb,66
+2021-02-27,Montana,59,Idaho St,58
+2021-02-27,Portland St,73,N Colorado,65
+2021-02-27,Weber St,72,CS Sacramento,70
+2021-02-27,Ga Southern,65,Appalachian St,57
+2021-02-27,Georgia St,82,South Alabama,73
+2021-02-27,UT Arlington,64,Arkansas St,56
+2021-02-27,UC Irvine,75,UC San Diego,64
+2021-02-27,UC Davis,68,Cal Poly,66
+2021-02-27,CS Northridge,90,CS Bakersfield,87
+2021-02-27,UC Riverside,68,UC Santa Barbara,52
+2021-02-27,Hawaii,79,Long Beach St,76
+2021-02-27,Texas St,61,ULM,57
+2021-02-27,Coastal Car,76,Troy,71
+2021-02-27,Ark Little Rock,69,Louisiana,59
+2021-02-27,Ball St,97,C Michigan,91
+2021-02-27,UNC Greensboro,85,ETSU,74
+2021-02-27,E Michigan,91,N Illinois,57
+2021-02-27,Kent,64,Miami OH,51
+2021-02-27,Buffalo,86,Ohio,66
+2021-02-27,Old Dominion,73,MTSU,60
+2021-02-27,Toledo,91,W Michigan,44
+2021-02-27,West Virginia,65,Kansas St,43
+2021-02-27,W Carolina,85,Mercer,61
+2021-02-27,Wofford,74,Furman,73
+2021-02-27,TX Southern,86,Alabama St,76
+2021-02-27,Southern Univ,89,Alcorn St,75
+2021-02-27,TCU,76,Iowa St,72
+2021-02-27,Kansas,71,Baylor,58
+2021-02-27,Louisiana Tech,79,Rice,58
+2021-02-27,Jackson St,68,MS Valley St,54
+2021-02-27,Oklahoma St,94,Oklahoma,90
+2021-02-27,FL Atlantic,73,Southern Miss,66
+2021-02-27,Texas Tech,68,Texas,59
+2021-02-27,Prairie View,55,Alabama A&M,54
+2021-02-27,Pepperdine,90,San Diego,84
+2021-02-27,Cent Arkansas,84,Abilene Chr,82
+2021-02-27,Clemson,66,Miami FL,58
+2021-02-27,Morehead St,89,Belmont,82
+2021-02-27,Louisville,80,Duke,73
+2021-02-27,TN Martin,73,E Illinois,68
+2021-02-27,E Kentucky,89,Tennessee St,84
+2021-02-27,North Carolina,78,Florida St,70
+2021-02-27,Florida,71,Kentucky,67
+2021-02-27,Georgia Tech,84,Syracuse,77
+2021-02-27,Arkansas,83,LSU,75
+2021-02-27,Jacksonville St,75,Austin Peay,67
+2021-02-27,Tennessee Tech,71,Murray St,61
+2021-02-27,Nicholls St,105,New Orleans,101
+2021-02-27,South Dakota,80,N Dakota St,71
+2021-02-27,Northwestern LA,79,SE Louisiana,61
+2021-02-27,Boston College,94,Notre Dame,90
+2021-02-27,Oral Roberts,85,W Illinois,81
+2021-02-27,SE Missouri St,69,SIUE,63
+2021-02-27,Lamar,88,SF Austin,83
+2021-02-27,Colorado St,72,Air Force,49
+2021-02-27,Davidson,65,VCU,57
+2021-02-27,South Carolina,91,Georgia,70
+2021-02-27,McNeese St,85,Houston Bap,58
+2021-02-27,Illinois,74,Wisconsin,69
+2021-02-27,Michigan,73,Indiana,57
+2021-02-27,Alabama,64,Mississippi St,59
+2021-02-27,Vanderbilt,75,Mississippi,70
+2021-02-27,San Diego St,62,Boise St,58
+2021-02-27,Virginia Tech,84,Wake Forest,46
+2021-02-27,Oregon,74,California,63
+2021-02-27,Tarleton St,64,New Mexico St,55
+2021-02-27,NE Omaha,80,Denver,76
+2021-02-27,S Dakota St,89,Missouri KC,77
+2021-02-27,Arizona St,77,Washington St,74
+2021-02-27,Arizona,75,Washington,74
+2021-02-27,Utah Valley,73,UTRGV,64
+2021-02-27,Auburn,77,Tennessee,72
+2021-02-27,Loyola-Chicago,65,S Illinois,58
+2021-02-27,UTEP,70,Charlotte,47
+2021-02-27,Oregon St,73,Stanford,62
+2021-02-27,Utah,71,USC,61
+2021-02-27,Connecticut,80,Marquette,62
+2021-02-27,Xavier,77,Creighton,69
+2021-02-27,Georgetown,68,DePaul,60
+2021-02-27,Bradley,67,Drake,61
+2021-02-27,Evansville,72,Missouri St,63
+2021-02-27,Northern Iowa,94,Illinois St,87
+2021-02-27,NC A&T,55,NC Central,53
+2021-02-27,Colorado,70,UCLA,61
+2021-02-27,Grand Canyon,81,Seattle,71
+2021-02-27,Coppin St,81,Delaware St,68
+2021-02-27,Valparaiso,70,Indiana St,58
+2021-02-27,S Carolina St,63,Florida A&M,57
+2021-02-27,Navy,73,Loyola MD,67
+2021-02-27,Rider,78,St Peter's,65
+2021-02-27,American Univ,78,Bucknell,71
+2021-02-27,Boston Univ,75,Army,63
+2021-02-27,Duquesne,86,Rhode Island,75
+2021-02-27,George Mason,89,La Salle,54
+2021-02-27,Lafayette,75,Lehigh,69
+2021-02-27,Nebraska,78,Minnesota,74
+2021-02-27,BYU,65,St Mary's CA,51
+2021-02-27,Gonzaga,86,Loy Marymount,69
+2021-02-27,Pacific,76,San Francisco,69
+2021-02-27,Stetson,85,North Florida,68
+2021-02-27,MA Lowell,64,Stony Brook,62
+2021-02-27,Hartford,77,Binghamton,60
+2021-02-27,SUNY Albany,76,NJIT,66
+2021-02-27,Cal Baptist,78,Vanguard,65
+2021-02-27,Siena,64,Manhattan,56
+2021-02-27,Elon,80,UNC Wilmington,77
+2021-02-27,Hampton,67,Presbyterian,65
+2021-02-27,High Point,65,SC Upstate,60
+2021-02-28,Hartford,83,SUNY Albany,77
+2021-02-28,MA Lowell,72,New Hampshire,64
+2021-02-28,NC State,65,Pittsburgh,62
+2021-02-28,Memphis,80,Cincinnati,74
+2021-02-28,Iowa,73,Ohio St,57
+2021-02-28,Maryland,73,Michigan St,55
+2021-02-28,Houston,98,South Florida,52
+2021-02-28,N Dakota St,89,South Dakota,77
+2021-02-28,Oral Roberts,95,W Illinois,59
+2021-02-28,Coppin St,94,Delaware St,74
+2021-02-28,Butler,73,Villanova,61
+2021-02-28,Utah St,87,Nevada,66
+2021-02-28,Florida A&M,63,S Carolina St,58
+2021-02-28,Navy,66,Loyola MD,58
+2021-02-28,American Univ,81,Bucknell,68
+2021-02-28,Marist,76,Quinnipiac,67
+2021-02-28,Army,57,Boston Univ,55
+2021-02-28,Montana St,71,Idaho,61
+2021-02-28,Lafayette,71,Lehigh,70
+2021-02-28,Norfolk St,72,St Mary's MD,51
+2021-02-28,UTEP,77,Charlotte,62
+2021-02-28,WKU,91,Florida Intl,58
+2021-03-01,Prairie View,70,Alabama St,67
+2021-03-01,Jackson St,64,Ark Pine Bluff,58
+2021-03-01,MS Valley St,67,Grambling,63
+2021-03-01,TX Southern,68,Alabama A&M,58
+2021-03-01,Syracuse,72,North Carolina,70
+2021-03-01,Colorado St,74,Air Force,44
+2021-03-01,Virginia,62,Miami FL,51
+2021-03-01,Lamar,66,TAM C. Christi,47
+2021-03-01,New Orleans,88,Incarnate Word,72
+2021-03-01,SF Austin,79,Cent Arkansas,66
+2021-03-01,Nebraska,72,Rutgers,51
+2021-03-01,Oklahoma St,79,Oklahoma,75
+2021-03-01,St Joseph's PA,76,Richmond,73
+2021-03-01,Oregon,80,Arizona,69
+2021-03-01,Campbell,63,Gardner Webb,57
+2021-03-01,Longwood,77,UNC Asheville,61
+2021-03-01,Dayton,55,St Bonaventure,52
+2021-03-01,WKU,71,Florida Intl,59
+2021-03-01,St Louis,78,Massachusetts,57
+2021-03-01,Sam Houston St,83,Houston Bap,70
+2021-03-01,Marist,65,Quinnipiac,52
+2021-03-01,Winthrop,83,High Point,54
+2021-03-01,Radford,67,Hampton,52
+2021-03-01,Nicholls St,87,Northwestern LA,71
+2021-03-02,Ball St,100,E Michigan,65
+2021-03-02,Miami OH,84,Bowling Green,79
+2021-03-02,Buffalo,80,Akron,78
+2021-03-02,C Michigan,81,Toledo,79
+2021-03-02,W Michigan,73,N Illinois,63
+2021-03-02,Georgia Tech,81,Duke,77
+2021-03-02,Arkansas,101,South Carolina,73
+2021-03-02,Pittsburgh,70,Wake Forest,57
+2021-03-02,LSU,83,Vanderbilt,68
+2021-03-02,Alabama,70,Auburn,58
+2021-03-02,Purdue,73,Wisconsin,69
+2021-03-02,Mississippi,70,Kentucky,62
+2021-03-02,Marquette,77,DePaul,71
+2021-03-02,Georgetown,72,Xavier,66
+2021-03-02,UCF,73,Tulsa,69
+2021-03-02,Wagner,74,Merrimack,67
+2021-03-02,Texas,81,Iowa St,67
+2021-03-02,Texas Tech,69,TCU,49
+2021-03-02,Baylor,94,West Virginia,89
+2021-03-02,Illinois,76,Michigan,53
+2021-03-02,Michigan St,64,Indiana,58
+2021-03-02,Cleveland St,108,PFW,104
+2021-03-02,N Kentucky,70,Detroit,69
+2021-03-02,WI Milwaukee,94,Wright St,92
+2021-03-02,Oakland,87,Youngstown St,83
+2021-03-02,Memphis,73,South Florida,52
+2021-03-02,Fresno St,67,Boise St,64
+2021-03-02,New Mexico St,69,UTRGV,51
+2021-03-03,Cent Arkansas,88,SE Louisiana,71
+2021-03-03,Abilene Chr,63,SF Austin,61
+2021-03-03,Missouri,72,Florida,70
+2021-03-03,Sam Houston St,84,TAM C. Christi,61
+2021-03-03,Mississippi St,63,Texas A&M,57
+2021-03-03,New Orleans,92,Northwestern LA,83
+2021-03-03,Houston Bap,72,Incarnate Word,67
+2021-03-03,Florida St,93,Boston College,64
+2021-03-03,Northwestern,60,Maryland,55
+2021-03-03,Penn St,84,Minnesota,65
+2021-03-03,NC State,80,Notre Dame,69
+2021-03-03,Wichita St,78,Tulane,70
+2021-03-03,Villanova,72,Creighton,60
+2021-03-03,St John's,81,Providence,67
+2021-03-03,Connecticut,69,Seton Hall,58
+2021-03-03,Idaho St,68,E Washington,63
+2021-03-03,Florida A&M,65,NC Central,58
+2021-03-03,Wagner,64,Merrimack,59
+2021-03-03,Syracuse,64,Clemson,54
+2021-03-03,Oregon St,75,Utah,70
+2021-03-03,Oregon,82,UCLA,74
+2021-03-03,USC,79,Stanford,42
+2021-03-03,Colorado St,87,New Mexico,73
+2021-03-03,San Diego St,71,UNLV,62
+2021-03-03,Belmont,78,SIUE,61
+2021-03-03,Morehead St,61,SE Missouri St,54
+2021-03-03,Boston Univ,69,Lehigh,58
+2021-03-03,St Joseph's PA,72,La Salle,66
+2021-03-03,G Washington,53,Fordham,49
+2021-03-03,Louisiana Tech,99,Our Lady Lake,66
+2021-03-04,Grambling,91,Alabama St,68
+2021-03-04,Jackson St,50,Alabama A&M,35
+2021-03-04,Prairie View,68,Southern Univ,61
+2021-03-04,TX Southern,80,Alcorn St,78
+2021-03-04,Weber St,60,N Colorado,59
+2021-03-04,Southern Utah,68,Portland St,58
+2021-03-04,UCF,64,East Carolina,60
+2021-03-04,Manhattan,69,Fairfield,59
+2021-03-04,NC Central,74,Florida A&M,71
+2021-03-04,Monmouth NJ,77,Rider,74
+2021-03-04,Quinnipiac,65,St Peter's,60
+2021-03-04,Texas,69,Oklahoma,65
+2021-03-04,Baylor,81,Oklahoma St,70
+2021-03-04,Colorado,75,Arizona St,61
+2021-03-04,Iowa,102,Nebraska,64
+2021-03-04,FL Atlantic,80,MTSU,50
+2021-03-04,West Virginia,76,TCU,67
+2021-03-04,Texas Tech,81,Iowa St,54
+2021-03-04,Siena,73,Canisius,66
+2021-03-04,Kansas,67,UTEP,62
+2021-03-04,Utah St,72,Wyoming,59
+2021-03-04,Liberty,69,Kennesaw,59
+2021-03-04,North Alabama,68,North Florida,60
+2021-03-04,S Illinois,73,Bradley,63
+2021-03-04,Stetson,73,Bellarmine,70
+2021-03-04,FL Gulf Coast,72,Lipscomb,60
+2021-03-04,Jacksonville St,68,Murray St,65
+2021-03-04,Northern Iowa,65,Illinois St,60
+2021-03-04,E Kentucky,70,Austin Peay,67
+2021-03-04,Michigan,69,Michigan St,50
+2021-03-04,San Francisco,67,San Diego,51
+2021-03-04,Santa Clara,95,Portland,86
+2021-03-04,Tulsa,107,NE Oklahoma,74
+2021-03-04,Duquesne,67,Richmond,62
+2021-03-04,Dayton,84,Rhode Island,72
+2021-03-04,Winthrop,82,Longwood,61
+2021-03-04,Campbell,78,Radford,60
+2021-03-04,Nicholls St,80,McNeese St,67
+2021-03-04,Vanderbilt,78,Cincinnati,64
+2021-03-04,Massachusetts,100,St Joseph's PA,66
+2021-03-04,George Mason,73,G Washington,59
+2021-03-04,UT San Antonio,123,SW Adventist,43
+2021-03-05,Buffalo,81,Kent,67
+2021-03-05,N Illinois,79,C Michigan,74
+2021-03-05,Toledo,89,Ball St,70
+2021-03-05,E Michigan,64,W Michigan,63
+2021-03-05,Georgia Tech,75,Wake Forest,63
+2021-03-05,Utah Valley,59,Grand Canyon,55
+2021-03-05,Seattle,80,Cal Baptist,79
+2021-03-05,Miami FL,80,Boston College,76
+2021-03-05,Tarleton St,65,UTRGV,47
+2021-03-05,Monmouth NJ,65,Rider,62
+2021-03-05,Hawaii,73,UC Davis,68
+2021-03-05,UC Irvine,71,Long Beach St,68
+2021-03-05,UC Riverside,72,CS Northridge,68
+2021-03-05,UC Santa Barbara,71,Cal Poly,57
+2021-03-05,UC San Diego,89,CS Fullerton,85
+2021-03-05,E Washington,75,Idaho St,62
+2021-03-05,New Mexico St,76,Dixie St,66
+2021-03-05,St Peter's,66,Quinnipiac,64
+2021-03-05,Fairfield,85,Manhattan,67
+2021-03-05,Old Dominion,71,WKU,69
+2021-03-05,Canisius,76,Siena,75
+2021-03-05,Nevada,85,Colorado St,82
+2021-03-05,Marshall,75,Charlotte,67
+2021-03-05,UAB,65,North Texas,51
+2021-03-05,Indiana St,53,Evansville,43
+2021-03-05,Citadel,100,W Carolina,86
+2021-03-05,Mercer,87,Samford,59
+2021-03-05,Missouri St,66,Valparaiso,55
+2021-03-05,Arkansas St,62,Ga Southern,58
+2021-03-05,South Alabama,80,ULM,72
+2021-03-05,Appalachian St,67,Ark Little Rock,60
+2021-03-05,Troy,91,UT Arlington,86
+2021-03-05,Morgan St,92,Delaware St,67
+2021-03-05,FL Atlantic,63,MTSU,54
+2021-03-05,Ark Pine Bluff,82,MS Valley St,59
+2021-03-05,Montana St,77,CS Sacramento,75
+2021-03-05,Montana,92,Warner Pacific,61
+2021-03-05,St Bonaventure,75,Duquesne,59
+2021-03-05,Loyola-Chicago,73,S Illinois,49
+2021-03-05,St Louis,86,Massachusetts,72
+2021-03-05,Liberty,77,Stetson,64
+2021-03-05,VCU,73,Dayton,68
+2021-03-05,Davidson,99,George Mason,67
+2021-03-05,North Alabama,96,FL Gulf Coast,81
+2021-03-05,Belmont,72,Jacksonville St,69
+2021-03-05,Loy Marymount,70,San Francisco,66
+2021-03-05,Morehead St,67,E Kentucky,64
+2021-03-05,Santa Clara,81,Pacific,76
+2021-03-05,Rice,80,Our Lady Lake,77
+2021-03-06,CS Sacramento,74,Montana St,73
+2021-03-06,Southern Utah,73,Portland St,54
+2021-03-06,UC Davis,74,Hawaii,66
+2021-03-06,UC Irvine,73,Long Beach St,58
+2021-03-06,UC Riverside,66,CS Northridge,65
+2021-03-06,UC Santa Barbara,70,Cal Poly,54
+2021-03-06,Grambling,80,Alabama A&M,72
+2021-03-06,Jackson St,79,Alabama St,54
+2021-03-06,Prairie View,81,Alcorn St,69
+2021-03-06,TX Southern,80,Southern Univ,74
+2021-03-06,Northwestern LA,79,Cent Arkansas,70
+2021-03-06,North Carolina,91,Duke,73
+2021-03-06,Abilene Chr,85,Incarnate Word,60
+2021-03-06,Notre Dame,83,Florida St,73
+2021-03-06,Virginia,68,Louisville,58
+2021-03-06,New Orleans,81,SE Louisiana,76
+2021-03-06,SF Austin,64,Sam Houston St,59
+2021-03-06,UC San Diego,85,CS Fullerton,78
+2021-03-06,Lamar,60,McNeese St,51
+2021-03-06,TAM C. Christi,94,Houston Bap,70
+2021-03-06,Illinois,73,Ohio St,68
+2021-03-06,Purdue,67,Indiana,58
+2021-03-06,Grand Canyon,74,Utah Valley,64
+2021-03-06,Cal Baptist,79,Seattle,76
+2021-03-06,Tarleton St,69,UTRGV,58
+2021-03-06,Rutgers,77,Minnesota,70
+2021-03-06,Creighton,93,Butler,73
+2021-03-06,Marquette,66,Xavier,59
+2021-03-06,Providence,54,Villanova,52
+2021-03-06,USC,64,UCLA,63
+2021-03-06,Connecticut,98,Georgetown,82
+2021-03-06,New Mexico St,68,Dixie St,56
+2021-03-06,St John's,81,Seton Hall,71
+2021-03-06,WKU,60,Old Dominion,57
+2021-03-06,Wyoming,80,UNLV,69
+2021-03-06,Mississippi,56,Vanderbilt,46
+2021-03-06,Arkansas,87,Texas A&M,80
+2021-03-06,Auburn,78,Mississippi St,71
+2021-03-06,LSU,86,Missouri,80
+2021-03-06,Kentucky,92,South Carolina,64
+2021-03-06,Oklahoma St,85,West Virginia,80
+2021-03-06,Utah,98,Arizona St,59
+2021-03-06,Alabama,89,Georgia,79
+2021-03-06,ETSU,63,Chattanooga,53
+2021-03-06,Elon,69,Towson,48
+2021-03-06,Kansas St,61,Iowa St,56
+2021-03-06,William & Mary,73,UNC Wilmington,60
+2021-03-06,VMI,91,Furman,90
+2021-03-06,Utah St,57,Fresno St,51
+2021-03-06,MA Lowell,79,UMBC,77
+2021-03-06,Bucknell,92,Lafayette,84
+2021-03-06,Army,89,American Univ,66
+2021-03-06,Hartford,71,Vermont,65
+2021-03-06,S Dakota St,84,NE Omaha,71
+2021-03-06,South Dakota,86,W Illinois,69
+2021-03-06,Clemson,77,Pittsburgh,62
+2021-03-06,Loyola MD,76,Navy,68
+2021-03-06,Wichita St,80,South Florida,63
+2021-03-06,Marshall,75,Charlotte,66
+2021-03-06,UAB,65,North Texas,61
+2021-03-06,Bryant,85,Sacred Heart,55
+2021-03-06,Colgate,77,Boston Univ,69
+2021-03-06,Mt St Mary's,66,Wagner,60
+2021-03-06,Delaware St,82,Morgan St,75
+2021-03-06,UNC Greensboro,80,Citadel,72
+2021-03-06,Loyola-Chicago,65,Indiana St,49
+2021-03-06,Drake,71,Missouri St,69
+2021-03-06,Mercer,62,Wofford,61
+2021-03-06,Louisiana,79,South Alabama,68
+2021-03-06,St Bonaventure,71,St Louis,53
+2021-03-06,Georgia St,71,Arkansas St,68
+2021-03-06,Morehead St,86,Belmont,71
+2021-03-06,Coastal Car,86,Troy,68
+2021-03-06,St Mary's CA,52,Loy Marymount,47
+2021-03-06,Appalachian St,76,Texas St,73
+2021-03-06,VCU,64,Davidson,52
+2021-03-06,Pepperdine,78,Santa Clara,70
+2021-03-06,Montana,80,Warner Pacific,62
+2021-03-07,Iowa,77,Wisconsin,73
+2021-03-07,Penn St,66,Maryland,61
+2021-03-07,Michigan St,70,Michigan,64
+2021-03-07,Cincinnati,82,East Carolina,69
+2021-03-07,Houston,67,Memphis,64
+2021-03-07,Oregon,80,Oregon St,67
+2021-03-07,Tennessee,65,Florida,54
+2021-03-07,Hofstra,83,Delaware,75
+2021-03-07,Baylor,88,Texas Tech,73
+2021-03-07,Oral Roberts,76,North Dakota,65
+2021-03-07,Texas,76,TCU,64
+2021-03-07,Drexel,80,Col Charleston,75
+2021-03-07,N Dakota St,69,Missouri KC,65
+2021-03-07,Northwestern,79,Nebraska,78
+2021-03-07,Winthrop,80,Campbell,53
+2021-03-07,Liberty,79,North Alabama,75
+2021-03-07,Loyola-Chicago,75,Drake,65
+2021-03-07,Elon,72,James Madison,71
+2021-03-07,UNC Greensboro,77,ETSU,65
+2021-03-07,Northeastern,63,William & Mary,47
+2021-03-07,Georgia St,84,Louisiana,73
+2021-03-07,Mercer,73,VMI,59
+2021-03-07,Appalachian St,64,Coastal Car,61
+2021-03-08,Cleveland St,71,WI Milwaukee,65
+2021-03-08,Oakland,69,N Kentucky,58
+2021-03-08,Rider,78,Canisius,76
+2021-03-08,Gonzaga,78,St Mary's CA,55
+2021-03-08,BYU,82,Pepperdine,77
+2021-03-08,Elon,76,Hofstra,58
+2021-03-08,Oral Roberts,90,S Dakota St,88
+2021-03-08,UNC Greensboro,69,Mercer,61
+2021-03-08,Appalachian St,80,Georgia St,73
+2021-03-08,Drexel,74,Northeastern,67
+2021-03-08,N Dakota St,79,South Dakota,75
+2021-03-09,Miami FL,79,Pittsburgh,73
+2021-03-09,Duke,86,Boston College,51
+2021-03-09,Iona,72,Quinnipiac,48
+2021-03-09,Long Beach St,85,CS Northridge,63
+2021-03-09,SE Louisiana,71,McNeese St,68
+2021-03-09,Mt St Mary's,73,Bryant,68
+2021-03-09,Notre Dame,80,Wake Forest,77
+2021-03-09,Fairfield,59,Manhattan,58
+2021-03-09,Rice,61,Southern Miss,52
+2021-03-09,Cal Poly,87,CS Fullerton,82
+2021-03-09,Houston Bap,80,Incarnate Word,68
+2021-03-09,Cleveland St,80,Oakland,69
+2021-03-09,Drexel,63,Elon,56
+2021-03-09,Gonzaga,88,BYU,78
+2021-03-09,Oral Roberts,75,N Dakota St,72
+2021-03-10,N Colorado,90,CS Sacramento,83
+2021-03-10,Syracuse,89,NC State,68
+2021-03-10,Northern Arizona,77,Portland St,66
+2021-03-10,Wyoming,111,San Jose St,80
+2021-03-10,Jackson St,74,Ark Pine Bluff,62
+2021-03-10,Georgetown,68,Marquette,49
+2021-03-10,UNLV,80,Air Force,52
+2021-03-10,Montana,69,Idaho,64
+2021-03-10,Loyola MD,67,Army,63
+2021-03-10,Butler,70,Xavier,69
+2021-03-10,UT San Antonio,72,Charlotte,62
+2021-03-10,Fresno St,85,New Mexico,77
+2021-03-10,Colgate,105,Bucknell,75
+2021-03-10,DePaul,70,Providence,62
+2021-03-10,FL Atlantic,76,UTEP,70
+2021-03-10,Prairie View,91,MS Valley St,64
+2021-03-10,Arizona St,64,Washington St,59
+2021-03-10,Minnesota,51,Northwestern,46
+2021-03-10,Kansas St,71,TCU,50
+2021-03-10,Vanderbilt,79,Texas A&M,68
+2021-03-10,Utah,98,Washington,95
+2021-03-10,Penn St,72,Nebraska,66
+2021-03-10,Oklahoma,79,Iowa St,73
+2021-03-10,California,76,Stanford,58
+2021-03-10,North Texas,76,MTSU,56
+2021-03-10,Miami FL,67,Clemson,64
+2021-03-10,Iona,55,Siena,52
+2021-03-10,New Orleans,80,SE Louisiana,63
+2021-03-10,Duke,70,Louisville,56
+2021-03-10,Rice,72,Marshall,68
+2021-03-10,Fairfield,79,Monmouth NJ,60
+2021-03-10,Lamar,62,Houston Bap,52
+2021-03-10,North Carolina,101,Notre Dame,59
+2021-03-11,Toledo,91,Ball St,89
+2021-03-11,Ohio,85,Kent,63
+2021-03-11,Buffalo,74,Miami OH,63
+2021-03-11,Akron,74,Bowling Green,67
+2021-03-11,Seton Hall,77,St John's,69
+2021-03-11,TX Southern,78,Alcorn St,55
+2021-03-11,Montana St,71,Idaho St,63
+2021-03-11,UC Davis,58,CS Bakersfield,56
+2021-03-11,Nevada,89,Boise St,82
+2021-03-11,Morgan St,77,Florida A&M,75
+2021-03-11,Seattle,83,Cal Baptist,66
+2021-03-11,Niagara,67,Marist,62
+2021-03-11,Norfolk St,87,NC Central,58
+2021-03-11,Grambling,72,Southern Univ,67
+2021-03-11,New Mexico St,77,UTRGV,61
+2021-03-11,UC Riverside,62,Hawaii,52
+2021-03-11,Maryland,68,Michigan St,57
+2021-03-11,Oklahoma St,72,West Virginia,69
+2021-03-11,Mississippi St,74,Kentucky,73
+2021-03-11,South Florida,73,Temple,71
+2021-03-11,Tulane,77,Tulsa,70
+2021-03-11,Oregon St,83,UCLA,79
+2021-03-11,Rutgers,61,Indiana,50
+2021-03-11,Missouri,73,Georgia,70
+2021-03-11,UCF,72,East Carolina,62
+2021-03-11,Mississippi,76,South Carolina,59
+2021-03-11,Texas,67,Texas Tech,66
+2021-03-11,St Peter's,75,Rider,60
+2021-03-11,UC Santa Barbara,95,Long Beach St,87
+2021-03-11,UC Irvine,58,Cal Poly,51
+2021-03-11,Virginia,72,Syracuse,69
+2021-03-11,Georgetown,72,Villanova,71
+2021-03-11,Southern Utah,91,N Colorado,83
+2021-03-11,Ohio St,79,Minnesota,75
+2021-03-11,Georgia Tech,70,Miami FL,66
+2021-03-11,Florida,69,Vanderbilt,63
+2021-03-11,Baylor,74,Kansas St,68
+2021-03-11,Oregon,91,Arizona St,73
+2021-03-11,San Diego St,69,Wyoming,66
+2021-03-11,Northwestern LA,82,New Orleans,79
+2021-03-11,Creighton,87,Butler,56
+2021-03-11,WKU,80,UT San Antonio,67
+2021-03-11,Kansas,69,Oklahoma,62
+2021-03-11,UAB,73,Rice,60
+2021-03-11,E Washington,66,Northern Arizona,60
+2021-03-11,USC,91,Utah,85
+2021-03-11,Wisconsin,75,Penn St,74
+2021-03-11,North Carolina,81,Virginia Tech,73
+2021-03-11,Lamar,70,Sam Houston St,69
+2021-03-11,Connecticut,94,DePaul,60
+2021-03-11,Utah St,74,UNLV,53
+2021-03-11,Louisiana Tech,75,FL Atlantic,69
+2021-03-11,North Texas,61,Old Dominion,55
+2021-03-11,Montana,80,Weber St,75
+2021-03-11,Colorado St,72,Fresno St,62
+2021-03-11,Colorado,61,California,58
+2021-03-11,Florida St,1,Duke,0
+2021-03-12,Cincinnati,74,SMU,71
+2021-03-12,Michigan,79,Maryland,66
+2021-03-12,WKU,64,UAB,60
+2021-03-12,Alabama,85,Mississippi St,48
+2021-03-12,Wichita St,68,South Florida,67
+2021-03-12,Ohio St,87,Purdue,78
+2021-03-12,Tennessee,78,Florida,66
+2021-03-12,North Texas,54,Louisiana Tech,48
+2021-03-12,TX Southern,84,Jackson St,81
+2021-03-12,Ohio,87,Toledo,80
+2021-03-12,Morgan St,82,Coppin St,61
+2021-03-12,Iona,70,Niagara,64
+2021-03-12,Nicholls St,88,Northwestern LA,76
+2021-03-12,Georgetown,66,Seton Hall,58
+2021-03-12,Georgia Tech,1,Virginia,0
+2021-03-12,Illinois,90,Rutgers,68
+2021-03-12,Oklahoma St,83,Baylor,74
+2021-03-12,Montana St,80,Southern Utah,77
+2021-03-12,Arkansas,70,Missouri,64
+2021-03-12,Houston,77,Tulane,52
+2021-03-12,Buffalo,81,Akron,74
+2021-03-12,Grand Canyon,81,Seattle,47
+2021-03-12,Fairfield,52,St Peter's,47
+2021-03-12,Oregon St,75,Oregon,64
+2021-03-12,Iowa,62,Wisconsin,57
+2021-03-12,Florida St,69,North Carolina,66
+2021-03-12,UC Santa Barbara,71,UC Davis,55
+2021-03-12,Abilene Chr,93,Lamar,71
+2021-03-12,Creighton,59,Connecticut,56
+2021-03-12,Prairie View,75,Grambling,63
+2021-03-12,San Diego St,77,Nevada,70
+2021-03-12,LSU,76,Mississippi,73
+2021-03-12,Texas,1,Kansas,0
+2021-03-12,E Washington,78,Montana,50
+2021-03-12,Memphis,70,UCF,62
+2021-03-12,New Mexico St,78,Utah Valley,62
+2021-03-12,Colorado,72,USC,70
+2021-03-12,UC Irvine,78,UC Riverside,61
+2021-03-12,Utah St,62,Colorado St,50
+2021-03-13,Hartford,64,MA Lowell,50
+2021-03-13,Norfolk St,71,Morgan St,63
+2021-03-13,Alabama,73,Tennessee,68
+2021-03-13,Ohio St,68,Michigan,67
+2021-03-13,Cincinnati,60,Wichita St,59
+2021-03-13,Illinois,82,Iowa,71
+2021-03-13,LSU,78,Arkansas,71
+2021-03-13,Iona,60,Fairfield,51
+2021-03-13,Houston,76,Memphis,74
+2021-03-13,TX Southern,80,Prairie View,61
+2021-03-13,San Diego St,68,Utah St,57
+2021-03-13,Texas,91,Oklahoma St,86
+2021-03-13,Georgetown,73,Creighton,48
+2021-03-13,Ohio,84,Buffalo,69
+2021-03-13,E Washington,65,Montana St,55
+2021-03-13,Georgia Tech,80,Florida St,75
+2021-03-13,North Texas,61,WKU,57
+2021-03-13,Abilene Chr,79,Nicholls St,45
+2021-03-13,Grand Canyon,74,New Mexico St,56
+2021-03-13,Oregon St,70,Colorado,68
+2021-03-13,UC Santa Barbara,79,UC Irvine,63
+2021-03-14,St Bonaventure,74,VCU,65
+2021-03-14,Colgate,85,Loyola MD,72
+2021-03-14,Alabama,80,LSU,79
+2021-03-14,Houston,91,Cincinnati,54
+2021-03-14,Illinois,91,Ohio St,88
+2021-03-17,Richmond,76,Toledo,66
+2021-03-17,WKU,69,St Mary's CA,67
