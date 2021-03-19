@@ -22,13 +22,13 @@ def runSeason():
     rankings = teams.sort_values(by= 'elo', ascending=False)
     rankings.reset_index(drop = True, inplace = True)
     rankings.index += 1 
-    rankings.to_csv('season_end2.csv')
+    rankings.to_csv('Elo Ratings.csv')
         
 def update_elo(winner_elo, loser_elo, winner_rpi, loser_rpi):
     expected_win = expected_result(winner_elo, loser_elo)
     
     change_in_elo_win = k_factor * (1-expected_win)*(winner_rpi/1000)       #high rpi teams rewarded more for winning
-    change_in_elo_lose =  k_factor * (expected_win)*(1 -(loser_rpi/1000))   #high rpi teams are punished less for losing
+    change_in_elo_lose =  k_factor * (expected_win)*(1 -(loser_rpi/1000))   #low rpi teams  punished more for losing
 
     winner_elo += change_in_elo_win     #update the winner's elo
     loser_elo -= change_in_elo_lose     #update loser's elo
