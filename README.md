@@ -6,7 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [About the Model](#About-the-Model)
+* [About the Model](#about-the-model)
 
 ## General info
 
@@ -29,7 +29,7 @@ $march.runSeason()
 ```
 The csv file will be titled "Elo Ratings.csv" and will be located in the results folder.
 
-
+  
 ## About the Model
 
 We created a variation of an Elo rating system. All teams started with the same rating at the beginning of the season. After each game throughout the season, the team's rating was updated. The severity and direction of the update varied depending on the outcome(W/L), the Elo rating of their opponent, and the team's end of season RPI. To select the head-to-head matchups in the March Madness tournament, we compared the two teams' Elo ratings and picked whichever was higher.  
@@ -45,20 +45,21 @@ The model uses data from two tables.
     *  Their preseason Elo rating. Every teams starts the season at 1500.
     *  Their RPI on 3/18/2021 * 1000 (https://www.teamrankings.com/ncb/rpi/?date=2021-03-18).  The value range is 1-1000.  Any non-DI team in the table was assigned a 1. RPI is a way to factor in the strength of a teams schedule.  More information on how RPI is calculated here: https://en.wikipedia.org/wiki/Rating_percentage_index.  
   
+  
 | Column Name   | Type          | Description | 
 | ------------- | ------------- | ------------|
-| name   | string   | the name of the team |
-| elo | int  |  all initialized at 1500|
-| rpi | int (1-1000) | NCAA RPI score on 3/18/2021|
+| name          | string        | the name of the team |
+| elo           | int           |  all initialized at 1500|
+| rpi           | int (1-1000)  | NCAA RPI score on 3/18/2021|
 
 * [data/2021games](data/2021games.csv)
   *  Located in the data folder, it contains the outcome of of every game in the 2020-2021 season.  A row represents a game.  A game contains a date, a winner and a loser. The game data was found here: https://www.masseyratings.com/scores.php?s=320158&sub=11590&all=1.
   
-| Column Name   | Type          | Description | 
+| Column Name   | Type          | Description |
 | ------------- | ------------- | ------------|
 | date   | string   | day of the game |
 | win_team | string  |  the name of the team that won  |
-| lose_team | string | the name of the team that lost | 
+| lose_team | string | the name of the team that lost |
   
 #### The Calculation:
 * [march.py](march.py)
@@ -69,7 +70,8 @@ The model uses data from two tables.
   * This equation contains the traditional Elo system equation, and pro-rates the amount it changes based on RPI.  A tradition Elo system only changes old_elo by (k * (expected_win)) and (k * (1 - expected_win).  More on a traditional Elo system can be found here: https://en.wikipedia.org/wiki/Elo_rating_system.  A winning team's Elo will always rise after a win.  How much it rises depends on the probability of them winning (expected_win).  Our model also factors in strength of schedule in the form of RPI, pulled from teams.csv and the number does not change throughout this model.  Here, a winning team's Elo is affected greater if their RPI is higher.  On the flipside, a losing team's Elo decreases more if they have a low RPI.
   *  Our variable expected_win is calculated like a traditional Elo system.  It gives the expected probability for an outcome.  A good team will have a higher expected_win against a bad team.  Their opponents probability of winning is (1 - expected_win).  expected_win is calculated as: 
      * expected_win = 1/ [ 1 + 10 ^ (elo_loseing_team - elo_winning_team)/(elo_width)]
-  *  Other variables used are somewhat arbitrary- all Elo scores are relative specifically to this system. The values alues used in this model are:
+  *  Other variables used are somewhat arbitrary- all Elo scores are relative specifically to this system. The values alues used in this model are:  
+  
 | variable   | value          | Description | 
 | ------------- | ------------- | ------------|
 | initial elo   | 1500   | starting point for all teams |
@@ -77,8 +79,16 @@ The model uses data from two tables.
 | elo_width | 400 | TODO | 
 
 #### The Results
-TODO
-   
-   
-
-
+  
+  * 'Elo Ratings.csv'
+    * The results of the Elo rating calculations are put into a csv file.  This file is created after running the runSeason() method in [march.py](march.py).  The teams are sorted by the best Elo rating to the worst. There are three columns:
+  
+| Column        | Type          | Description |
+| ------------- | ------------- | ------------|
+| #1 (unnamed)  | int           | team rank (1 being the best) |
+| team          | string        |  the name of the team  |
+| elo           | double        | the calculated elo rating (no units) |
+  
+  
+  *  [results/bracket.pdf](results/bracket.pdf)
+     * To select the winner of each matchup in the tournament, we compared the team's Elo ratings.  The team with the higher rating won that head-to-head matchup.  This pdf shows the bracket resulting from our methodology. 
