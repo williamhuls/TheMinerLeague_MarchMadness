@@ -2,15 +2,16 @@ import csv
 import pandas as pd
 
 elo_width = 400
-k_factor = 64
-    
+k_factor = 100
+rpi_factor = 50
+
 def runSeason():
     teams = pd.read_csv('data/teams.csv')           #every teams elo score was set at 1500 to begin the season
-    games = pd.read_csv('data/2021games.csv')       #sorted chronologically already
+    games = pd.read_csv('data/2021games-updated.csv')       #sorted chronologically already
 
     for index, row in games.iterrows():
-        winnerName = row['win_team']
-        loserName = row['lose_team']
+        winnerName = row['win_team'].strip()
+        loserName = row['lose_team'].strip()
         winnerIndex = teams.index[teams['name'] == winnerName].tolist()[0]
         loserIndex = teams.index[teams['name'] == loserName].tolist()[0]
 
@@ -22,13 +23,13 @@ def runSeason():
     rankings = teams.sort_values(by= 'elo', ascending=False)
     rankings.reset_index(drop = True, inplace = True)
     rankings.index += 1 
-    rankings.to_csv('results/Elo Ratings.csv')
+    rankings.to_csv('results/Elo Ratings2.csv')
         
 def update_elo(winner_elo, loser_elo, winner_rpi, loser_rpi):
     expected_win = expected_result(winner_elo, loser_elo)
     
-    change_in_elo_win = k_factor * (1-expected_win)*(winner_rpi/1000)       #high rpi teams rewarded more for winning
-    change_in_elo_lose =  k_factor * (expected_win)*(1 -(loser_rpi/1000))   #low rpi teams  punished more for losing
+    change_in_elo_win = k_factor * (1-expected_win) + rpi_factor*(winner_rpi)       #high rpi teams rewarded more for winning
+    change_in_elo_lose =  k_factor * (expected_win) + rpi_factor*(1 -(loser_rpi))   #low rpi teams  punished more for losing
 
     winner_elo += change_in_elo_win     #update the winner's elo
     loser_elo -= change_in_elo_lose     #update loser's elo
